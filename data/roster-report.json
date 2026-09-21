@@ -4,7 +4,7 @@
   "totals": {
     "products": 100,
     "auto": 0,
-    "suggest": 13
+    "suggest": 12
   },
   "auto": [],
   "suggest": [
@@ -12,11 +12,11 @@
       "cat": "search",
       "catName": "AI 搜索",
       "out": {
-        "id": "youcom",
-        "name": "You.com",
+        "id": "felo",
+        "name": "Felo",
         "tier": "watch",
-        "score": 0,
-        "quietWeeks": 1
+        "score": 2,
+        "quietWeeks": 0
       },
       "in": {
         "id": "quark",
@@ -51,21 +51,7 @@
         "id": "recraft",
         "name": "Recraft",
         "tier": "watch",
-        "score": 0,
-        "quietWeeks": 1
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "audio",
-      "catName": "音频语音",
-      "out": {
-        "id": "murf",
-        "name": "Murf",
-        "tier": "watch",
-        "score": 0,
+        "score": 1,
         "quietWeeks": 1
       },
       "in": null,
@@ -93,7 +79,7 @@
         "id": "writesonic",
         "name": "Writesonic",
         "tier": "watch",
-        "score": 0,
+        "score": 1,
         "quietWeeks": 1
       },
       "in": null,
@@ -149,7 +135,7 @@
         "id": "kindroid",
         "name": "Kindroid",
         "tier": "watch",
-        "score": 0,
+        "score": 1,
         "quietWeeks": 1
       },
       "in": null,
@@ -163,7 +149,7 @@
         "id": "nomi",
         "name": "Nomi",
         "tier": "watch",
-        "score": 0,
+        "score": 1,
         "quietWeeks": 1
       },
       "in": null,
@@ -177,7 +163,7 @@
         "id": "hippocratic",
         "name": "Hippocratic AI",
         "tier": "watch",
-        "score": 0,
+        "score": 1,
         "quietWeeks": 1
       },
       "in": null,
