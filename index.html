@@ -12,15 +12,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="css/styles.css" />
+<link rel="stylesheet" href="css/styles.css?v=2" />
 </head>
 <body>
-<div id="progress"></div>
+<a class="skip-link" href="#main">跳转到产品目录</a><div id="progress"></div>
 
 <header class="nav" id="nav">
   <div class="wrap">
-    <a href="#top" class="brand" aria-label="返回顶部"><span class="mark" aria-hidden="true"></span><b data-i18n-html="brand">AI100<span>P</span> · 2026</b></a>
-    <nav class="nav-links" id="navLinks" aria-label="分类导航"></nav>
+    <a href="#top" class="brand" aria-label="返回顶部"><span class="mark" aria-hidden="true"></span><b data-i18n-html="brand">AI100<span>P</span></b></a>
+    <nav class="top-links" aria-label="主导航"><a href="#catalog" data-i18n="navExplore">探索产品</a><a href="#trackNav" data-i18n="navTracks">场景导航</a><a href="roster.html" data-i18n="navUpdates">选品更新 ↗</a></nav><nav id="navLinks" hidden></nav>
     <label class="nav-search" aria-label="搜索产品">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
       <input id="search" type="search" placeholder="搜索 AI 产品…" autocomplete="off" />
@@ -42,14 +42,13 @@
 </aside>
 
 <section class="hero" id="top">
-  <div class="hero-core" aria-hidden="true"></div>
-  <div class="hero-stars" id="heroStars" aria-hidden="true"></div>
-  <div class="wrap">
+
+  <div class="wrap hero-layout">
     <div class="hero-inner">
       <span class="eyebrow stagger"><span class="pulse"></span><span data-i18n="eyebrow">2026 年度精选 · 持续更新</span></span>
-      <h1 class="stagger" data-i18n-html="heroH1">2026 全球热门<br><span class="grad">100 款 AI 产品</span></h1>
-      <p class="sub stagger" data-i18n="heroSub">一份克制而完整的智能工具地图——从对话大模型到图像、视频、音频生成，从编程智能体到垂直行业应用，覆盖当下最值得关注的 AI 产品。</p>
-      <div class="hero-badges stagger" id="heroBadges"></div>
+      <h1 class="stagger" data-i18n-html="heroH1">好用的 AI，<br><span class="grad">从这里发现。</span></h1>
+      <p class="sub stagger" data-i18n="heroSub">从灵感到创造，从日常到专业。精选全球 100 款 AI 产品，帮你找到下一件趁手的工具。</p>
+      <div id="heroBadges" hidden></div>
       <div class="hero-cta stagger">
         <a href="#grp-chat" class="btn btn-primary" id="ctaBrowse"><span data-i18n="ctaBrowse">开始浏览</span>
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
@@ -57,34 +56,33 @@
         <button class="btn btn-ghost" id="ctaRandom" data-i18n="ctaRandom">随机发现一款</button>
       </div>
     </div>
+    <div class="hero-board" aria-label="AI 产品精选"><div class="board-label"><span>THE AI COLLECTION</span><span>2026 EDITION ↗</span></div><div class="board-number" aria-hidden="true">100<span>精选</span></div><div class="hero-stars" id="heroStars"></div><div class="board-foot"><span data-i18n="boardNote">让每一种想法，都有得力工具。</span><span>✳</span></div></div>
   </div>
 </section>
 
 <div class="wrap stats"><div class="stats-grid" id="statsGrid"></div></div>
 
 <div class="wrap track-wrap">
-  <div class="track-head"><h2 data-i18n="trackH2">按任务赛道快速进入</h2><p data-i18n="trackP">把 100 款产品按「你想做什么」归并为 6 条赛道，点击直达</p></div>
+  <div class="track-head"><h2 data-i18n="trackH2">你想用 AI 做什么？</h2><p data-i18n="trackP">从一个任务开始，找到适合你的工具。</p></div>
   <div class="track-nav" id="trackNav"></div>
 </div>
 
-<div class="toolbar" id="toolbar">
-  <div class="wrap">
-    <span class="tb-label" data-i18n="tbGroup">分组</span>
-    <div class="chips seg" id="modeChips"></div>
-    <span class="tb-label" style="margin-left:6px" data-i18n="tbCat">分类</span>
-    <div class="chips" id="catChips"></div>
-    <span class="tb-label" style="margin-left:6px" data-i18n="tbPrice">定价</span>
-    <div class="chips" id="priceChips"></div>
-    <span class="tb-spacer"></span>
-    <span class="tb-count" id="tbCount"></span>
+<section class="wrap catalog" id="catalog">
+  <div class="catalog-heading"><div><span class="kicker">THE DIRECTORY</span><h2 data-i18n="catalogTitle">发现你的下一款工具</h2></div><span class="tb-count" id="tbCount" role="status" aria-live="polite"></span></div>
+  <div class="catalog-layout">
+    <aside class="toolbar" id="toolbar" aria-label="产品筛选">
+      <div class="filter-title"><b data-i18n="filterTitle">筛选产品</b><button id="resetFilters" data-i18n="reset">重置</button></div>
+      <span class="tb-label" data-i18n="tbGroup">浏览方式</span><div class="chips seg" id="modeChips"></div>
+      <span class="tb-label" data-i18n="tbCat">产品分类</span><div class="chips" id="catChips"></div>
+      <span class="tb-label" data-i18n="tbPrice">定价模式</span><div class="chips" id="priceChips"></div>
+      <div class="filter-note"><span>✳</span><p data-i18n="filterNote">精选，而非堆砌。<br>为每个任务找到好工具。</p></div>
+    </aside>
+    <main id="main" tabindex="-1">
+      <div id="sections"></div><div id="results" style="display:none"></div>
+      <div class="empty" id="empty"><div class="em-ic">⌕</div><p data-i18n-html="emptyHtml">没有找到匹配的产品。<br>试试更换关键词，或重置筛选。</p><button class="btn btn-ghost" id="emptyReset" data-i18n="reset">重置</button></div>
+    </main>
   </div>
-</div>
-
-<main class="wrap" id="main">
-  <div id="sections"></div>
-  <div id="results" style="display:none"></div>
-  <div class="empty" id="empty"><div class="em-ic">🔍</div><p data-i18n-html="emptyHtml">没有找到匹配的产品。<br>试试更换关键词，或点击 <b>全部</b> 重置筛选。</p></div>
-</main>
+</section>
 
 <div class="modal-mask" id="modalMask" role="dialog" aria-modal="true" aria-labelledby="modalName"><div class="modal" id="modal"></div></div>
 
@@ -96,7 +94,7 @@
   <div class="wrap">
     <div class="foot-grid">
       <div class="foot-brand">
-        <a href="#top" class="brand"><span class="mark" aria-hidden="true"></span><b data-i18n-html="brand">AI100<span>P</span> · 2026</b></a>
+        <a href="#top" class="brand"><span class="mark" aria-hidden="true"></span><b data-i18n-html="brand">AI100<span>P</span></b></a>
         <p data-i18n="footDesc">精选 2026 年市场上最热门的 100 款 AI 产品，按 12 大分类组织，帮助你快速建立对当下 AI 应用生态的整体认知。</p>
         <div class="foot-note" id="footNote"></div>
       </div>
@@ -111,6 +109,6 @@
 </footer>
 
 <script src="js/data.js"></script>
-<script src="js/app.js"></script>
+<script src="js/app.js?v=2"></script>
 </body>
 </html>

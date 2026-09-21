@@ -376,15 +376,9 @@ const html = `<!DOCTYPE html>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>AI100P · 选品更新</title>
-<link rel="stylesheet" href="css/styles.css"/>
-<style>
-  .roster{max-width:980px;margin:0 auto;padding:100px 24px 60px}
-  .roster h1{font-size:28px;margin-bottom:8px}
-  .roster table{width:100%;border-collapse:collapse;font-size:14px;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
-  .roster th,.roster td{padding:12px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line-2)}
-  .roster th{font-size:12px;color:var(--muted);font-weight:600}
-  .note{color:var(--muted);font-size:14px;margin:8px 0 22px;line-height:1.7}
-</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%232E6E6A'/%3E%3Ccircle cx='22' cy='22' r='7' fill='%23fff'/%3E%3Ccircle cx='42' cy='42' r='4' fill='%23C0392B'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="css/styles.css?v=2"/>
+
 </head>
 <body>
 <header class="nav solid"><div class="wrap"><a href="index.html" class="brand"><span class="mark"></span><b>AI100<span>P</span> · 选品更新</b></a></div></header>
@@ -392,11 +386,11 @@ const html = `<!DOCTYPE html>
   <h1>选品更新</h1>
   <p class="note">更新于 ${today}${dry ? "（演练，未写入名单）" : ""}。观察档在信号差距足够大时会自动 1 换 1；靠前 / 中间档只出现在建议里，避免名单每周抖动。</p>
   <h2 style="font-size:18px;margin:28px 0 12px">本周自动替换（${auto.length}）</h2>
-  <table><thead><tr><th>分类</th><th>移出</th><th>纳入</th><th>状态</th><th>原因</th></tr></thead>
-  <tbody>${auto.length ? auto.map((s) => rowHTML(s, true)).join("") : "<tr><td colspan=5>本周没有达到自动替换门槛，名单保持稳定。</td></tr>"}</tbody></table>
+  <div class="table-scroll"><table><thead><tr><th>分类</th><th>移出</th><th>纳入</th><th>状态</th><th>原因</th></tr></thead>
+  <tbody>${auto.length ? auto.map((s) => rowHTML(s, true)).join("") : "<tr><td colspan=5>本周没有达到自动替换门槛，名单保持稳定。</td></tr>"}</tbody></table></div>
   <h2 style="font-size:18px;margin:32px 0 12px">建议换人清单（${report.suggest.length}）</h2>
-  <table><thead><tr><th>分类</th><th>可考虑移出</th><th>可考虑纳入</th><th>状态</th><th>原因</th></tr></thead>
-  <tbody>${report.suggest.length ? report.suggest.map((s) => rowHTML(s, false)).join("") : "<tr><td colspan=5>暂无建议。</td></tr>"}</tbody></table>
+  <div class="table-scroll"><table><thead><tr><th>分类</th><th>可考虑移出</th><th>可考虑纳入</th><th>状态</th><th>原因</th></tr></thead>
+  <tbody>${report.suggest.length ? report.suggest.map((s) => rowHTML(s, false)).join("") : "<tr><td colspan=5>暂无建议。</td></tr>"}</tbody></table></div>
   <p class="note" style="margin-top:28px">${report.rules.map((r) => "· " + r).join("<br/>")}</p>
   <p class="note"><a href="index.html">返回 AI100P</a></p>
 </main>

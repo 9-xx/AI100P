@@ -22,13 +22,13 @@ const catMap=Object.fromEntries(CATEGORIES.map(c=>[c.id,c]));
 /* ===== 中英文双语：界面 / 分类 / 赛道（产品定位与介绍保持中文）===== */
 let lang='zh';
 const I18N={
- zh:{brand:'AI100<span>P</span> · 2026', searchPh:'搜索 AI 产品…', eyebrow:'2026 年度精选 · 持续更新',
-   heroH1:'2026 全球热门<br><span class="grad">100 款 AI 产品</span>',
-   heroSub:'一份克制而完整的智能工具地图——从对话大模型到图像、视频、音频生成，从编程智能体到垂直行业应用，覆盖当下最值得关注的 AI 产品。',
+ zh:{navExplore:'探索产品',navTracks:'场景导航',navUpdates:'选品更新 ↗',catalogTitle:'发现你的下一款工具',filterTitle:'筛选产品',reset:'重置',filterNote:'精选，而非堆砌。为每个任务找到好工具。',boardNote:'让每一种想法，都有得力工具。',brand:'AI100<span>P</span>', searchPh:'搜索 AI 产品…', eyebrow:'2026 年度精选 · 持续更新',
+   heroH1:'好用的 AI，<br><span class="grad">从这里发现。</span>',
+   heroSub:'从灵感到创造，从日常到专业。精选全球 100 款 AI 产品，帮你找到下一件趁手的工具。',
    ctaBrowse:'开始浏览', ctaRandom:'随机发现一款', drawerAll:'全部分类',
-   trackH2:'按任务赛道快速进入', trackP:'把 100 款产品按「你想做什么」归并为 6 条赛道，点击直达',
-   tbGroup:'分组', tbCat:'分类', tbPrice:'定价', mode12:'12 细分', mode6:'6 大赛道', priceAll:'全部',
-   emptyHtml:'没有找到匹配的产品。<br>试试更换关键词，或点击 <b>全部</b> 重置筛选。',
+   trackH2:'你想用 AI 做什么？', trackP:'从一个任务开始，找到适合你的工具。',
+   tbGroup:'浏览方式', tbCat:'产品分类', tbPrice:'定价模式', mode12:'12 细分', mode6:'6 大赛道', priceAll:'全部',
+   emptyHtml:'没有找到匹配的产品。<br>试试更换关键词，或重置筛选。',
    mPricing:'定价模式', mCat:'所属分类', mCompany:'开发公司', mVisit:'访问官网', mClose:'关闭',
    tlHead:'版本与里程碑', tlSub:'关键节点 · 精确日期以官网为准',
    newsHead:'本周资讯', newsSub:'每周更新 · 点击查看原文', newsG:'Google 资讯 · 近一周', newsB:'Bing 资讯', newsO:'官方动态',
@@ -41,13 +41,13 @@ const I18N={
    statProducts:'精选 AI 产品', statCats:'热门赛道分类', statGen:'生成式 AI 占比', statFree:'可免费体验',
    uItem:'款', uCat:'类', secProducts:'款产品', secN:'款', total(n){return `共 <b>${n}</b> 款 · 12 大分类`;}, match(n){return `匹配 <b>${n}</b> 款产品`;},
    badges:[['12','大分类'],['100','款产品'],['52%','生成式'],['持续','更新']]},
- en:{brand:'AI100<span>P</span> · 2026', searchPh:'Search AI products…', eyebrow:'2026 Selection · Updated regularly',
-   heroH1:'2026&rsquo;s Most Popular<br><span class="grad">100 AI Products</span>',
-   heroSub:'A restrained yet complete map of today&rsquo;s smartest tools — from chat LLMs to image, video and audio generation, from coding agents to vertical-industry apps.',
+ en:{navExplore:'Explore',navTracks:'Use cases',navUpdates:'Updates ↗',catalogTitle:'Find your next great tool',filterTitle:'Filters',reset:'Reset',filterNote:'Carefully selected. A great tool for every task.',boardNote:'Good tools for every great idea.',brand:'AI100<span>P</span>', searchPh:'Search AI products…', eyebrow:'2026 Selection · Updated regularly',
+   heroH1:'Great AI.<br><span class="grad">Found here.</span>',
+   heroSub:'From everyday work to your next big idea. Discover 100 carefully selected AI products and find the right tool for you.',
    ctaBrowse:'Browse', ctaRandom:'Surprise me', drawerAll:'All categories',
-   trackH2:'Jump in by task track', trackP:'100 products grouped into 6 tracks by what you want to do — click to jump in',
+   trackH2:'What will you create?', trackP:'Start with a task. Find the tools to make it happen.',
    tbGroup:'Group', tbCat:'Category', tbPrice:'Pricing', mode12:'12 Categories', mode6:'6 Tracks', priceAll:'All',
-   emptyHtml:'No matching products.<br>Try a different keyword, or click <b>All</b> to reset.',
+   emptyHtml:'No matching products.<br>Try a different keyword, or reset the filters.',
    mPricing:'Pricing', mCat:'Category', mCompany:'Company', mVisit:'Visit site', mClose:'Close',
    tlHead:'Versions & milestones', tlSub:'Key milestones — verify exact dates on the official site',
    newsHead:'Weekly news', newsSub:'Updated weekly — click to read the source', newsG:'Google News · Past week', newsB:'Bing News', newsO:'Official updates',
@@ -166,8 +166,8 @@ function buildNav(){
 }
 function buildCatChips(){
   const cc=$('#catChips');cc.innerHTML='';
-  const all=document.createElement('button');all.className='chip'+(state.cat==='全部'?' active':'');all.dataset.cat='全部';all.textContent=t('priceAll');cc.appendChild(all);
-  GROUPS.forEach(g=>{const b=document.createElement('button');b.className='chip'+(state.cat===g.id?' active':'');b.dataset.cat=g.id;b.textContent=gShort(g);cc.appendChild(b);});
+  const all=document.createElement('button');all.className='chip'+(state.cat==='全部'?' active':'');all.dataset.cat='全部';all.innerHTML=`<span>${t('priceAll')}</span><small>${PRODUCTS.length}</small>`;cc.appendChild(all);
+  GROUPS.forEach(g=>{const b=document.createElement('button');b.className='chip'+(state.cat===g.id?' active':'');b.dataset.cat=g.id;b.innerHTML=`<span>${esc(gShort(g))}</span><small>${PRODUCTS.filter(p=>g.members.includes(p.cat)).length}</small>`;cc.appendChild(b);});
 }
 function renderSections(){
   const root=$('#sections');root.innerHTML='';
@@ -182,7 +182,7 @@ function renderSections(){
       body=`<div class="grid">${list.map(cardHTML).join('')}</div>`;
     }
     const sec=document.createElement('section');sec.className='section';sec.id='grp-'+g.id;
-    sec.innerHTML=`<div class="banner reveal">${bannerArt(g)}
+    sec.innerHTML=`<div class="banner">
         <div class="banner-ico" style="color:${g.accent}">${icon(g.icon,g.accent)}</div>
         <div class="banner-txt"><h2>${esc(gName(g))}</h2><p class="desc">${esc(gDesc(g))}</p>
           <span class="meta" style="background:${g.accent}">${list.length} ${t('secProducts')}</span></div></div>${body}`;
@@ -192,13 +192,13 @@ function renderSections(){
 function renderGrouping(){
   GROUPS=normGroups();groupMembers={};GROUPS.forEach(g=>groupMembers[g.id]=new Set(g.members));
   buildNav();buildCatChips();renderSections();observeReveals();
-  const cta=$('#ctaBrowse');if(cta)cta.setAttribute('href','#grp-'+GROUPS[0].id);
+  const cta=$('#ctaBrowse');if(cta)cta.setAttribute('href','#catalog');
 }
 function setMode(m){
   if(state.mode===m)return;state.mode=m;state.cat='全部';
   $$('#modeChips .chip').forEach(x=>x.classList.toggle('active',x.dataset.mode===m));
   renderGrouping();applyFilter();
-  const tb=$('#toolbar');if(tb)window.scrollTo({top:tb.offsetTop-70,behavior:reduceMotion?'auto':'smooth'});
+  const tb=$('#toolbar');if(tb)window.scrollTo({top:$('#catalog').offsetTop-84,behavior:reduceMotion?'auto':'smooth'});
 }
 function navigateToCat(catId){
   if(state.mode!=='12')setMode('12');
@@ -214,8 +214,8 @@ function buildTrackNav(){
     const subs=tr.members.map(id=>gShort(catMap[id])).join(' · ');
     return `<button class="track-card" data-track="${tr.id}" style="--cc:${tr.accent}" aria-label="${esc(gName(tr))}">
       <span class="tc-ico">${icon(tr.icon,'#fff')}</span>
-      <span class="tc-body"><b>${esc(gName(tr))}</b><span class="tc-sub">${esc(subs)}</span></span>
-      <span class="tc-n">${n}</span></button>`;
+      <span class="tc-body"><b>${esc(gShort(tr))}</b><span class="tc-sub">${esc(subs)}</span></span>
+      <span class="tc-n">${n} <span aria-hidden="true">↗</span></span></button>`;
   }).join('');
 }
 function gotoTrack(tid){
@@ -228,17 +228,10 @@ function gotoTrack(tid){
 function buildBadges(){const badges=$('#heroBadges');if(!badges)return;badges.innerHTML='';
   t('badges').forEach(([n,lab])=>{const s=document.createElement('span');s.className='hero-badge';s.innerHTML='<b>'+n+'</b> '+lab;badges.appendChild(s);});}
 function buildHero(){
-  const stars=$('#heroStars');const W=window.innerWidth;const pick=W<680?14:(W<1100?22:34);
-  const sample=[...PRODUCTS].sort(()=>Math.random()-.5).slice(0,pick);
-  sample.forEach(p=>{
-    const el=document.createElement('div');el.className='star-tile';el.style.setProperty('--cc',p.accent);
-    const sz=W<680?34:(38+Math.round(Math.random()*16));
-    el.style.width=el.style.height=sz+'px';el.style.left=(Math.random()*96)+'%';el.style.top=(Math.random()*100)+'%';
-    el.style.animationDuration=(9+Math.random()*9).toFixed(1)+'s';el.style.animationDelay=(-Math.random()*9).toFixed(1)+'s';
-    el.innerHTML=logoTag(p);const ab=el.querySelector('.abbr');if(ab)ab.style.fontSize=Math.max(10,Math.round(sz*.32))+'px';
-    stars.appendChild(el);
-    requestAnimationFrame(()=>{el.style.transition='opacity 1.2s ease';el.style.opacity=reduceMotion?.55:(.45+Math.random()*.4);});
-  });
+  const stars=$('#heroStars');
+  const ids=['chatgpt','claude','gemini','midjourney','cursor','notion','perplexity','suno'];
+  stars.innerHTML=ids.map(id=>PRODUCTS.find(p=>p.id===id)).filter(Boolean).map(p=>`<button class="hero-product" data-id="${p.id}" aria-label="${esc(p.name)}"><span class="badge" style="--cc:${p.accent}">${logoTag(p)}</span><span>${esc(p.name)}</span></button>`).join('');
+  stars.addEventListener('click',e=>{const b=e.target.closest('[data-id]');if(b)openModal(b.dataset.id);});
 }
 function buildStats(immediate){
   const total=PRODUCTS.length;const free=PRODUCTS.filter(p=>/免费|开源/.test(p.pricing)).length;
@@ -294,6 +287,7 @@ function matches(p){
 }
 function filterActive(){return state.cat!=='全部'||state.price!=='全部'||state.q.trim()!=='';}
 function applyFilter(){
+  $$('.toolbar .chip').forEach(b=>b.setAttribute('aria-pressed',String(b.classList.contains('active'))));
   const tbCount=$('#tbCount');
   if(!filterActive()){sectionsEl.style.display='';resultsEl.style.display='none';emptyEl.classList.remove('show');
     tbCount.innerHTML=t('total')(PRODUCTS.length);return;}
@@ -312,7 +306,7 @@ function applyFilter(){
 }
 let searchT;
 $('#search').addEventListener('input',e=>{clearTimeout(searchT);searchT=setTimeout(()=>{state.q=e.target.value.trim();applyFilter();
-  if(filterActive())window.scrollTo({top:$('#toolbar').offsetTop-70,behavior:reduceMotion?'auto':'smooth'});},180);});
+  if(filterActive())window.scrollTo({top:$('#catalog').offsetTop-84,behavior:reduceMotion?'auto':'smooth'});},180);});
 
 const modalMask=$('#modalMask'),modalEl=$('#modal');let lastFocus=null;let curModalId=null;
 function openModal(id){const p=PRODUCTS.find(x=>x.id===id);if(!p)return;const c=catMap[p.cat];lastFocus=document.activeElement;curModalId=id;
@@ -376,7 +370,7 @@ function buildFooter(){
   const cols=$('#footCols');cols.innerHTML='';const groups=[CATEGORIES.slice(0,6),CATEGORIES.slice(6)];
   groups.forEach((g,i)=>{const col=document.createElement('div');col.className='foot-col';
     col.innerHTML=`<h5>${i===0?t('footHot'):t('footMore')}</h5>`+g.map(c=>`<a href="#grp-${c.id}" data-cat="${c.id}">${esc(gShort(c))}</a>`).join('');cols.appendChild(col);});
-  const today=new Date();
+  const today=new Date(CATALOG.META.updatedAt+'T12:00:00');
   $('#footNote').innerHTML= lang==='en'
     ? `Updated ${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}. Curated by category in rough tiers — no public ranking. Scale signals from AICPB and QuestMobile; news from official sites. Confirm details on each product site.`
     : `数据更新于 ${today.getFullYear()} 年 ${today.getMonth()+1} 月。按分类精选、分档陈列，不展示名次。规模参考 AICPB、QuestMobile 等公开榜单；资讯来自各产品官网与公开新闻。具体能力与定价请以官网为准。`;
@@ -392,6 +386,19 @@ function applyLang(){
   if(curModalId&&modalMask.classList.contains('open'))openModal(curModalId);
 }
 function toggleLang(){lang=lang==='zh'?'en':'zh';applyLang();}
+function resetFilters(){
+  clearTimeout(searchT);state.cat='全部';state.price='全部';state.q='';$('#search').value='';
+  buildCatChips();buildPriceChips();applyFilter();
+}
+$('#resetFilters').addEventListener('click',resetFilters);
+$('#emptyReset').addEventListener('click',resetFilters);
+document.addEventListener('keydown',e=>{
+  if(e.key==='Tab'&&modalMask.classList.contains('open')){
+    const nodes=$$('a[href],button',modalEl);const first=nodes[0],last=nodes[nodes.length-1];
+    if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}
+    else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}
+  }
+});
 buildHero();buildBadges();buildStats(false);buildTrackNav();buildToolbar();buildFooter();renderGrouping();applyFilter();observeStats();onScroll();
 $('#trackNav').addEventListener('click',e=>{const b=e.target.closest('.track-card');if(b)gotoTrack(b.dataset.track);});
 $('#footCols').addEventListener('click',e=>{const a=e.target.closest('a[data-cat]');if(a){e.preventDefault();navigateToCat(a.dataset.cat);}});
