@@ -1,0 +1,208 @@
+{
+  "updatedAt": "2026-09-21",
+  "dryRun": false,
+  "totals": {
+    "products": 100,
+    "auto": 0,
+    "suggest": 13
+  },
+  "auto": [],
+  "suggest": [
+    {
+      "cat": "search",
+      "catName": "AI 搜索",
+      "out": {
+        "id": "youcom",
+        "name": "You.com",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": {
+        "id": "quark",
+        "name": "夸克",
+        "origin": "bench",
+        "score": 22,
+        "evidence": "国内 App 月活长期前三，应进入靠前档，不宜静默塞进观察档。",
+        "desiredTier": "lead"
+      },
+      "auto": false,
+      "why": "候选属于靠前/中间档，不能静默塞进观察档"
+    },
+    {
+      "cat": "chat",
+      "catName": "对话式 AI",
+      "out": null,
+      "in": {
+        "id": "yuanbao",
+        "name": "腾讯元宝",
+        "origin": "bench",
+        "score": 22,
+        "evidence": "国内对话助手第一梯队，替换须动中间/靠前档，只进建议清单。",
+        "desiredTier": "lead"
+      },
+      "auto": false,
+      "why": "该分类没有观察档席位，不能无人值守换人"
+    },
+    {
+      "cat": "image",
+      "catName": "图像生成",
+      "out": {
+        "id": "recraft",
+        "name": "Recraft",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "audio",
+      "catName": "音频语音",
+      "out": {
+        "id": "murf",
+        "name": "Murf",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "audio",
+      "catName": "音频语音",
+      "out": {
+        "id": "tianyin",
+        "name": "网易天音",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 2
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "writing",
+      "catName": "AI 写作",
+      "out": {
+        "id": "writesonic",
+        "name": "Writesonic",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "design",
+      "catName": "AI 设计",
+      "out": {
+        "id": "looka",
+        "name": "Looka",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 2
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "design",
+      "catName": "AI 设计",
+      "out": {
+        "id": "designsai",
+        "name": "Designs.ai",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 2
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "agent",
+      "catName": "AI 智能体",
+      "out": {
+        "id": "autoglm",
+        "name": "智谱 AutoGLM",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 2
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "companion",
+      "catName": "AI 陪伴",
+      "out": {
+        "id": "kindroid",
+        "name": "Kindroid",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "companion",
+      "catName": "AI 陪伴",
+      "out": {
+        "id": "nomi",
+        "name": "Nomi",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "vertical",
+      "catName": "垂直行业",
+      "out": {
+        "id": "hippocratic",
+        "name": "Hippocratic AI",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "vertical",
+      "catName": "垂直行业",
+      "out": {
+        "id": "bloomberggpt",
+        "name": "BloombergGPT",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 2
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    }
+  ],
+  "rules": [
+    "只自动替换观察档；靠前 / 中间档只进建议清单",
+    "同分类 1 换 1，每周最多 3 个，同一分类 21 天内不连换",
+    "必须「观察档连续偏弱」且「候选明显更强」才自动换",
+    "分类不确定、或候选本应靠前的产品（如夸克、元宝）绝不静默写入"
+  ]
+}

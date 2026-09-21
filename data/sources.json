@@ -1,0 +1,119 @@
+{
+  "news": {
+    "cadence": "weekly",
+    "writeOrder": ["official", "googleNews", "hackerNews", "cnMedia"],
+    "rules": [
+      "时间线只采官方 changelog / 新闻稿",
+      "资讯标题须匹配产品名或 aliases",
+      "每款最多 5 条，按时间倒序去重",
+      "媒体里的定价传闻只进资讯，不改卡片定价"
+    ],
+    "sources": [
+      {
+        "id": "official-rss",
+        "layer": "official",
+        "name": "产品官方 RSS / changelog",
+        "access": "rss",
+        "notes": "OpenAI、DeepMind、Hugging Face、微软等已有 RSS；Anthropic 无官方 RSS，走页面或检索兜底"
+      },
+      {
+        "id": "google-news",
+        "layer": "official",
+        "name": "Google News RSS",
+        "access": "rss",
+        "url": "https://news.google.com/rss/search?q={query}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "query": "{name} AI"
+      },
+      {
+        "id": "hn-algolia",
+        "layer": "community",
+        "name": "Hacker News Algolia",
+        "access": "api",
+        "url": "https://hn.algolia.com/api/v1/search_by_date",
+        "notes": "编程 / Agent / 搜索强；国内 C 端弱"
+      },
+      {
+        "id": "cn-media",
+        "layer": "media",
+        "name": "机器之心 · 36氪 · 量子位",
+        "access": "rss",
+        "feeds": [
+          "https://www.jiqizhixin.com/rss",
+          "https://36kr.com/feed",
+          "https://www.qbitai.com/feed"
+        ]
+      }
+    ]
+  },
+  "roster": {
+    "cadence": { "lead": "monthly", "core": "monthly", "watch": "weekly" },
+    "display": {
+      "showRank": false,
+      "showScore": false,
+      "showTierLabel": false,
+      "sortByTier": true,
+      "stableWithinTier": true
+    },
+    "tiers": {
+      "lead": "靠前，无故不出局，同类互换名次也不重排卡片",
+      "core": "中间，按月看规模与动量，同档保持上次顺序",
+      "watch": "靠后，按周可提名换人，最多加新上标记"
+    },
+    "sources": [
+      {
+        "id": "aicpb",
+        "seat": ["lead", "core"],
+        "name": "AICPB 产品榜",
+        "cadence": "monthly",
+        "notes": "App MAU 与网站月访问分榜；引用需署名，不转载完整数字"
+      },
+      {
+        "id": "questmobile",
+        "seat": ["lead"],
+        "name": "QuestMobile AI App 报告",
+        "cadence": "monthly",
+        "notes": "无开放 API，从公开月报抽取国内锚定产品"
+      },
+      {
+        "id": "similarweb-public",
+        "seat": ["lead"],
+        "name": "Similarweb 公开 AI 类目",
+        "cadence": "monthly",
+        "notes": "只交叉验证全球 Web 头部"
+      },
+      {
+        "id": "product-hunt",
+        "seat": ["watch"],
+        "name": "Product Hunt GraphQL v2",
+        "cadence": "weekly",
+        "access": "api-token",
+        "notes": "观察档主源，不能单独决定 AI100P 入选"
+      },
+      {
+        "id": "auto-roster",
+        "seat": ["watch"],
+        "name": "观察档自动换人",
+        "cadence": "weekly",
+        "notes": "仅当观察档连续偏弱且候选信号明显更强时 1 换 1；靠前/中间档只写建议清单。每周最多 3 个，同分类 21 天冷却。"
+      },
+      {
+        "id": "hf-trending",
+        "seat": ["watch"],
+        "name": "Hugging Face Trending",
+        "cadence": "weekly",
+        "access": "api",
+        "url": "https://huggingface.co/api/trending",
+        "notes": "仅服务图像 / 音频 / 开源向产品"
+      }
+    ],
+    "excludeAsPrimary": [
+      "LMSYS Arena",
+      "Artificial Analysis",
+      "CB Insights AI 100",
+      "Sequoia AI 50",
+      "There's An AI For That",
+      "Toolify",
+      "SeekTool"
+    ]
+  }
+}

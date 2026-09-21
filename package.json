@@ -1,0 +1,16 @@
+{
+  "name": "ai100p",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "build:app": "node scripts/compose-app.mjs",
+    "build:logos": "node scripts/build-logos.mjs",
+    "update:news": "node scripts/update-news.mjs && node scripts/build-data.mjs",
+    "update:roster": "node scripts/update-roster.mjs && node scripts/build-data.mjs",
+    "update:weekly": "bash scripts/weekly.sh",
+    "schedule:install": "bash scripts/install-local-weekly.sh",
+    "schedule:uninstall": "bash scripts/install-local-weekly.sh --uninstall",
+    "start": "python3 -m http.server 4173"
+  }
+}

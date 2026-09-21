@@ -1,0 +1,134 @@
+[
+  {
+    "id": "chat",
+    "name": "对话式 AI · 通用大模型助手",
+    "short": "对话式 AI",
+    "gen": true,
+    "accent": "#2E6E6A",
+    "desc": "能听会写、能推理会编程的通用智能助手，是大多数人接触 AI 的第一入口。",
+    "name_en": "Chat AI · LLM Assistants",
+    "short_en": "Chat AI",
+    "desc_en": "General-purpose assistants that talk, write, reason and code — most people's first taste of AI."
+  },
+  {
+    "id": "coding",
+    "name": "AI 编程 · 开发",
+    "short": "AI 编程",
+    "gen": false,
+    "accent": "#3F6B8C",
+    "desc": "从代码补全到自主修改整个仓库，AI 正在重塑软件开发的方式与效率。",
+    "name_en": "AI Coding · Development",
+    "short_en": "Coding",
+    "desc_en": "From autocomplete to autonomously editing whole repos, AI is reshaping how software is built."
+  },
+  {
+    "id": "image",
+    "name": "AI 图像生成 · 编辑",
+    "short": "图像生成",
+    "gen": true,
+    "accent": "#B5763B",
+    "desc": "输入一句话即可生成或精修图像，覆盖插画、摄影、设计与商业出图。",
+    "name_en": "AI Image Generation",
+    "short_en": "Image",
+    "desc_en": "Generate or refine images from a prompt — illustration, photography, design and commercial art."
+  },
+  {
+    "id": "video",
+    "name": "AI 视频生成 · 编辑",
+    "short": "视频生成",
+    "gen": true,
+    "accent": "#8C5B7A",
+    "desc": "文生视频与数字人正快速逼近影视级质感，重塑短视频与内容生产。",
+    "name_en": "AI Video Generation",
+    "short_en": "Video",
+    "desc_en": "Text-to-video and digital humans are nearing cinematic quality, reshaping content creation."
+  },
+  {
+    "id": "audio",
+    "name": "AI 音频 · 语音 · 音乐",
+    "short": "音频语音",
+    "gen": true,
+    "accent": "#4E7C59",
+    "desc": "一句歌词成曲、一段文字成声，音乐创作与配音门槛被彻底拉低。",
+    "name_en": "AI Audio · Voice · Music",
+    "short_en": "Audio",
+    "desc_en": "A line of lyrics becomes a song, text becomes speech — music and voiceover for everyone."
+  },
+  {
+    "id": "search",
+    "name": "AI 搜索 · 知识问答",
+    "short": "AI 搜索",
+    "gen": false,
+    "accent": "#B0563F",
+    "desc": "带引用、能追问的答案引擎，正逐步取代传统的关键词搜索体验。",
+    "name_en": "AI Search · Q&A",
+    "short_en": "Search",
+    "desc_en": "Answer engines with citations and follow-ups, gradually replacing keyword search."
+  },
+  {
+    "id": "writing",
+    "name": "AI 写作 · 内容创作",
+    "short": "AI 写作",
+    "gen": true,
+    "accent": "#7A6A3F",
+    "desc": "营销文案、长文润色、语法校对，让内容生产更快也更稳。",
+    "name_en": "AI Writing",
+    "short_en": "Writing",
+    "desc_en": "Marketing copy, long-form polishing and grammar checks — content, faster and steadier."
+  },
+  {
+    "id": "office",
+    "name": "AI 办公 · 生产力 · 协作",
+    "short": "AI 办公",
+    "gen": false,
+    "accent": "#486A7E",
+    "desc": "嵌入文档、会议、表格的智能副驾，把繁琐流程交给 AI 处理。",
+    "name_en": "AI Office · Productivity",
+    "short_en": "Office",
+    "desc_en": "Copilots embedded in docs, meetings and sheets that take the busywork off your plate."
+  },
+  {
+    "id": "design",
+    "name": "AI 设计 · 创意工具",
+    "short": "AI 设计",
+    "gen": true,
+    "accent": "#9A5C6C",
+    "desc": "从一句描述到可用界面与品牌物料，设计正在变成人人可及的能力。",
+    "name_en": "AI Design Tools",
+    "short_en": "Design",
+    "desc_en": "From a sentence to usable UI and brand assets — design is becoming accessible to all."
+  },
+  {
+    "id": "agent",
+    "name": "AI Agent · 自动化（智能体）",
+    "short": "AI 智能体",
+    "gen": false,
+    "accent": "#5A6E8C",
+    "desc": "能自己拆解目标、调用工具、跨步骤执行任务的自主智能体，2026 年的焦点赛道。",
+    "name_en": "AI Agents · Automation",
+    "short_en": "Agents",
+    "desc_en": "Autonomous agents that break down goals, call tools and run multi-step tasks — 2026's hot lane."
+  },
+  {
+    "id": "companion",
+    "name": "AI 陪伴 · 情感社交",
+    "short": "AI 陪伴",
+    "gen": false,
+    "accent": "#B26A6A",
+    "desc": "有人设、有记忆、能长期陪聊的 AI 角色，是增长最快的消费级赛道之一。",
+    "name_en": "AI Companions",
+    "short_en": "Companion",
+    "desc_en": "Characters with persona and memory for long-term chat — one of the fastest-growing consumer lanes."
+  },
+  {
+    "id": "vertical",
+    "name": "垂直行业应用 AI",
+    "short": "垂直行业",
+    "gen": false,
+    "accent": "#4F6F66",
+    "desc": "深入法律、教育、医疗、客服、金融等场景，把通用智能转化为专业生产力。",
+    "name_en": "Vertical-Industry AI",
+    "short_en": "Vertical",
+    "desc_en": "Into law, education, healthcare, support and finance — turning general AI into pro productivity."
+  }
+]

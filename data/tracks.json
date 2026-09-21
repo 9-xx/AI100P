@@ -1,0 +1,92 @@
+[
+  {
+    "id": "t-ask",
+    "name": "对话 · 搜索 · 问答",
+    "short": "对话问答",
+    "icon": "chat",
+    "accent": "#2E6E6A",
+    "members": [
+      "chat",
+      "search"
+    ],
+    "desc": "和 AI 对话、获取带来源的答案——通用大模型助手与新一代搜索引擎。",
+    "name_en": "Chat · Search · Q&A",
+    "short_en": "Chat & Search",
+    "desc_en": "Talk to AI and get cited answers — general assistants and next-gen search engines."
+  },
+  {
+    "id": "t-visual",
+    "name": "图像 · 视频 · 视觉创作",
+    "short": "视觉创作",
+    "icon": "image",
+    "accent": "#8C5B7A",
+    "members": [
+      "image",
+      "video"
+    ],
+    "desc": "一句话生成或精修图片与视频，覆盖插画、摄影、短片与数字人。",
+    "name_en": "Image · Video · Visual",
+    "short_en": "Visual",
+    "desc_en": "Generate or refine images and video from a prompt — art, photos, clips and digital humans."
+  },
+  {
+    "id": "t-create",
+    "name": "写作 · 音频 · 内容创作",
+    "short": "内容创作",
+    "icon": "writing",
+    "accent": "#7A6A3F",
+    "members": [
+      "writing",
+      "audio"
+    ],
+    "desc": "文字与声音的生产线——文案润色、长文写作、配音与音乐生成。",
+    "name_en": "Writing · Audio · Content",
+    "short_en": "Content",
+    "desc_en": "A production line for words and sound — copy, long-form, voiceover and music."
+  },
+  {
+    "id": "t-build",
+    "name": "编程 · 开发 · 智能体",
+    "short": "编程开发",
+    "icon": "coding",
+    "accent": "#3F6B8C",
+    "members": [
+      "coding",
+      "agent"
+    ],
+    "desc": "写代码、改仓库，或让自主智能体替你拆解目标、跨步骤执行任务。",
+    "name_en": "Coding · Dev · Agents",
+    "short_en": "Build",
+    "desc_en": "Write code and edit repos, or let autonomous agents run multi-step tasks for you."
+  },
+  {
+    "id": "t-work",
+    "name": "办公 · 设计 · 生产力",
+    "short": "办公设计",
+    "icon": "office",
+    "accent": "#486A7E",
+    "members": [
+      "office",
+      "design"
+    ],
+    "desc": "嵌入文档、会议与设计流程的智能副驾，把繁琐工作交给 AI。",
+    "name_en": "Office · Design · Productivity",
+    "short_en": "Work",
+    "desc_en": "Copilots in docs, meetings and design flows that hand the busywork to AI."
+  },
+  {
+    "id": "t-life",
+    "name": "陪伴 · 垂直行业",
+    "short": "陪伴行业",
+    "icon": "companion",
+    "accent": "#B26A6A",
+    "members": [
+      "companion",
+      "vertical"
+    ],
+    "desc": "有人设、有记忆的 AI 陪伴，以及深入法律、教育、医疗等场景的行业应用。",
+    "name_en": "Companion · Vertical",
+    "short_en": "Life & Industry",
+    "desc_en": "Companions with persona and memory, plus AI for law, education, healthcare and more."
+  }
+]
