@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-12",
   "dryRun": false,
   "totals": {
     "products": 100,
     "auto": 0,
-    "suggest": 10
+    "suggest": 9
   },
   "auto": [],
   "suggest": [
@@ -15,8 +15,8 @@
         "id": "felo",
         "name": "Felo",
         "tier": "watch",
-        "score": 0,
-        "quietWeeks": 2
+        "score": 1,
+        "quietWeeks": 0
       },
       "in": {
         "id": "quark",
@@ -45,20 +45,6 @@
       "why": "该分类没有观察档席位，不能无人值守换人"
     },
     {
-      "cat": "image",
-      "catName": "图像生成",
-      "out": {
-        "id": "recraft",
-        "name": "Recraft",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 1
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
       "cat": "audio",
       "catName": "音频语音",
       "out": {
@@ -66,18 +52,18 @@
         "name": "网易天音",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 5
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
-      "cat": "search",
-      "catName": "AI 搜索",
+      "cat": "writing",
+      "catName": "AI 写作",
       "out": {
-        "id": "youcom",
-        "name": "You.com",
+        "id": "writesonic",
+        "name": "Writesonic",
         "tier": "watch",
         "score": 0,
         "quietWeeks": 1
@@ -87,18 +73,32 @@
       "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
-      "cat": "design",
-      "catName": "AI 设计",
+      "cat": "writing",
+      "catName": "AI 写作",
       "out": {
-        "id": "looka",
-        "name": "Looka",
+        "id": "xiezuomao",
+        "name": "秘塔写作猫",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 3
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "design",
+      "catName": "AI 设计",
+      "out": {
+        "id": "galileo",
+        "name": "Galileo AI",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "design",
@@ -108,11 +108,11 @@
         "name": "Designs.ai",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 5
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "agent",
@@ -122,25 +122,11 @@
         "name": "智谱 AutoGLM",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 5
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "companion",
-      "catName": "AI 陪伴",
-      "out": {
-        "id": "nomi",
-        "name": "Nomi",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 1
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "vertical",
@@ -150,11 +136,11 @@
         "name": "BloombergGPT",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 5
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     }
   ],
   "rules": [
