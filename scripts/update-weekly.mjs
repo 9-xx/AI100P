@@ -14,7 +14,10 @@ function run(file) {
     stdio: "inherit",
     env: process.env,
   });
-  if (r.status) process.exit(r.status);
+  if (r.error || r.signal || r.status !== 0) {
+    fs.writeFileSync(path.join(root, "data/weekly-failure.json"), JSON.stringify({failedAt: new Date().toISOString(), step: file, exitCode: r.status, error: r.error?.message || r.signal || "step failed"}, null, 2) + "\n");
+    process.exit(r.status || 1);
+  }
 }
 
 console.log("[weekly]", new Date().toISOString(), dry ? "dry-run" : "live");
@@ -37,4 +40,5 @@ const summary = {
   roster: report.totals,
 };
 fs.writeFileSync(path.join(root, "data/weekly-run.json"), JSON.stringify(summary, null, 2) + "\n");
+fs.rmSync(path.join(root, "data/weekly-failure.json"), { force: true });
 console.log("[weekly] done", JSON.stringify(summary));

@@ -433,6 +433,10 @@ const payload = {
   items,
 };
 
+if (stats.withNews === 0) {
+  throw new Error("未获取任何产品资讯，保留上次数据；请检查网络与数据源。");
+}
+
 fs.writeFileSync(path.join(root, "data/news.json"), JSON.stringify(payload, null, 2) + "\n");
 
 const meta = JSON.parse(fs.readFileSync(path.join(root, "data/meta.json"), "utf8"));
