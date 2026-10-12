@@ -1,10 +1,10 @@
 {
   "updatedAt": "2026-10-12",
-  "dryRun": false,
+  "dryRun": true,
   "totals": {
     "products": 100,
     "auto": 0,
-    "suggest": 9
+    "suggest": 12
   },
   "auto": [],
   "suggest": [
@@ -43,6 +43,90 @@
       },
       "auto": false,
       "why": "该分类没有观察档席位，不能无人值守换人"
+    },
+    {
+      "cat": "video",
+      "catName": "视频生成",
+      "out": {
+        "id": "luma",
+        "name": "Luma Dream Machine",
+        "tier": "watch",
+        "score": 5,
+        "quietWeeks": 0
+      },
+      "in": {
+        "id": "libtv",
+        "name": "LibTV",
+        "origin": "bench",
+        "score": 16,
+        "evidence": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+        "desiredTier": "core"
+      },
+      "auto": false,
+      "why": "候选属于靠前/中间档，不能静默塞进观察档"
+    },
+    {
+      "cat": "design",
+      "catName": "AI 设计",
+      "out": {
+        "id": "designsai",
+        "name": "Designs.ai",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 5
+      },
+      "in": {
+        "id": "lovart",
+        "name": "Lovart",
+        "origin": "bench",
+        "score": 16,
+        "evidence": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+        "desiredTier": "core"
+      },
+      "auto": false,
+      "why": "候选属于靠前/中间档，不能静默塞进观察档"
+    },
+    {
+      "cat": "video",
+      "catName": "视频生成",
+      "out": {
+        "id": "luma",
+        "name": "Luma Dream Machine",
+        "tier": "watch",
+        "score": 5,
+        "quietWeeks": 0
+      },
+      "in": {
+        "id": "tapnow",
+        "name": "TapNow",
+        "origin": "bench",
+        "score": 16,
+        "evidence": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+        "desiredTier": "core"
+      },
+      "auto": false,
+      "why": "候选属于靠前/中间档，不能静默塞进观察档"
+    },
+    {
+      "cat": "video",
+      "catName": "视频生成",
+      "out": {
+        "id": "luma",
+        "name": "Luma Dream Machine",
+        "tier": "watch",
+        "score": 5,
+        "quietWeeks": 0
+      },
+      "in": {
+        "id": "aixtv",
+        "name": "AIXTV",
+        "origin": "bench",
+        "score": 16,
+        "evidence": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+        "desiredTier": "core"
+      },
+      "auto": false,
+      "why": "候选属于靠前/中间档，不能静默塞进观察档"
     },
     {
       "cat": "audio",
@@ -99,20 +183,6 @@
       "in": null,
       "auto": false,
       "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "design",
-      "catName": "AI 设计",
-      "out": {
-        "id": "designsai",
-        "name": "Designs.ai",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 5
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "agent",

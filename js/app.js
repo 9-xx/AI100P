@@ -16,7 +16,9 @@ function productsIn(pred) {
 
 const $=(s,el=document)=>el.querySelector(s);
 const $$=(s,el=document)=>[...el.querySelectorAll(s)];
-const reduceMotion=window.matchMedia("(prefers-reduced-motion:reduce)").matches;
+let reduceMotion=window.matchMedia("(prefers-reduced-motion:reduce)").matches;
+window.matchMedia("(prefers-reduced-motion:reduce)").addEventListener("change",e=>{reduceMotion=e.matches;});
+const motion=window.CatalogMotion;
 const NEWS = CATALOG.NEWS || { items: {} };
 const catMap=Object.fromEntries(CATEGORIES.map(c=>[c.id,c]));
 /* ===== 中英文双语：界面 / 分类 / 赛道（产品定位与介绍保持中文）===== */
@@ -170,7 +172,7 @@ function buildCatChips(){
   GROUPS.forEach(g=>{const b=document.createElement('button');b.className='chip'+(state.cat===g.id?' active':'');b.dataset.cat=g.id;b.innerHTML=`<span>${esc(gShort(g))}</span><small>${PRODUCTS.filter(p=>g.members.includes(p.cat)).length}</small>`;cc.appendChild(b);});
 }
 function renderSections(){
-  const root=$('#sections');root.innerHTML='';
+  const root=$('#sections');motion?.release(root);root.innerHTML='';
   GROUPS.forEach(g=>{
     const list=productsIn(p=>groupMembers[g.id].has(p.cat));
     let body;
@@ -208,6 +210,7 @@ function navigateToCat(catId){
   requestAnimationFrame(()=>{const el=document.getElementById('grp-'+catId);if(el)el.scrollIntoView({behavior:reduceMotion?'auto':'smooth'});});
 }
 function buildTrackNav(){
+  motion?.release($('#trackNav'));
   const root=$('#trackNav');if(!root)return;
   root.innerHTML=TRACKS.map(tr=>{
     const n=PRODUCTS.filter(p=>tr.members.includes(p.cat)).length;
@@ -234,6 +237,7 @@ function buildHero(){
   stars.addEventListener('click',e=>{const b=e.target.closest('[data-id]');if(b)openModal(b.dataset.id);});
 }
 function buildStats(immediate){
+  motion?.release($('#statsGrid'));
   const total=PRODUCTS.length;const free=PRODUCTS.filter(p=>/免费|开源/.test(p.pricing)).length;
   const genIds=new Set(CATEGORIES.filter(c=>c.gen).map(c=>c.id));
   const genPct=Math.round(PRODUCTS.filter(p=>genIds.has(p.cat)).length/total*100);
@@ -278,7 +282,7 @@ function bannerArt(c){const a=c.accent;
 }
 const sectionsEl=$('#sections'),resultsEl=$('#results'),emptyEl=$('#empty');
 function matches(p){
-  if(state.cat!=='全部'){const mem=groupMembers[state.cat];if(mem){if(!mem.has(p.cat))return false;}else if(p.cat!==state.cat)return false;}
+  if(state.cat!=='全部'){const mem=groupMembers[state.cat];if(mem){if(![p.cat,...(p.secondaryCats||[])].some(c=>mem.has(c)))return false;}else if(p.cat!==state.cat&&!(p.secondaryCats||[]).includes(state.cat))return false;}
   if(state.price!=='全部'&&!p.pricing.includes(state.price))return false;
   if(state.q){const q=state.q.toLowerCase();
     const hay=(p.name+' '+p.company+' '+p.tagline+' '+p.intro+' '+(p.aliases||[]).join(' ')+' '+p.tags.join(' ')+' '+gShort(catMap[p.cat])).toLowerCase();
@@ -289,20 +293,16 @@ function filterActive(){return state.cat!=='全部'||state.price!=='全部'||sta
 function applyFilter(){
   $$('.toolbar .chip').forEach(b=>b.setAttribute('aria-pressed',String(b.classList.contains('active'))));
   const tbCount=$('#tbCount');
-  if(!filterActive()){sectionsEl.style.display='';resultsEl.style.display='none';emptyEl.classList.remove('show');
+  if(!filterActive()){motion?.release(resultsEl);sectionsEl.style.display='';resultsEl.style.display='none';emptyEl.classList.remove('show');
     tbCount.innerHTML=t('total')(PRODUCTS.length);return;}
   const list=productsIn(matches);tbCount.innerHTML=t('match')(list.length);
+  motion?.release(sectionsEl);
   sectionsEl.style.display='none';resultsEl.style.display='';
-  const old=new Map();$$('.card',resultsEl).forEach(el=>old.set(el.dataset.id,el.getBoundingClientRect()));
+  motion?.release(resultsEl);
   if(list.length===0){resultsEl.innerHTML='';emptyEl.classList.add('show');return;}
   emptyEl.classList.remove('show');
   resultsEl.innerHTML=`<div class="grid">${list.map(cardHTML).join('')}</div>`;
-  if(reduceMotion)return;
-  $$('.card',resultsEl).forEach(el=>{const o=old.get(el.dataset.id),n=el.getBoundingClientRect();
-    if(o){const dx=o.left-n.left,dy=o.top-n.top;if(dx||dy){el.style.transform=`translate(${dx}px,${dy}px)`;el.style.transition='none';
-      requestAnimationFrame(()=>{el.style.transition='transform .45s var(--ease)';el.style.transform='';});}}
-    else{el.style.opacity='0';el.style.transform='translateY(14px)';
-      requestAnimationFrame(()=>{el.style.transition='opacity .4s var(--ease),transform .4s var(--ease)';el.style.opacity='';el.style.transform='';});}});
+  motion?.enter($$('.card',resultsEl).slice(0,12));
 }
 let searchT;
 $('#search').addEventListener('input',e=>{clearTimeout(searchT);searchT=setTimeout(()=>{state.q=e.target.value.trim();applyFilter();
@@ -310,6 +310,7 @@ $('#search').addEventListener('input',e=>{clearTimeout(searchT);searchT=setTimeo
 
 const modalMask=$('#modalMask'),modalEl=$('#modal');let lastFocus=null;let curModalId=null;
 function openModal(id){const p=PRODUCTS.find(x=>x.id===id);if(!p)return;const c=catMap[p.cat];lastFocus=document.activeElement;curModalId=id;
+  motion?.release(modalEl);
   modalEl.innerHTML=`<div class="modal-hero" style="background:linear-gradient(130deg,${rgba(p.accent,.13)},#fff)">
       <div class="modal-hero-bg" style="background:radial-gradient(circle at 80% 0%,${p.accent},transparent 60%)"></div>
       <button class="modal-x" id="modalX" aria-label="${t('mClose')}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
@@ -328,9 +329,10 @@ function openModal(id){const p=PRODUCTS.find(x=>x.id===id);if(!p)return;const c=
         <button class="btn btn-ghost" id="modalClose2">${t('mClose')}</button></div></div>`;
   modalMask.classList.add('open');document.body.style.overflow='hidden';
   $('#modalX').addEventListener('click',closeModal);$('#modalClose2').addEventListener('click',closeModal);$('#modalX').focus();
+  modalEl.scrollTop=0;motion?.modal(modalEl);
   loadNews(p);
 }
-function closeModal(){modalMask.classList.remove('open');document.body.style.overflow='';curModalId=null;if(lastFocus)lastFocus.focus();}
+function closeModal(){motion?.release(modalEl);modalEl.style.removeProperty('transform');modalMask.classList.remove('open');document.body.style.overflow='';curModalId=null;if(lastFocus)lastFocus.focus();}
 modalMask.addEventListener('click',e=>{if(e.target===modalMask)closeModal();});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(modalMask.classList.contains('open'))closeModal();else closeDrawer();}});
 function cardClick(e){const card=e.target.closest('.card');if(card)openModal(card.dataset.id);}
@@ -339,30 +341,25 @@ function cardKey(e){if((e.key==='Enter'||e.key===' ')&&e.target.closest?.('.card
 $('#ctaRandom').addEventListener('click',()=>openModal(PRODUCTS[Math.floor(Math.random()*PRODUCTS.length)].id));
 
 const drawer=$('#drawer'),drawerMask=$('#drawerMask');
-function openDrawer(){drawer.classList.add('open');drawerMask.classList.add('open');$('#navToggle').setAttribute('aria-expanded','true');}
-function closeDrawer(){drawer.classList.remove('open');drawerMask.classList.remove('open');$('#navToggle').setAttribute('aria-expanded','false');}
+function openDrawer(){drawer.classList.add('open');motion?.drawer(drawer);drawerMask.classList.add('open');$('#navToggle').setAttribute('aria-expanded','true');}
+function closeDrawer(){motion?.release(drawer);drawer.classList.remove('open');drawerMask.classList.remove('open');$('#navToggle').setAttribute('aria-expanded','false');}
 $('#navToggle').addEventListener('click',openDrawer);$('#drawerClose').addEventListener('click',closeDrawer);drawerMask.addEventListener('click',closeDrawer);
 
 const nav=$('#nav'),toTop=$('#toTop'),progress=$('#progress');let ticking=false;
 function onScroll(){if(ticking)return;ticking=true;requestAnimationFrame(()=>{
   const y=window.scrollY,h=document.documentElement.scrollHeight-window.innerHeight;
-  progress.style.width=(h>0?(y/h*100):0)+'%';nav.classList.toggle('solid',y>40);toTop.classList.toggle('show',y>600);
+  progress.style.transform=`scaleX(${h>0?Math.min(1,y/h):0})`;nav.classList.toggle('solid',y>40);toTop.classList.toggle('show',y>600);
   let cur='';for(const g of GROUPS){const el=document.getElementById('grp-'+g.id);if(el&&el.getBoundingClientRect().top<160)cur=g.id;}
   $$('#navLinks a').forEach(a=>a.style.color=(a.getAttribute('href')==='#grp-'+cur)?'var(--primary-d)':'');ticking=false;});}
 window.addEventListener('scroll',onScroll,{passive:true});
 $('#toTop').addEventListener('click',()=>window.scrollTo({top:0,behavior:reduceMotion?'auto':'smooth'}));
 
-function countUp(el){const to=+el.dataset.to,u=$('.u',el)?.outerHTML||'';const dur=1400;const t0=performance.now();
-  if(reduceMotion){el.innerHTML=to+u;return;}
-  function step(t){const k=Math.min(1,(t-t0)/dur);const e=1-Math.pow(1-k,3);el.innerHTML=Math.round(to*e)+u;if(k<1)requestAnimationFrame(step);}
-  requestAnimationFrame(step);}
-let revealIO=null;
-function observeReveals(){
-  if(revealIO)revealIO.disconnect();
-  revealIO=new IntersectionObserver(es=>{es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');revealIO.unobserve(en.target);}});},{threshold:.12,rootMargin:'0px 0px -40px 0px'});
-  $$('.reveal').forEach(el=>revealIO.observe(el));
+function countUp(el){
+  if(motion)motion.count(el);else el.firstChild.textContent=el.dataset.to;
 }
+function observeReveals(){motion?.observe();}
 function observeStats(){
+  if(!('IntersectionObserver' in window)){$$('#statsGrid .num').forEach(el=>el.firstChild.textContent=el.dataset.to);return;}
   const sio=new IntersectionObserver(es=>{es.forEach(en=>{if(en.isIntersecting){$$('.num',en.target).forEach(countUp);sio.unobserve(en.target);}});},{threshold:.4});
   sio.observe($('#statsGrid'));
 }
@@ -373,7 +370,7 @@ function buildFooter(){
   const today=new Date(CATALOG.META.updatedAt+'T12:00:00');
   $('#footNote').innerHTML= lang==='en'
     ? `Updated ${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}. Curated by category in rough tiers — no public ranking. Scale signals from AICPB and QuestMobile; news from official sites. Confirm details on each product site.`
-    : `数据更新于 ${today.getFullYear()} 年 ${today.getMonth()+1} 月。按分类精选、分档陈列，不展示名次。规模参考 AICPB、QuestMobile 等公开榜单；资讯来自各产品官网与公开新闻。具体能力与定价请以官网为准。`;
+    : `名单更新于 ${CATALOG.META.updatedAt}；资讯更新于 ${CATALOG.NEWS.updatedAt || "暂无"}。按分类精选、分档陈列，不展示名次。选品参考 AICPB、QuestMobile 等公开榜单；a16z 第七版已加入选品参考源，待逐项核验；资讯来自各产品官网与公开新闻。具体能力与定价请以官网为准。`;
 }
 function applyLang(){
   document.documentElement.lang=lang==='en'?'en':'zh-CN';
@@ -399,7 +396,7 @@ document.addEventListener('keydown',e=>{
     else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}
   }
 });
-buildHero();buildBadges();buildStats(false);buildTrackNav();buildToolbar();buildFooter();renderGrouping();applyFilter();observeStats();onScroll();
+buildHero();buildBadges();buildStats(false);buildTrackNav();buildToolbar();buildFooter();renderGrouping();applyFilter();observeStats();onScroll();motion?.init();
 $('#trackNav').addEventListener('click',e=>{const b=e.target.closest('.track-card');if(b)gotoTrack(b.dataset.track);});
 $('#footCols').addEventListener('click',e=>{const a=e.target.closest('a[data-cat]');if(a){e.preventDefault();navigateToCat(a.dataset.cat);}});
 const _lt=$('#langToggle');if(_lt)_lt.addEventListener('click',toggleLang);

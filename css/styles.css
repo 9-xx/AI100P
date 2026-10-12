@@ -647,3 +647,12 @@ footer{background:#eef1e8;margin-top:30px;padding:45px 0 28px}
 .drawer{visibility:hidden}
 .drawer.open{visibility:visible}
 #trackNav{scroll-margin-top:104px}
+
+/* GSAP owns entrance transforms; CSS keeps simple hover/color feedback. */
+#progress{width:100%;transform:scaleX(0);transform-origin:left center;transition:none}
+.gsap-ready .modal{transition:none}
+@media(prefers-reduced-motion:reduce){
+  .card:hover,.track-card:hover,.hero-product:hover,.btn:hover{transform:none}
+}
+
+.gsap-ready .drawer.open{transition:none}
