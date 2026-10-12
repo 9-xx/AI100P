@@ -9,10 +9,17 @@
     "pricing": "免费",
     "url": "https://www.myquark.cn",
     "tagline": "国内月活前列的 AI 搜索与智能浏览器",
-    "tags": ["AI 搜索", "浏览器", "拍题"],
+    "tags": [
+      "AI 搜索",
+      "浏览器",
+      "拍题"
+    ],
     "intro": "阿里巴巴旗下的 AI 搜索与浏览器产品，整合搜索、网盘、拍题与写作，是国内月活最高的 AI 应用之一。中文场景覆盖广、移动端体验完整，适合作为日常信息入口。基础功能免费。",
     "tier": "lead",
-    "aliases": ["夸克", "Quark"],
+    "aliases": [
+      "夸克",
+      "Quark"
+    ],
     "rss": [],
     "desiredTier": "lead",
     "autoEligible": false,
@@ -28,13 +35,132 @@
     "pricing": "免费",
     "url": "https://yuanbao.tencent.com",
     "tagline": "接入腾讯生态的通用 AI 助手",
-    "tags": ["日常助手", "微信生态", "多模型"],
+    "tags": [
+      "日常助手",
+      "微信生态",
+      "多模型"
+    ],
     "intro": "腾讯推出的通用 AI 助手，深度结合微信与腾讯内容生态，提供问答、写作、搜图与办公辅助。国内月活长期位于第一梯队，是对话类不可忽视的入口级产品。基础功能免费。",
     "tier": "lead",
-    "aliases": ["元宝", "腾讯元宝"],
+    "aliases": [
+      "元宝",
+      "腾讯元宝"
+    ],
     "rss": [],
     "desiredTier": "lead",
     "autoEligible": false,
     "reason": "国内对话助手第一梯队，替换须动中间/靠前档，只进建议清单。"
+  },
+  {
+    "id": "libtv",
+    "name": "LibTV",
+    "company": "LiblibAI",
+    "cat": "video",
+    "abbr": "Li",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.liblib.tv/",
+    "tagline": "无限画布串联剧本、分镜与视频生成的创作工具",
+    "tags": [
+      "创作工作流",
+      "视频创作"
+    ],
+    "intro": "无限画布串联剧本、分镜与视频生成的创作工具。具体能力、额度及定价请以官网为准。",
+    "tier": "core",
+    "aliases": [
+      "LibTV"
+    ],
+    "rss": [],
+    "desiredTier": "core",
+    "autoEligible": false,
+    "reason": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.liblib.tv/"
+    ]
+  },
+  {
+    "id": "lovart",
+    "name": "Lovart",
+    "company": "Lovart",
+    "cat": "design",
+    "abbr": "Lo",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.lovart.ai/zh",
+    "tagline": "支持图像与视频模型的 AI 设计智能体",
+    "tags": [
+      "创作工作流",
+      "视频创作"
+    ],
+    "intro": "支持图像与视频模型的 AI 设计智能体。具体能力、额度及定价请以官网为准。",
+    "tier": "core",
+    "aliases": [
+      "Lovart"
+    ],
+    "rss": [],
+    "desiredTier": "core",
+    "autoEligible": false,
+    "reason": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.lovart.ai/zh"
+    ]
+  },
+  {
+    "id": "tapnow",
+    "name": "TapNow",
+    "company": "TapNow",
+    "cat": "video",
+    "abbr": "Ta",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.tapnow.ai/",
+    "tagline": "在创作画布中编排文本、图像、音频与视频模型",
+    "tags": [
+      "创作工作流",
+      "视频创作"
+    ],
+    "intro": "在创作画布中编排文本、图像、音频与视频模型。具体能力、额度及定价请以官网为准。",
+    "tier": "core",
+    "aliases": [
+      "TapNow"
+    ],
+    "rss": [],
+    "desiredTier": "core",
+    "autoEligible": false,
+    "reason": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.tapnow.ai/"
+    ]
+  },
+  {
+    "id": "aixtv",
+    "name": "AIXTV",
+    "company": "AIX",
+    "cat": "video",
+    "abbr": "AI",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://aix.studio/",
+    "tagline": "面向短剧、广告与影视的 AI 视频创作平台",
+    "tags": [
+      "创作工作流",
+      "视频创作"
+    ],
+    "intro": "面向短剧、广告与影视的 AI 视频创作平台。具体能力、额度及定价请以官网为准。",
+    "tier": "core",
+    "aliases": [
+      "AIXTV"
+    ],
+    "rss": [],
+    "desiredTier": "core",
+    "autoEligible": false,
+    "reason": "国内创作工具覆盖补充；官网已核验，待同类比较后确定正式席位。",
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://aix.studio/"
+    ]
   }
 ]

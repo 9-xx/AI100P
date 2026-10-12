@@ -1,7 +1,12 @@
 {
   "news": {
     "cadence": "weekly",
-    "writeOrder": ["official", "googleNews", "hackerNews", "cnMedia"],
+    "writeOrder": [
+      "official",
+      "googleNews",
+      "hackerNews",
+      "cnMedia"
+    ],
     "rules": [
       "时间线只采官方 changelog / 新闻稿",
       "资讯标题须匹配产品名或 aliases",
@@ -46,7 +51,11 @@
     ]
   },
   "roster": {
-    "cadence": { "lead": "monthly", "core": "monthly", "watch": "weekly" },
+    "cadence": {
+      "lead": "monthly",
+      "core": "monthly",
+      "watch": "weekly"
+    },
     "display": {
       "showRank": false,
       "showScore": false,
@@ -62,28 +71,37 @@
     "sources": [
       {
         "id": "aicpb",
-        "seat": ["lead", "core"],
+        "seat": [
+          "lead",
+          "core"
+        ],
         "name": "AICPB 产品榜",
         "cadence": "monthly",
         "notes": "App MAU 与网站月访问分榜；引用需署名，不转载完整数字"
       },
       {
         "id": "questmobile",
-        "seat": ["lead"],
+        "seat": [
+          "lead"
+        ],
         "name": "QuestMobile AI App 报告",
         "cadence": "monthly",
         "notes": "无开放 API，从公开月报抽取国内锚定产品"
       },
       {
         "id": "similarweb-public",
-        "seat": ["lead"],
+        "seat": [
+          "lead"
+        ],
         "name": "Similarweb 公开 AI 类目",
         "cadence": "monthly",
         "notes": "只交叉验证全球 Web 头部"
       },
       {
         "id": "product-hunt",
-        "seat": ["watch"],
+        "seat": [
+          "watch"
+        ],
         "name": "Product Hunt GraphQL v2",
         "cadence": "weekly",
         "access": "api-token",
@@ -91,19 +109,37 @@
       },
       {
         "id": "auto-roster",
-        "seat": ["watch"],
+        "seat": [
+          "watch"
+        ],
         "name": "观察档自动换人",
         "cadence": "weekly",
         "notes": "仅当观察档连续偏弱且候选信号明显更强时 1 换 1；靠前/中间档只写建议清单。每周最多 3 个，同分类 21 天冷却。"
       },
       {
         "id": "hf-trending",
-        "seat": ["watch"],
+        "seat": [
+          "watch"
+        ],
         "name": "Hugging Face Trending",
         "cadence": "weekly",
         "access": "api",
         "url": "https://huggingface.co/api/trending",
         "notes": "仅服务图像 / 音频 / 开源向产品"
+      },
+      {
+        "id": "a16z-consumer",
+        "seat": [
+          "lead",
+          "core",
+          "watch"
+        ],
+        "name": "a16z Top 100 Gen AI Consumer Apps",
+        "cadence": "semiannual",
+        "access": "manual-review",
+        "url": "https://a16z.com/100-gen-ai-apps-7/",
+        "edition": 7,
+        "notes": "全球 Web 与移动端使用规模参考；人工核验后进入候选库，不直接转换为本站排名。国内创作工具另行补充。"
       }
     ],
     "excludeAsPrimary": [

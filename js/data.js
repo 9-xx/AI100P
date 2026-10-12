@@ -789,7 +789,10 @@ const CATALOG = {
         "即梦",
         "字节跳动"
       ],
-      "rss": []
+      "rss": [],
+      "secondaryCats": [
+        "video"
+      ]
     },
     {
       "id": "wanxiang",
@@ -4224,6 +4227,20 @@ const CATALOG = {
           "access": "api",
           "url": "https://huggingface.co/api/trending",
           "notes": "仅服务图像 / 音频 / 开源向产品"
+        },
+        {
+          "id": "a16z-consumer",
+          "seat": [
+            "lead",
+            "core",
+            "watch"
+          ],
+          "name": "a16z Top 100 Gen AI Consumer Apps",
+          "cadence": "semiannual",
+          "access": "manual-review",
+          "url": "https://a16z.com/100-gen-ai-apps-7/",
+          "edition": 7,
+          "notes": "全球 Web 与移动端使用规模参考；人工核验后进入候选库，不直接转换为本站排名。国内创作工具另行补充。"
         }
       ],
       "excludeAsPrimary": [
