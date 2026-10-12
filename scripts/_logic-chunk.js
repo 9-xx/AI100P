@@ -153,15 +153,15 @@ function buildNav(){
 function buildCatChips(){
   const cc=$('#catChips');cc.innerHTML='';
   const all=document.createElement('button');all.className='chip'+(state.cat==='全部'?' active':'');all.dataset.cat='全部';all.innerHTML=`<span>${t('priceAll')}</span><small>${PRODUCTS.length}</small>`;cc.appendChild(all);
-  GROUPS.forEach(g=>{const b=document.createElement('button');b.className='chip'+(state.cat===g.id?' active':'');b.dataset.cat=g.id;b.innerHTML=`<span>${esc(gShort(g))}</span><small>${PRODUCTS.filter(p=>g.members.includes(p.cat)).length}</small>`;cc.appendChild(b);});
+  GROUPS.forEach(g=>{const b=document.createElement('button');b.className='chip'+(state.cat===g.id?' active':'');b.dataset.cat=g.id;b.innerHTML=`<span>${esc(gShort(g))}</span><small>${PRODUCTS.filter(p=>[p.cat,...(p.secondaryCats||[])].some(c=>g.members.includes(c))).length}</small>`;cc.appendChild(b);});
 }
 function renderSections(){
   const root=$('#sections');motion?.release(root);root.innerHTML='';
   GROUPS.forEach(g=>{
-    const list=productsIn(p=>groupMembers[g.id].has(p.cat));
+    const list=productsIn(p=>[p.cat,...(p.secondaryCats||[])].some(c=>groupMembers[g.id].has(c)));
     let body;
     if(state.mode==='6'&&g.members.length>1){
-      body=g.members.map(cid=>{const sub=catMap[cid];const items=productsIn(p=>p.cat===cid);
+      body=g.members.map(cid=>{const sub=catMap[cid];const items=productsIn(p=>p.cat===cid||(p.secondaryCats||[]).includes(cid));
         return `<div class="subhead"><span class="sh-dot" style="background:${sub.accent}"></span><h3>${esc(gName(sub))}</h3><span class="sh-n">${items.length} ${t('secN')}</span></div>
           <div class="grid">${items.map(cardHTML).join('')}</div>`;}).join('');
     }else{
@@ -354,7 +354,7 @@ function buildFooter(){
   const today=new Date(CATALOG.META.updatedAt+'T12:00:00');
   $('#footNote').innerHTML= lang==='en'
     ? `Updated ${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}. Curated by category in rough tiers — no public ranking. Scale signals from AICPB and QuestMobile; news from official sites. Confirm details on each product site.`
-    : `名单更新于 ${CATALOG.META.updatedAt}；资讯更新于 ${CATALOG.NEWS.updatedAt || "暂无"}。按分类精选、分档陈列，不展示名次。选品参考 AICPB、QuestMobile 等公开榜单；a16z 第七版已加入选品参考源，待逐项核验；资讯来自各产品官网与公开新闻。具体能力与定价请以官网为准。`;
+    : `名单更新于 ${CATALOG.META.updatedAt}；资讯更新于 ${CATALOG.NEWS.updatedAt || "暂无"}。按分类精选、分档陈列，不展示名次。选品参考 AICPB、QuestMobile 等公开榜单；a16z 第七版 Web / 移动名单已完成收录对照；资讯来自各产品官网与公开新闻。具体能力与定价请以官网为准。`;
 }
 function applyLang(){
   document.documentElement.lang=lang==='en'?'en':'zh-CN';

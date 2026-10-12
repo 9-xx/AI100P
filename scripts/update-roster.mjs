@@ -361,7 +361,7 @@ const report = {
     "分类不确定、或候选本应靠前的产品（如夸克、元宝）绝不静默写入",
   ],
 };
-fs.writeFileSync(path.join(root, "data/roster-report.json"), JSON.stringify(report, null, 2) + "\n");
+fs.writeFileSync(path.join(root, dry ? "data/roster-preview.json" : "data/roster-report.json"), JSON.stringify(report, null, 2) + "\n");
 
 function rowHTML(s, applied) {
   const tierName = { lead: "靠前", core: "中间", watch: "观察档" };
@@ -396,7 +396,7 @@ const html = `<!DOCTYPE html>
 </main>
 </body></html>
 `;
-fs.writeFileSync(path.join(root, "roster.html"), html);
+fs.writeFileSync(path.join(root, dry ? "roster-preview.html" : "roster.html"), html);
 
 console.log(dry ? "dry-run" : "applied", { auto: auto.length, suggest: report.suggest.length, products: products.length });
 for (const s of auto) console.log("AUTO", s.cat, s.out?.name, "->", s.in?.name);

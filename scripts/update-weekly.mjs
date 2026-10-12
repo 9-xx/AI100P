@@ -20,6 +20,11 @@ function run(file) {
   }
 }
 
+if (dry) {
+  run("scripts/update-roster.mjs");
+  process.exit(0);
+}
+
 console.log("[weekly]", new Date().toISOString(), dry ? "dry-run" : "live");
 run("scripts/update-news.mjs");
 run("scripts/update-roster.mjs");

@@ -101,7 +101,43 @@
     "miaoya": 5,
     "bloomberggpt": 5
   },
-  "cooldowns": {},
-  "applied": [],
+  "cooldowns": {
+    "video": "2026-10-12",
+    "design": "2026-10-12"
+  },
+  "applied": [
+    {
+      "at": "2026-10-12",
+      "out": "luma",
+      "inn": "libtv",
+      "cat": "video",
+      "why": "补充剧本、分镜到成片的创作工作流",
+      "mode": "editorial-review"
+    },
+    {
+      "at": "2026-10-12",
+      "out": "designsai",
+      "inn": "lovart",
+      "cat": "design",
+      "why": "补充多模型设计智能体",
+      "mode": "editorial-review"
+    },
+    {
+      "at": "2026-10-12",
+      "out": "galileo",
+      "inn": "tapnow",
+      "cat": "video",
+      "why": "减少设计原型工具重复覆盖，增加跨模态创作画布",
+      "mode": "editorial-review"
+    },
+    {
+      "at": "2026-10-12",
+      "out": "bloomberggpt",
+      "inn": "aixtv",
+      "cat": "video",
+      "why": "减少专业金融模型条目，增加可访问的视频创作应用",
+      "mode": "editorial-review"
+    }
+  ],
   "updatedAt": "2026-10-12"
 }

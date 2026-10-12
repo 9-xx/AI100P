@@ -811,28 +811,32 @@
     "rss": []
   },
   {
-    "id": "luma",
-    "name": "Luma Dream Machine",
-    "company": "Luma AI",
+    "id": "libtv",
+    "name": "LibTV",
+    "company": "LiblibAI",
     "cat": "video",
-    "abbr": "Lu",
-    "accent": "#6366F1",
-    "pricing": "免费 + 订阅",
-    "url": "https://lumalabs.ai",
-    "tagline": "运镜梦幻、带 3D 感的视频平台",
+    "abbr": "Li",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.liblib.tv/",
+    "tagline": "无限画布串联剧本、分镜与视频生成的创作工具",
     "tags": [
-      "梦幻运镜",
-      "图生视频",
-      "3D 感"
+      "创作工作流",
+      "视频创作"
     ],
-    "intro": "Luma AI 推出的 Dream Machine 视频生成平台，擅长平滑的运镜、3D 感与梦境般的画面表现，支持文生与图生视频。界面简洁、迭代快，并具备 3D 重建相关能力，适合创意探索与概念演示。提供免费额度，进阶能力按订阅开放。",
+    "intro": "无限画布串联剧本、分镜与视频生成的创作工具。具体能力、额度及定价请以官网为准。",
     "tier": "watch",
-    "seed": 33,
     "aliases": [
-      "Luma Dream Machine",
-      "Luma AI"
+      "LibTV"
     ],
-    "rss": []
+    "rss": [],
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.liblib.tv/"
+    ],
+    "seed": 33,
+    "addedAt": "2026-10-12",
+    "addedBy": "editorial-review"
   },
   {
     "id": "heygen",
@@ -1725,28 +1729,32 @@
     "rss": []
   },
   {
-    "id": "galileo",
-    "name": "Galileo AI",
-    "company": "Galileo",
-    "cat": "design",
-    "abbr": "Gl",
-    "accent": "#4F46E5",
-    "pricing": "免费 + 订阅",
-    "url": "https://www.usegalileo.ai",
-    "tagline": "由文字生成高保真 UI 设计稿",
+    "id": "tapnow",
+    "name": "TapNow",
+    "company": "TapNow",
+    "cat": "video",
+    "abbr": "Ta",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.tapnow.ai/",
+    "tagline": "在创作画布中编排文本、图像、音频与视频模型",
     "tags": [
-      "文生 UI",
-      "高保真",
-      "导出 Figma"
+      "创作工作流",
+      "视频创作"
     ],
-    "intro": "面向产品界面的 AI 设计工具，可由文字描述生成高保真 UI 设计稿，并导出到 Figma 继续编辑，帮助设计师快速跨越'从零到初稿'。适合产品早期探索与界面灵感生成，提升设计起步速度。提供订阅与试用。",
+    "intro": "在创作画布中编排文本、图像、音频与视频模型。具体能力、额度及定价请以官网为准。",
     "tier": "watch",
-    "seed": 71,
     "aliases": [
-      "Galileo AI",
-      "Galileo"
+      "TapNow"
     ],
-    "rss": []
+    "rss": [],
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.tapnow.ai/"
+    ],
+    "seed": 71,
+    "addedAt": "2026-10-12",
+    "addedBy": "editorial-review"
   },
   {
     "id": "uizard",
@@ -1821,28 +1829,37 @@
     "rss": []
   },
   {
-    "id": "designsai",
-    "name": "Designs.ai",
-    "company": "Designs.ai",
+    "id": "lovart",
+    "name": "Lovart",
+    "company": "Lovart",
     "cat": "design",
-    "abbr": "Ds",
-    "accent": "#FF6B3D",
-    "pricing": "订阅",
-    "url": "https://designs.ai",
-    "tagline": "一站式 AI 创意内容套件",
+    "abbr": "Lo",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://www.lovart.ai/zh",
+    "tagline": "支持图像与视频模型的 AI 设计智能体",
     "tags": [
-      "创意套件",
-      "Logo",
-      "视频海报"
+      "设计智能体",
+      "多模型画布",
+      "视频创作"
     ],
-    "intro": "一体化的 AI 创意套件，集成 logo 制作、视频生成、配音、海报与社媒设计等多种工具，帮助营销与小企业一站式产出品牌内容。适合需要快速批量出图出片的非专业用户。以订阅为主，提供试用。",
+    "intro": "支持图像与视频模型的 AI 设计智能体。具体能力、额度及定价请以官网为准。",
     "tier": "watch",
-    "seed": 75,
     "aliases": [
-      "Designs.ai",
-      "Designs.ai"
+      "Lovart"
     ],
-    "rss": []
+    "rss": [],
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://www.lovart.ai/zh"
+    ],
+    "seed": 75,
+    "addedAt": "2026-10-12",
+    "addedBy": "editorial-review",
+    "secondaryCats": [
+      "image",
+      "video"
+    ]
   },
   {
     "id": "manus",
@@ -2397,27 +2414,31 @@
     "rss": []
   },
   {
-    "id": "bloomberggpt",
-    "name": "BloombergGPT",
-    "company": "Bloomberg",
-    "cat": "vertical",
-    "abbr": "Bb",
-    "accent": "#C75300",
-    "pricing": "企业",
-    "url": "https://www.bloomberg.com",
-    "tagline": "金融领域的专用大模型",
+    "id": "aixtv",
+    "name": "AIXTV",
+    "company": "AIX",
+    "cat": "video",
+    "abbr": "AI",
+    "accent": "#8C5B7A",
+    "pricing": "以官网为准",
+    "url": "https://aix.studio/",
+    "tagline": "面向短剧、广告与影视的 AI 视频创作平台",
     "tags": [
-      "金融大模型",
-      "数据分析",
-      "彭博终端"
+      "创作工作流",
+      "视频创作"
     ],
-    "intro": "彭博为金融领域打造的专用大模型，基于海量金融数据训练，擅长金融新闻情感分析、命名实体识别、问答与报告辅助，深度融入彭博终端的金融工作流。是金融垂直大模型的早期代表。面向彭博终端企业用户提供。",
+    "intro": "面向短剧、广告与影视的 AI 视频创作平台。具体能力、额度及定价请以官网为准。",
     "tier": "watch",
-    "seed": 99,
     "aliases": [
-      "BloombergGPT",
-      "Bloomberg"
+      "AIXTV"
     ],
-    "rss": []
+    "rss": [],
+    "verifiedAt": "2026-10-11",
+    "evidenceUrls": [
+      "https://aix.studio/"
+    ],
+    "seed": 99,
+    "addedAt": "2026-10-12",
+    "addedBy": "editorial-review"
   }
 ]

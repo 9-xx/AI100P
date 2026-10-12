@@ -1,0 +1,708 @@
+{
+  "source": "https://a16z.com/100-gen-ai-apps-7/",
+  "edition": 7,
+  "checkedAt": "2026-10-12",
+  "scope": "官方 Web/Mobile 链接名单；不含名次及美国支出榜",
+  "entries": [
+    {
+      "platform": "web",
+      "name": "Adot",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Arena",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Base44",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Canva",
+      "catalogId": "canva",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "CapCut",
+      "catalogId": "capcut",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Character.ai",
+      "catalogId": "characterai",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "ChatGPT",
+      "catalogId": "chatgpt",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Claude",
+      "catalogId": "claude",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Copilot",
+      "catalogId": "copilot",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Cursor",
+      "catalogId": "cursor",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "DeepSeek",
+      "catalogId": "deepseek",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Doubao",
+      "catalogId": "doubao",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Duck.ai",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "ElevenLabs",
+      "catalogId": "elevenlabs",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Emochi",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Figma",
+      "catalogId": "figmaai",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Freepik",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Gamma",
+      "catalogId": "gamma",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Gemini",
+      "catalogId": "gemini",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Gemini Notebook",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Genspark",
+      "catalogId": "genspark",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Google AI Studio",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Google Antigravity",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Google Labs",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Grok",
+      "catalogId": "grok",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Higgsfield",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Hugging Face",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Kimi",
+      "catalogId": "kimi",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Kling AI",
+      "catalogId": "kling",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Lovable",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Manus",
+      "catalogId": "manus",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Meta AI",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Notion",
+      "catalogId": "notionai",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "OpenEvidence",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "OpenRouter",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Perplexity",
+      "catalogId": "perplexity",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Photoroom",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Picsart",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Quark",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "QuillBot",
+      "catalogId": "quillbot",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Qwen",
+      "catalogId": "qwen",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Remove.bg",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Replit",
+      "catalogId": "replit",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "SeaArt",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Suno",
+      "catalogId": "suno",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "Superhuman",
+      "catalogId": "grammarly",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "web",
+      "name": "TurboScribe",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Venice",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "Z.ai",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "web",
+      "name": "ZeroGPT",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Adobe Express",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Adobe Lightroom",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "AI Gallery",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Baidu AI Search",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "BeautyCam",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "BeautyPlus",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Canva",
+      "catalogId": "canva",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "CapCut",
+      "catalogId": "capcut",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Character.ai",
+      "catalogId": "characterai",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "ChatGPT",
+      "catalogId": "chatgpt",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Claude",
+      "catalogId": "claude",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Copilot",
+      "catalogId": "copilot",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "DeepSeek",
+      "catalogId": "deepseek",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Dola",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Doubao",
+      "catalogId": "doubao",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Edits",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Emochi",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "FaceApp",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Facemoji",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Faceu",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Gauth",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Gemini",
+      "catalogId": "gemini",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Gemini Notebook",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Goodnotes",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Grok",
+      "catalogId": "grok",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Hi Translate",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Hypic",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Meitu",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Meituan",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Meta AI",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Microsoft Bing",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Microsoft Edge",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Notion",
+      "catalogId": "notionai",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Nova",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Papago",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Perplexity",
+      "catalogId": "perplexity",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Photomath",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Photoroom",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Picsart",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Polish",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "QQ Browser",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Qwen",
+      "catalogId": "qwen",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "Remini",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Seekee",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "SNOW",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Suno",
+      "catalogId": "suno",
+      "status": "covered",
+      "note": "品牌或产品族对应，能力不必完全相同"
+    },
+    {
+      "platform": "mobile",
+      "name": "VN",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Wink",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "Yandex",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    },
+    {
+      "platform": "mobile",
+      "name": "YouCut",
+      "catalogId": null,
+      "status": "review",
+      "note": "未直接收录；需核验场景、官网与本站覆盖价值"
+    }
+  ]
+}

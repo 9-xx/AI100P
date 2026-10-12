@@ -4,3 +4,7 @@ logs/
 node_modules/
 .vercel
 data/weekly-failure.json
+
+# Isolated roster rehearsal outputs
+data/roster-preview.json
+roster-preview.html

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "luma",
+    "name": "Luma Dream Machine",
+    "company": "Luma AI",
+    "cat": "video",
+    "abbr": "Lu",
+    "accent": "#6366F1",
+    "pricing": "免费 + 订阅",
+    "url": "https://lumalabs.ai",
+    "tagline": "运镜梦幻、带 3D 感的视频平台",
+    "tags": [
+      "梦幻运镜",
+      "图生视频",
+      "3D 感"
+    ],
+    "intro": "Luma AI 推出的 Dream Machine 视频生成平台，擅长平滑的运镜、3D 感与梦境般的画面表现，支持文生与图生视频。界面简洁、迭代快，并具备 3D 重建相关能力，适合创意探索与概念演示。提供免费额度，进阶能力按订阅开放。",
+    "tier": "watch",
+    "seed": 33,
+    "aliases": [
+      "Luma Dream Machine",
+      "Luma AI"
+    ],
+    "rss": [],
+    "removedAt": "2026-10-12",
+    "replacedBy": "libtv",
+    "removalReason": "补充剧本、分镜到成片的创作工作流"
+  },
+  {
+    "id": "designsai",
+    "name": "Designs.ai",
+    "company": "Designs.ai",
+    "cat": "design",
+    "abbr": "Ds",
+    "accent": "#FF6B3D",
+    "pricing": "订阅",
+    "url": "https://designs.ai",
+    "tagline": "一站式 AI 创意内容套件",
+    "tags": [
+      "创意套件",
+      "Logo",
+      "视频海报"
+    ],
+    "intro": "一体化的 AI 创意套件，集成 logo 制作、视频生成、配音、海报与社媒设计等多种工具，帮助营销与小企业一站式产出品牌内容。适合需要快速批量出图出片的非专业用户。以订阅为主，提供试用。",
+    "tier": "watch",
+    "seed": 75,
+    "aliases": [
+      "Designs.ai",
+      "Designs.ai"
+    ],
+    "rss": [],
+    "removedAt": "2026-10-12",
+    "replacedBy": "lovart",
+    "removalReason": "补充多模型设计智能体"
+  },
+  {
+    "id": "galileo",
+    "name": "Galileo AI",
+    "company": "Galileo",
+    "cat": "design",
+    "abbr": "Gl",
+    "accent": "#4F46E5",
+    "pricing": "免费 + 订阅",
+    "url": "https://www.usegalileo.ai",
+    "tagline": "由文字生成高保真 UI 设计稿",
+    "tags": [
+      "文生 UI",
+      "高保真",
+      "导出 Figma"
+    ],
+    "intro": "面向产品界面的 AI 设计工具，可由文字描述生成高保真 UI 设计稿，并导出到 Figma 继续编辑，帮助设计师快速跨越'从零到初稿'。适合产品早期探索与界面灵感生成，提升设计起步速度。提供订阅与试用。",
+    "tier": "watch",
+    "seed": 71,
+    "aliases": [
+      "Galileo AI",
+      "Galileo"
+    ],
+    "rss": [],
+    "removedAt": "2026-10-12",
+    "replacedBy": "tapnow",
+    "removalReason": "减少设计原型工具重复覆盖，增加跨模态创作画布"
+  },
+  {
+    "id": "bloomberggpt",
+    "name": "BloombergGPT",
+    "company": "Bloomberg",
+    "cat": "vertical",
+    "abbr": "Bb",
+    "accent": "#C75300",
+    "pricing": "企业",
+    "url": "https://www.bloomberg.com",
+    "tagline": "金融领域的专用大模型",
+    "tags": [
+      "金融大模型",
+      "数据分析",
+      "彭博终端"
+    ],
+    "intro": "彭博为金融领域打造的专用大模型，基于海量金融数据训练，擅长金融新闻情感分析、命名实体识别、问答与报告辅助，深度融入彭博终端的金融工作流。是金融垂直大模型的早期代表。面向彭博终端企业用户提供。",
+    "tier": "watch",
+    "seed": 99,
+    "aliases": [
+      "BloombergGPT",
+      "Bloomberg"
+    ],
+    "rss": [],
+    "removedAt": "2026-10-12",
+    "replacedBy": "aixtv",
+    "removalReason": "减少专业金融模型条目，增加可访问的视频创作应用"
+  }
+]
