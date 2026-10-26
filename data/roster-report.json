@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-26",
   "dryRun": false,
   "totals": {
     "products": 100,
@@ -12,8 +12,8 @@
       "cat": "search",
       "catName": "AI 搜索",
       "out": {
-        "id": "youcom",
-        "name": "You.com",
+        "id": "felo",
+        "name": "Felo",
         "tier": "watch",
         "score": 0,
         "quietWeeks": 1
@@ -52,11 +52,11 @@
         "name": "网易天音",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 6
+        "quietWeeks": 7
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 6 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 7 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "writing",
@@ -66,18 +66,18 @@
         "name": "秘塔写作猫",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 4
+        "quietWeeks": 5
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
-      "cat": "video",
-      "catName": "视频生成",
+      "cat": "design",
+      "catName": "AI 设计",
       "out": {
-        "id": "tapnow",
-        "name": "TapNow",
+        "id": "looka",
+        "name": "Looka",
         "tier": "watch",
         "score": 0,
         "quietWeeks": 1
@@ -94,11 +94,11 @@
         "name": "Lovart",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 1
+        "quietWeeks": 2
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "agent",
@@ -108,11 +108,11 @@
         "name": "智谱 AutoGLM",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 6
+        "quietWeeks": 7
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 6 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 7 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "video",
@@ -122,11 +122,11 @@
         "name": "AIXTV",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 1
+        "quietWeeks": 2
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     }
   ],
   "rules": [
