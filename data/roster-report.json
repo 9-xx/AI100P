@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "dryRun": false,
   "totals": {
     "products": 100,
     "auto": 0,
-    "suggest": 8
+    "suggest": 9
   },
   "auto": [],
   "suggest": [
@@ -16,7 +16,7 @@
         "name": "Felo",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 1
+        "quietWeeks": 2
       },
       "in": {
         "id": "quark",
@@ -45,39 +45,11 @@
       "why": "该分类没有观察档席位，不能无人值守换人"
     },
     {
-      "cat": "audio",
-      "catName": "音频语音",
+      "cat": "video",
+      "catName": "视频生成",
       "out": {
-        "id": "tianyin",
-        "name": "网易天音",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 7
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 7 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "writing",
-      "catName": "AI 写作",
-      "out": {
-        "id": "xiezuomao",
-        "name": "秘塔写作猫",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 5
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "design",
-      "catName": "AI 设计",
-      "out": {
-        "id": "looka",
-        "name": "Looka",
+        "id": "libtv",
+        "name": "LibTV",
         "tier": "watch",
         "score": 0,
         "quietWeeks": 1
@@ -87,18 +59,32 @@
       "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
-      "cat": "design",
-      "catName": "AI 设计",
+      "cat": "audio",
+      "catName": "音频语音",
       "out": {
-        "id": "lovart",
-        "name": "Lovart",
+        "id": "tianyin",
+        "name": "网易天音",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 2
+        "quietWeeks": 8
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 8 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "writing",
+      "catName": "AI 写作",
+      "out": {
+        "id": "xiezuomao",
+        "name": "秘塔写作猫",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 6
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 6 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "agent",
@@ -108,11 +94,39 @@
         "name": "智谱 AutoGLM",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 7
+        "quietWeeks": 8
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 7 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 8 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "companion",
+      "catName": "AI 陪伴",
+      "out": {
+        "id": "kindroid",
+        "name": "Kindroid",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+    },
+    {
+      "cat": "companion",
+      "catName": "AI 陪伴",
+      "out": {
+        "id": "nomi",
+        "name": "Nomi",
+        "tier": "watch",
+        "score": 0,
+        "quietWeeks": 1
+      },
+      "in": null,
+      "auto": false,
+      "why": "观察档已 1 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "video",
@@ -122,11 +136,11 @@
         "name": "AIXTV",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 2
+        "quietWeeks": 3
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     }
   ],
   "rules": [
