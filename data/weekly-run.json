@@ -1,14 +1,14 @@
 {
-  "ranAt": "2026-11-02T08:50:49.302Z",
+  "ranAt": "2026-11-09T09:02:49.466Z",
   "dryRun": false,
   "news": {
-    "updatedAt": "2026-11-02",
-    "withNews": 66,
+    "updatedAt": "2026-11-09",
+    "withNews": 52,
     "products": 100
   },
   "roster": {
     "products": 100,
     "auto": 0,
-    "suggest": 9
+    "suggest": 15
   }
 }
