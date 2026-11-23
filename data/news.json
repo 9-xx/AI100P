@@ -1,114 +1,120 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "windowDays": 14,
   "stats": {
     "products": 100,
-    "withNews": 55,
+    "withNews": 64,
     "hits": {
-      "official": 217,
-      "google": 3874,
-      "hn": 44,
-      "cn": 908
+      "official": 220,
+      "google": 3960,
+      "hn": 38,
+      "cn": 1108
     }
   },
   "items": {
     "grok": [
       {
-        "title": "Grok Bot 1.0 Launch: Why \"Fewer Buttons\" Design Drives Real Product Improvement - eu.36kr.com",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRjdLdkxQR003UnJIdEozcEFUYXZCNFNhVGFfQ00xZ0s0b0VFeC10azJYM2M3NDlKYjlyOHpjQWNQczRuNnpyeC1HNFR0QWoxTURn?oc=5",
-        "date": "2026.11.16",
+        "title": "Grok AI Predicts What Anthropic’s Record IPO Could Mean for Bitcoin - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVFJYy05eHMzTTlFdndEY09sSlg3V0FEYVFKUEphR09Vd2pQU3g3S0JPSFV6R1ZRRzFWaDI2bWMxOU55X3pZWWt5SV85czlFaUJkYjBzZFhHSnZ4NTVXd2wwNXg1VFE4NTNqYXVKVW9JRElGNFdBbXFvMkRVZWNVTTdkLUhEWVduajlpOEY4em9SVHh2M0lCNDc0MFdTWnM?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
-        "title": "Grok Bot 1.0 launches with shared Bots in Slack, Teams and meetings - Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmJTWjU4UnQ1UDAwUF9Xc0UzdkdtTW80VnRIdmlReVpIY2hzdzFtOGhLWTlOSTg3MUdNdkJFcTRXS2h6NlhxcklhYXVnMUZxN3RndUdlNTJRQzVXNjRwalJTcHpjOUROTHl4WjFuZGltNk40U0JMRmhBQkUxYmR3WGdJNGdmVVczVEJ2SF94QnRhM1E?oc=5",
-        "date": "2026.11.12",
+        "title": "Tesla Grok Navigation: 1 Musk Reply, 0 Launch Dates - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZnh0SjNDZ3ZNVUZVZnRwaVp2NDBFWklpbEJNemRTWHZzclYtVXZUb2pOUTJTVU1nYjlHZDM4ajBhY2kzY2N3RVhSM2pCUTFOVEJ1T3ltX2ZDRXN4VElkQi1OVl9JaDVxa085QXVpeUZ0ZzhVUHZSUm4wT2FwYzdoejdvS2xfOUdaZVE?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
-        "title": "Grok Bot 1.0 launches with Slack integration and video call support - Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91VmQ5ODgwVzJHbE9jalcteTIwMkJmOXN1ZU5rb2U0elRrdmE2UVM2ZHB3MjRES1pKajFNZUc5aUFuM1JfWklLV3FtQjRhWjk2UkpMSmZQNlNQUHB4TERZLXhMaUdKN1E1ZGc?oc=5",
+        "title": "Introducing Grok Bot 1.0 - xAI",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1iSW1VMWc4cEMzM2NnaEFic3lqNE1tajl4VEVGWHdaRkNLeEN6TTU5RFBqMlJ5SlJKNlhTZVVERkZJYk1h?oc=5",
         "date": "2026.11.11",
         "source": "google-news"
       },
       {
-        "title": "Elon Musk's SpaceX Says Grok Helps Identify Foreign Object Debris In Rocket Parts Better Than Humans, Wit - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV3FRVkJFQ1VnZjVhZnl1Q05RamNEMnJBRjdYVjh2U21CdGhteHZGMVRDQjBIcVFiNHRDamhaWFBhay1fbnRuMmpXbTd2SW9PbEE5LXFpWXlFS0VUY3l0TkxuQWFmbG5XMmRMMlRNVzhBYzV1U1AxRkxhX3ZNUWtQTldxUXUycHhJaXNMdk5ySlNZa3R1YnBYRVZ3OWU2Z2djWlBDWW4xWlR6OUFyaEliM1BNUGZUZWFidUYtbThKZ1FUSEhrYlVDSXR3U0liX0R0d19JZlRMdmNaTy1ZREdoVElKYlh2eHhMZ3hmenJDbmJfU3dPdDJoc2syMVlzQQ?oc=5",
-        "date": "2026.11.10",
+        "title": "Numeo opens its AI dispatch tools inside Claude, ChatGPT and Grok - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1J0VzdxMlNJVEZIUGp3NldlZ08tZ2lpOUw4ZDd3RjllT1ZDMnFkcTViTnA2a09qMEdoMWJCUkpSemtuUEk4WThGUHYtZWF5SVg5V0dBWkhrNy1xczdMUDBpajNuVC1QNmdXYno2TXp5M2JQUnZ1ZjNQUG5pQjFzckFWN3B3X2t0OVVmdWVRcG9CMGFiSEl4VWhYMmFaMlk?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "ArcticRAT Android Malware Uses Grok AI to Analyse Stolen Banking Texts - Hackread",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVkcllUSVkydVdPTUFuUTdnUzB4NmpwZmN4YUVFUkxpblhoTmlnWHB0SFZiS2xrbmRvT0gtd1U1NzJBeWxhU3hxUVRtaUYzTjRBRGpHbS0tUGNDYm1MUEFPSGRFRDlpbWpDQkNfTjk5aUhjVkJhMFQwdzRBTHppQWkxYw?oc=5",
-        "date": "2026.11.16",
+        "title": "Elon Musk's Grok exposed: 3 Israeli studies reveal serious security flaws - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeGEzTDJYclNGX2ZiM0JCNnVDYWF1MEJWaGl2TGNpZ01WUVFTNHdmOC1uU2lZYjFreldNcDIxa1BNSUhEM0ZBaDA4MFpFU0xIV2U2VUh6UUVQeTBZTTM4QUZqTUJMNk11WWg5Vw?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
     "gemini": [
       {
-        "title": "Introducing Gemini 4 Hydrogen",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "date": "2026.11.12",
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+        "date": "2026.11.19",
         "source": "official"
       },
       {
-        "title": "Connect Google Wallet to Gemini for personal finance insights",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
-        "date": "2026.11.13",
+        "title": "Introducing Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "date": "2026.11.18",
         "source": "official"
       },
       {
-        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-        "date": "2026.11.12",
+        "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+        "date": "2026.11.20",
         "source": "official"
       },
       {
-        "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-        "date": "2026.11.12",
+        "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+        "date": "2026.11.19",
         "source": "official"
       },
       {
-        "title": "Get quick answers from Gemini on any website.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
-        "date": "2026.11.12",
+        "title": "Genie 4 is now available on the Gemini API.",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+        "date": "2026.11.19",
         "source": "official"
       }
     ],
     "claude": [
       {
-        "title": "Anthropic IPO Nears: Claude Maker to Debut on Nasdaq Nov. 19, Key Watchpoints for ANT Listing - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlh0SmpGWU5FNUJ6eWowRHdVSjhCWXU5dXZBRDVHQW9leFJfNFBpS29jYmFubVJ4VWtTbG9mUjJxTDVPZl9FblVWZmo4VXppdDJXMXNDUWJMMTNlS0lMLUJiUUhrdHAwNWk0T1ctaDRBOTdLZUVxUmYyVTJlOHJSbTRaWUlxYmdHQmpqZkNvaDB6b243dmdOQ2hoLVpXVG15MGplUnFFQ2Y5VDBnVGl0YjZxbldCNDRTOU1wR1l3?oc=5",
-        "date": "2026.11.16",
+        "title": "Claude Maker Anthropic Opens 34% Above IPO Price on Nasdaq - 80 Level",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd292R2ZQZWFGOGY0ajRpcVBMT01lMzduMjJaQjlVVnZBQUNDNkZFQ1pid2lJeWdkVXNnXy15eEtaMlNlelZFMFpyMmNCRmdnWGs2eWM0UmNoZXJva0h5d2J1Y3ltMnlEYks3NGRuNjVuRUhvZUNIbjVmbnFrMlkxbWRfN1FaMUE?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Claude Meetings beta launches for Google Meet - CASRAI",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySnlmZTdLYkxHWndEcERSOENDQUY5OFNVaE9ja2Z6dk1WSFFKdlBEbzdLVUNyRHBfMFpkd096THMwVGVlM3ZTRHp4WDMxTHJ5ZnpkR1QyWnp5ZXBxWE04elZQdHQxSEU?oc=5",
-        "date": "2026.11.14",
+        "title": "Revenium launches Sidekick for Claude Code cost control - IT Brief UK",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk9XYkF4SjVMMi1tQTFtVk52TlBVTVpfYzczN28xQXV1eTBvTzlObWMtUkt0R0hVSHhTd1NOQVdneTFNQjh2R182b3BCUmxQemhPVEM2VjZpd1B0SEJWNUVrbGg5ZEZoVmlDVVlOWHlDS2FubFlZeDRQTGExZ3NKYzNva0RLR0VSSDJ3?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Claude launches Whiteboards, Sheets and Data - CASRAI",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHpHZWdwR1VmNWdubEdSVU5JOHJHX3pYZzZmZTYwOWRjUkF6Tld6Yk45cWQ5aTVRTGx3RDNmMnBuWUtwUHZSdTZXVjAySXBnZE00S0VUejN0d2d6MDJpMlhOUTYtR3hEUGlOVVVveVcwN2hsYVdFUmlNTGdYWGVOUDlR?oc=5",
-        "date": "2026.11.14",
+        "title": "Just a day after its IPO, Anthropic's mathematician tells mathematicians around the world: Claude has 'so - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMkU2ekxxM3czb210UlhTd1l0VVNuT2g5dDNwdWY0S3pOWVhpbnl1Wi15bGNQTFl4T0NRanVGajVCQ2tpZFlqcGpDZnJJX3FxbktPaXBjLWZKZmpxdDJyYzN5a3QxbXVkVGJ0VTA5UWpYQ1JRdUp4R0RLQjI0cmt4UkFzX3ZGLXFGOHUwU1pHNTFHQXFUVm5Hamd4Snlibmt4Q2FicGhLV0RXbU1kVURoYW1SSzFsNnhMSHJyMUE0ZGZfaFVGVlJWNTdCbnNqcldDTGQyTnE5OS1NXzFmaFZ6eFphV3pxd9IB4AJBVV95cUxQeE1IYmFWRnZLWTlRd0N6cGpUcmQ5SjlEeHRNZ2g3enMtYkJ4WGc3amFCWGxBTmllX2E4UXpQMmxtemJrckZfbkgyVDEzX0o1S0lvZ0MwMHlnaEs5OW9EUzQxblNtZzdOd0tKMEVVeGJFeEl6MEQ5UUJmcTVzQXlnSUx6a2JOdlY2WS1PUm1GQTlneS1CQkd2VG8xNnotZDVrUE4wRTl3djVYNGhwVFVZM1F0NDR5Wlp0OVhrdFhLNmJlS1dkN0p4Vy14MUdwYUt2dlRlVzdYNVh4THFkLUdMSnVVaGdFRWtpa3BYYVVEdXF5dlp4R1hlZVhCaGYtOWxyTDZsZVhpU2FiS25ZUXVhdmd1dUVLWm01VEZ0RkdQUXVZWGY5eUJ0ZjdRTmVMWFJkWUVUTExUTHoxWTdTdXpqTlBacUdGQUU0Y2tTZzhlS3NOTkJBUEVRNExJY1o5MmxF?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "The Microsoft Outage Also Hit ChatGPT and Claude. But There’s an Easy Workaround - Inc.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzEtUGhBWDIxZFJGeUU2RGR4YTJTck9RcjFPOXFjelFBWDk1RjdwakJidW1mRXBJMEVCZ2Nvb0Vxa2JhN3ZQZDM0TU1tMUpRT0QyWjRGcmp1YTBHZ2lpa2dXUk10VDRkQjVpekNBX0tGT1h4WXN2WVEtODdBbGpnUjZjNGh2RXNFSng2RHJkLWRqQm1selA2c19qYUtmNHhiREJiaEhWdU1RamtqZHB3WGxfaEUzcGhs?oc=5",
-        "date": "2026.11.13",
+        "title": "Kalshi reports pre-IPO Claude traffic high; Techmeme cites Dario Amodei's reported OpenAI-era comment on immersive games - Digg",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IWHlGbWtRcV9reURqbjVaLWNMMjNaMDZPS1RzSkxidkJFSHFTN1lsTDA4bnQ5aWg1Ni1MSWdJY2ZRQVdK?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Claude Suffers Major Outage as Microsoft Struggles to Restore Outlook - Men's Journal",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGVPWTYwMG9mbXhRenFfcXZFR2xsMFFRMmxMc2x6akJWYlN6cFFkdXc3WnQzOWIxd1p1M1Q5OUZTZVlzSWllT2tfS1BIZXlWZEhUOWlsNDhxU3E4dEtTd0Z5aHA5azNRcVFacWg2WDlzSkl2Ylk3SS1uQ1NKdm9YS2VlTm9rM1g1azNXUG9nalU4cjE4S3B2MlAzQm9GYkJ3MF81Ug?oc=5",
-        "date": "2026.11.13",
+        "title": "Anthropic IPO: Claude parent beats SpaceX on cash raised, not on market value - https://internationalfinance.com/",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYmRSb1ZURktvTHRCdHNxeFVVaGlmRUJiQzFveTkwOFVxVVFqZEFZM0YyVlFsTnN1UmI5VjY3MXBpN2pz?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
     "chatgpt": [
+      {
+        "title": "Introducing ChatGPT for Sales",
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "date": "2026.11.17",
+        "source": "official"
+      },
       {
         "title": "Introducing ChatGPT Wallet",
         "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -122,370 +128,465 @@
         "source": "official"
       },
       {
-        "title": "ChatGPT Plus for veterans and servicemembers",
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "date": "2026.11.11",
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "date": "2026.11.19",
         "source": "official"
       },
       {
-        "title": "ChatGPT Enterprise now available in AWS Marketplace",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "date": "2026.11.09",
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "date": "2026.11.18",
         "source": "official"
-      },
-      {
-        "title": "OpenAI launches ChatGPT Wallet for agentic payments in the US - The Paypers",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHYwXzhlQTVGTG5tS0xMcGozWnlVYTVJSV9yTFlwcXAxVFJWbE04ejZsY256d1p3SUZpN0NWcXU0QS00QU5WTzd5UVFvNGxuNmU1TjR2S0tVa3VjZ0tTM0NFWHJ5UXFzUGZnZGdBRkVscDk2UEJNRV94R3VEc2tQZ1FQM19rb0Z0bmt0QWNxWm1Fd0FSMTlBa3VWLUd1Y1k?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      }
-    ],
-    "qwen": [
-      {
-        "title": "阿里上线Qwen4-Max正式版，下调API输入和输出价格 - 动点科技",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeTltUjB5U3JPNFNXckNLYVNIN3RrVGM2MVJ0VmFvRUNGdmNKY1lmZEVKWkdKY2l6TnFvS1YtU0diVFB2TlY0bEthN01vaFE0WjB5MG1rRGo0em5QbmdVVy1tSGxWTjlpZ0k3aDNB?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "🤖 Qwen4-Max 正式上线，后续将开源小模型阿里通义千问正式推出新一代旗舰模型 - 禁闻网",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUnB5anhCcjRWV21SbEhCandoOUx2UlY1S19QaHNZSWtyaEFUU0RYcjd3cWhzVzk1RDYxWjk4TU1wM29qNnFWSzlrNWhvYlp3dExRZm90Rzd3Y2hXc1B5MU5makM1Wkh6NUJmOFZB0gFzQVVfeXFMTnBMUzZQcmhaTTBObk5VODlwZzV3dl92RVNySmNuNW9qMWxSbm4wTUU2czEtbU96U3FWZDVSa0o3aGtpQ0p3ZDZGUlNxVmEwN1Z4RE5nQ21qNVptUDZBNWo4WXc0WkxNLW1tdmxKUnFEWWJBWQ?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "刚刚，阿里 Qwen4-Max 正式发布！三榜国模第一，单任务成本暴降 58% - CSDN博客",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aY2FBQVZ6MElfdjZYeWxUR2YzUVMwU0tUbUY2TDRBQlRqUnBpdnBWOXRIMUhzNEU4dlpJREwzam9iaGo5cEdwWG9zbTNCX1Q5cnZOYjlyamlYNnY5R3pjeEFBYzFRWlVWbWdQaEtCMXc?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "通义千问 Qwen4-Max 正式上线：任务成本降低超 60% - DoNews",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSU1YamxmU1FjR2xCLWhaSGFIRTltWnpVXzBuRmZxUUc4U2tBQ0VFRVhJTjV2Tzc5dEU4bEJSbllDR2N4Wkg1YTlscXcwbDhpa2JEb0VESG1jci1QWkE?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "阿里通义千问Qwen4-Max正式版发布 - 新浪网",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YYWRjbVJLZks5LWl1MVdyNGJGV25FV1lmT1JvYVRTTlBHZkFMdFgtdGJxaDlubkFCY0dYRW9QWmVJUDItTEZBbUNud2FJaktSWFp3emtIekdmTzgtczNFZlpnUmRjV0Y1Q0VNLTk0VUw?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
       }
     ],
     "doubao": [
       {
-        "title": "AI太多不会选？豆包工作独家上线工作台 把21个专业场景配好了 - 快科技",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12azlXRFdhbEhmcnFrYVNoX0YxWUVhN3JGNm55aDl3Wk8xbW5yZkluczA5X2p3ak44eV95Y2VIVjNleFVpOHFXX0NfaGVjbmtybHpHb3J5Rl8?oc=5",
-        "date": "2026.11.16",
+        "title": "2026年百度AI平台豆包GEO优化效果怎么样：机构实力与适配性测评 - 凤凰网科技",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CWExUWk9NUEZYNVpya2ZBNFVROV9VdXFYYTVFRnFYX0p3eWRnNFNjMUtGYTBDeFFMdVFFd2F6OHJnRGs3SW1MbTV0VkE?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "豆包工作上线“工作台”功能 首批覆盖21个专业场景 - 电商派",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxTEE4a3BCTEFxVzNHV1ZaLU5tX2xhak5kdU90dGNnTjhPN085bm42QW1ROG9zSE9fVFc0WDNVYWpiWUlHSkl6S1BrRGhBT1pudFNyOXdoc1ZxZkd6OGJkQQ?oc=5",
-        "date": "2026.11.16",
+        "title": "2026年豆包与DeepSeek平台豆包GEO优化效果怎么样：主流服务商能力横评 - CSDN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JSjFEYmZkaFd1WWdDNldWMGQ0VHlNYXpCcEJsSlY3Z05NdE5LTmR0dXg3S2JMOTJIRER4MnlOQW51SWtrU1pHY3dfd1NHNGktUUtjTEY2M2FxSFJZRFE?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "AI办公走向职业化 豆包工作上线21个专业“工作台” - 光明网",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01dHZCVXdqUElLQThpUFVKTXFkWUFBTVRyS2Y5THJMa05IQW9BLWtjeWhNNF9ZQ24xMWV6SEx0bmQyX3U4NnZGMDlkRGV1V05TZEppcUtyb252Q2M1YzZkX3ZPeGs?oc=5",
-        "date": "2026.11.16",
+        "title": "被当成虫咬的红点，豆包一句话“认”了出来，妈妈多问这一句救了孩子 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkE1NWdfZVVOYy16Y3NJN1FPR1FEblNZTE1QU0FNSEYyM1dZSlJpNHlGOFlzdktCNExIRk9YY2Y0TXUyN1FxWjB4R1ZBNjNSaThCN1ZGZkhpcUk5MWtMSlNTYXN1WmxVZXRualktcl9FTklxSHlhNDl1cXUwOE45WjNUc2RFeWxrc3FUQw?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "豆包工作独家上线“工作台”功能：首批覆盖金融、医疗、教育等21个专业场景|创意设计|门槛|职业|页面_手机新浪网 - 新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05NDlLY003bHd6NkpXbEZfY1dSRmlEYmFhVXlTR3RGWUdOcnhvS2ZxbmF3RURuVE1TcjRESE1mX21tQXR2ckswYnJnX0pPQW1tVFJ6d21EWlAzbTJxN2RQWFI3QmUtTTV1N2tibFQwUW10eldKSS0yYg?oc=5",
-        "date": "2026.11.16",
+        "title": "字节小荷健康未重新扩编，仍保持百余人规模，并开始为豆包等内部业务提供医疗支持 - 虎嗅网",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ck9wSVk0X2p6bUJ0OEI4V1doSDN6bkZZMFdrYmNjMTZSZXJpOHVQQjBsdHludkFIbDBIZnlMRWE2REU5WVJIZ0w2a3A2VjllSlhxVg?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "豆包工作独家上线“工作台”：首期21款覆盖金融医疗教育等场景 - 凤凰网",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcW9sYU1iR3ZqSUlJVlRNd1B6dVJROEppY2xQNlVvRlhhY3EwM0w3TnMtcDNOVWZ6Ulo0eFlxWUZvQkpTR1V4emt1TFozQmZyeVE?oc=5",
-        "date": "2026.11.16",
+        "title": "【视频】192线激光雷达+千问豆包双AI，27款极狐阿尔法S5颜值智商双升级 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NQmxmSWl1ZFRTVFdJVTk2Ym9keV9ZeVBDZ0NZNFVEZ0VVZkEtbWxhd0k1TE13OVpacWtjNDJJSG5vTkJLSmt0SU1BZW9KU1NPbkpmMHQ2c2luNzg?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
     "deepseek": [
       {
-        "title": "Alice Huang-Linked Firms Joined DeepSeek's $15.8 Billion Funding Round In Bid to Access Nvidia Blackwell - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdDNxaExQak9nOEtxamh6azczRFpDRlZYRkxrM2l2ZzBRZ2ptVXk5ZVR4LWptOFh3bGJiQWxGT0pwY0FIdDZUdjQ4MzNEUFdoU3Y3YlM4aFlvcVVHeXNWRlpvQ3NEcXhqX29wZHRTRkFxWnRvdDFrR2lYbmNwVXFnbmZSbTZnMHo5bnpKVVZDbWFhbTJ6YVdZOVRvczVwN2l1SUxIbWdlTldXLTlUZ25nVk0zNnp3bm53a3VldXBSb1E2T3hVNkw3NFBaQ3pIUk9IaFhUVXBhUkpQUG5EaVhIbFRPb3V5dmhqVlFIUnc1LVlvRFl5eW81R2V6Zlh0bGZsN2c3N281a1J2enpqWF9xdGZ5QQ?oc=5",
-        "date": "2026.11.13",
+        "title": "Anthropic Project Lantern IPO Bars Rival Work With OpenAI, DeepSeek, Cursor & Hugging Face - PanAsiaBiz",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3RyWG0wb3lpeS03WWNTNnBWWmdmOW96QTI1REYtN0FjQ2Y3blRrOWpPZTc1UEsyWUlhTW55WXJTRlM3SmZsME1Cc3NiOXhkTE5zU2RJVDZOOUsyQVE4VHp1RWhtb1J5UlVrbi1FOGRfWTJaMmtvSjRBRFZyLXJjYzN3YVZzakN0WENaQkdoa2w?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Nasdaq 100 Jumps 3% as Chips Rebound; Nvidia Lags Most Since DeepSeek: Stock Market Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGpBeWllTVlmS0JNOVVoaE5jV1o3RFBsblJZYi0xQzdPSEE5MVdCZFFWRm5xQWMtSFUteWFxc3FNSHl3TXR3V21YR2FCU0VFeGJZM21RUEJPTTl5Tkh1T3lMZC1aUmw3Q3hPSEtHdlNsSk9xcEZNczcxTDBONTJrckFrelpqU3JHNWNyZXNBdlNONkx2ZTZyN19rNnJPdUYxUjhqNzlycmNDbV95dTRyRk0ybkU4QQ?oc=5",
-        "date": "2026.11.09",
+        "title": "GLM-5.4 vs DeepSeek V4.1 Pro: Neither Has a Price Row Yet - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ya1lETldKVG9XcGRfY0ZfN3pSX0FPN3lQQ0lGZlNJejJUZlNBemNwZHNfdWotMEs5cjd0RjFCV2N2NDlmMlpYdEpGcWF6OXgzVUpVc2xia2FEUFJMR0U4bVdLdFZiamxCd0VJ?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Nvidia Stock Eyes Worst Day vs S&P 500 Since DeepSeek - NVIDIA (NASDAQ:NVDA) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEUxOFpzZWNkQ1NQM3AydDdORXdtNExwWkkzXzV1bTNkSi1hT0Rac2E2aXEzelpya19RMDhuWHZNeEwycEN5UHd4RWlDVlQtY1ppREstSDI5RnVnczBYT24yZkQ1OFR1RkZzTnNtR1FKd2o3bkVEdnJobjBWb3I2NTlHajUtbHAyZmhoRnRweXJCWThMOGdZZVhoSmMtLXZETFZPRHIwOA?oc=5",
-        "date": "2026.11.09",
+        "title": "DeepSeek, Why Are You Panicking? Uncovering the Concerns Behind the Viral AI Model - eu.36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHUDNuWVFTSnA5bTZmNk90YkMzZW5uYzhEcGlJY21aRnhwdUVnQVNhWXRhVk1HOTNkMkhtTmM3OTBJazA5SVJnazhxZHJ2eG9TbGhr?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "DeepSeek Imposes Compute Quotas on Free Users as Global Token Usage Ranks No. 1 - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlbEUzWFNIblAzZEdsNldtaWxXbE43Ylk3VEdwZGZyaDZhOW9jbFlRaFRHZ2IwWFlUSWNaSlEyZHRINHVIazNqd1FURlVqWHRaYUcycmo0dlRIY19BUW1mQVgxeWdLb3g0MjJCZE5ialR3R2xGTmc?oc=5",
-        "date": "2026.11.16",
+        "title": "Is DeepSeek's Free AI Boyfriend a Computing Power Drain That Triggered a Collective \"Breakup\" Among Female Fans With Romantic Parasocial Fantasies? - eu.36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xQ01KMzlVVDNzY1QxQXFheDBoOEF2ZF9WaHhMVF9Nd0NwUGFJRTk1MXIweWdJRnc4a0xfX0JzMTBUdkViMGxNUTgwd2lmSm1HdXVN?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "DeepSeek reportedly curbs AI chat access as computing capacity struggles to keep pace - digitimes",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVJFUXUtaFVnZUt4NzlrUFg5dk5DS1V1R05mMFd6b05rWHNfYUR5WnpiSkgwTTctV3k0M3RBdGQ1VjVlbFdXZE5HUkJJRUdpRmZXU3lqTkUxVlRGX2dsd2xIOTZXLWk4Vkk0LUtUSmllaU5oUlJ3Ri1tZ3BKZ3lLSQ?oc=5",
-        "date": "2026.11.16",
+        "title": "World's First: Multiple Production-Grade AI Operators from DeepSeek and FlashAttention Achieve Full Formal Verification - eu.36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQlhSX1hXR3piNGRfMlpzWjI3cUZhR0xITGhlaFFqU0VTNThhbnZCbVBXbkJUSGoyYWttak1wVUNsVG1weW8wNm1YaGVGdU5lWE1Z?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
     "kimi": [
       {
-        "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock | Amazon Web Services - Amazon Web Services (AWS)",
+        "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock | Amazon Web Services - Amazon Web Services",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2hGMmxMbEowUFJId01GM2tWekRqZURpT1ZjcjhiZUdzRFV1SEJ5OXRCRms2THkyVC1MbkQxZDBXNHlUY0lNeVdaX1lLZ08zQTg0ZHl5b0xiOGFDM19WakZ2QmFCU0djQlRCQ3I1THZTd3IxX0Q5bW5TdXV0enNkSjJkZmR4S09xRDlhTHo0bmItaXEz?oc=5",
-        "date": "2026.11.11",
+        "date": "2026.11.10",
         "source": "google-news"
       },
       {
-        "title": "Toto Wolff says Kimi Antonelli must be rewarded as champion - GPblog",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZndBN2pFbHJqVnhKT0Z4dUFDR3V3Q1Y2U3pQbUtZMTc0YmhsTVVnQVR0ZlBMZ0c4cGc5OWRGYVM2cHZtV2hxUUp2czFtRlVqVFRaUkk2N2N3VHU2TVd6eEtsMkNyRzU0Q1NzZGhDZ3o4Z0owbUU1ZmpodmcyRWxpOURFc1lZOUt4QWhHaUhVMzFubDEzcWoyWjkyNjhQWlVyZ2wtaTZ0ZG4?oc=5",
-        "date": "2026.11.16",
+        "title": "GLM-5.4 vs Kimi K3.1 Pro: Open Weights vs a Paid Seat - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Sm5tbzBEUlM3d3V2ZkFEYkpUbHlOWkZzc2IxTWJnMXRURm1OeE05NUN1b2VmbVBaSFhjOV90WmNLNjg0d3MtOVp5OFpIckRucTFKcFpmYkVMME9DWjJiWnQwSnpaZw?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "China’s Moonshot AI puts Kimi models into race for science discoveries - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpucXFHMllYak5sZ0xCX2gzaUttVldTLVhuMjdmTTBQMHBsYnlxUVNfYU05Y3ZrQzM4YWxnaG9ZRllhLUxNUXFObEtPTWdLZTQwR1J5NG9VYW5Hak1aT1VoV2Y3M2x3WnV5Nmp2d1VRUlp0blRYRUFJcGw1ZTlQdUl4S3BkeWFVUkY5N1EtbkJCb0JWeDU4MHhaYmotZjd0YThrTdIBpAFBVV95cUxPSDh1S2RyczlzTnc4RnNEVnNRMl9SWW1jQXVPZVNXVmEzVW1kWnFZT29oRFQ1R0hWTGFKenBWeTZOUkZvWERUUjNlWlVHY21iMnJDX2dueTFxT2dLRVozcGlkaG5BNFlGZ09FOFpubGIyRjJ5Tll1NDR3dkV6VUdfN1B6Y1JRMjUxaTRXb3Nodk8xcVFWUWJhNnFIZnExMTlDckg5UQ?oc=5",
-        "date": "2026.11.16",
+        "title": "George Russell and Kimi Antonelli Debut Y-3 x Mercedes-AMG F1 Championship Jacket in Las Vegas - House of Heat°",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TZE9mNENUZWlRVUxmZHdWZzFwZ3ZIZXlGczFWdVlKcy01ZXA4RUxnb2wtaWxreWFELVNfdXBUVk1KRHg3NFZKXzNURjRwNzZzbzM2NF83dGczRGxWUlBjdGpNaHFpdXVFLUdqeUdIeHNlVTA1RjR4alF1Z1NoNmM?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Alibaba unveils new AI model; claims it beat Claude Fable 5.1, Kimi K3.1 Pro | Firm said Qwen4-Max outperforms Qwen3.8-Max | Inshorts - Inshorts",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGtQNG13eU4zcGpEbEdDbGdLWW9qdk1XZWU2MlNYU2NKTExpOWNtT29LMXBKcEhvOFNkcGF2dlRjQWhYUkp6Vl8zNlY5UmcwcmlTbU1WZndZc3l4dGRXbldSMjV1QWk3bWVMUDNTZXRHam1sSDVzd1dIYmxPX3ZUVk1qOVlSMFJZenZLa2xjWlNSa0ItNGtvVFJPbWRMcUZ1Z0x4bng1akRXWDRZYjNkcnNDZ3poLUx4dGhj0gHAAUFVX3lxTE1vS0xFdFFrVVFzeGRIOWlXTUEwckVpY2xTeS1mUEVyZlhtZUIzR3NBZVAxRnJ5eUNPR0dnaDRBWjE4OUVYRjhVQjV4U1RGd3p3YWJ3VTRLaTBrUEl0MlpwR2o1NW14ZkZrcEhUSzJ6QTZmejFGUGJXbGFoZHp0MzBpSjk5amppY2tBUldKbmszQzJzSlhQcmtCbmMzWUNrNnFZbnVveWhlNFdCMkZLYng2bG01OXppT1pKNkI2R0tITA?oc=5",
-        "date": "2026.11.16",
+        "title": "Kimi Antonelli Lifted Once and Fell From Second to Fourth. Russell Has No Regrets - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeU9aSnB5MVRrZEVUNTFVUFJLd0FpdWttSTR1RWJMYm8ybVBuZ2FaVllOWlJ4VDJqLVB5SlpqR0hDMEd4QXpyVk16bXZMSEdIUmRldHEwZ3YwUzNTZ2hCZXdjNi1zQVJadmZmcFUxNU1zRUpzMEVVaEZUODBFX0JnNWxXM0toUW8?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Kimi Antonelli Mercedes salary in spotlight after Russell defeated – report - PlanetF1",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXhxT3pFTzJqOTltREVqdFBTT1M2b3BHX2JuVHlQOWVyYnZpLWs4NlMxNmhGMlIwREJkUHI3Zk9HUEppXzJZNmlVWjFpWHVUelZqRjZuNWQ5OGZpdWd0cG5xSE1Cb2FGT3Bnb2xLSXU4aGw2TnI0RzNWQVlKTDY0ZQ?oc=5",
-        "date": "2026.11.16",
+        "title": "A Star Is Born: Is Kimi Antonelli the Future of Formula 1? - The University Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlBaTjAwTWpqdEFxNGdCWkNGUEhSYU9fVEFHTDRubGltZnpucDZqdExEYm53VG1qZGp5ekVRaU5nbEZjeWRaTDRFM1RabHIzZVVHXzNuRTNELWZLcnhyaVRxN0Q5b09oRkVnTWx6TlMwNk9kSWlHcHRUYW1fUmZZTWNWVktscjVfdVlkby1Pb2RUcDN5dm5B?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
-    "ernie": [],
-    "copilot": [
+    "qwen": [
       {
-        "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-        "date": "2026.11.13",
-        "source": "official"
+        "title": "阿里巴巴CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VWUhCOFZSZi1YN05VRWwzTFBuMThqdUxuaWFWeTc5OG9qZEpLTFI2SmF5Y1E1bURNdnNmbkRTMUVBdk5fSU1oQmdNWVQ?oc=5",
+        "date": "2026.11.19",
+        "source": "cn-media"
       },
       {
-        "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "date": "2026.11.13",
-        "source": "official"
+        "title": "2026年通义千问与元宝平台下GEO服务商哪家强：主流机构多维对比与结论 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFSlNEbHRRaWRTN3EyQzFFdkY2dERlSWp3QUNiZ2MtR0pDUGNXVDMxUG4ydThPejduSjh0RjN6U3hOVURwTXdtMnB5dFY?oc=5",
+        "date": "2026.11.18",
+        "source": "cn-media"
       },
       {
-        "title": "Gemini 4 Hydrogen in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-        "date": "2026.11.13",
-        "source": "official"
+        "title": "2026年通义千问与豆包平台下GEO服务商核心价值与选择要点科普 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVQnZYV0V2c2ZnU1kxd2psSWpQTzBSalpaR0VGZ09VWUdNREFkblNBcXFfSjBkcFBzUERNOGtldlRVbUdlZVMzcWNzc1Y?oc=5",
+        "date": "2026.11.17",
+        "source": "cn-media"
       },
       {
-        "title": "Gemini 4 Carbon in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-        "date": "2026.11.10",
-        "source": "official"
-      },
+        "title": "2026年豆包平台优化GEO服务商推荐：通义千问收录视角下的选型指南 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfTENBUDhOVnFsMlpnYzNRcDZteXp4MUVKa0w3U3JDdlhCRnhrTEp1aGM3dnAxa0pGQ01kdmNnWExrR3pHTGUtM2pMTVQ?oc=5",
+        "date": "2026.11.17",
+        "source": "cn-media"
+      }
+    ],
+    "ernie": [
       {
-        "title": "GitHub Copilot Business Pricing: $19 Seats and AI Credits - JournalArta",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVngyOEJWcVNSLVFkQkIxakNwVWRLVUd3Z0VfbEExdXpWXzJNQWEta19LWEx5V1ZOVndrbXk2Y0Z3Q0J4QXktQ1dkQk9LOUFINjRRUGRNQXN5V3o2a2NZQzVqb0JmbVFmRlYyeGQ5Y1RYdVdoUS1qZVBWSWd6Vm9yaURHRkFzQQ?oc=5",
-        "date": "2026.11.16",
+        "title": "文心一言与GPT-4深度对比：中文任务、代码生成与工程化选型实测 - CSDN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtYlEwNzh3YUxfbG9Ed1k3SXM3M1R5Q3VLMS0zNzlIU3FSbEllNW5iOC1FenpaT3pUSk5oOU1ZLUY1c0d4MFp4TjlKU2U4d0RXeW9KbzNCZ0ladDI0VlE?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
+      },
+      {
+        "title": "北京文心一言关键词排名优化哪家好？百度生态协同的品牌可见度提升参考 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VWjNGNkRac08wTVViSkZZLVhNU2JhT05VVXh4MTZOWExFQS1QN2RvbGRvYzA5anh4TnJSc2hzcXpyMF9hTTFsdGl1WFE?oc=5",
+        "date": "2026.11.21",
+        "source": "cn-media"
       }
     ],
     "cursor": [
       {
-        "title": "Cursor says stolen Fireworks AI key led to trojanized Claude Code extension incident - news.lavx.hu",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWNBVUoydkt6VEU4cHVoMlpRc1NKLUFjR1NtS1kyRnRIdWdsTy13cDJ1RDFOUGRpRUU5dFNsbGJHSmNjZktlYzhTY2lhcXRWWnFrMWJpRThneUFKT2o4TGMzdHgxQ1U0dlRqU3czWnVRU2MwckRtTkNnQ3JUMzNBVTdPWER5alFISG9idDVHMS1rd0FNdVBTOW5yRGhQMFBMWGNQYXN4WXNtOWJVZjJnd1FWZw?oc=5",
-        "date": "2026.11.15",
+        "title": "SpaceX's Cursor looks to move away from Chinese AI models: Report | SpaceX is developing its Grok AI model family | Inshorts - Inshorts",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFReDhfanhzUTZSQjZleWdFdDRqSWJwZDRHdVZvMndfR0JDU2YydGY0RC0xUzRBMlpGSTBlejNrMURGNWFLQUU5NzlBeFpQYTc5MlF6R1ROREQ3VWp5RjYtVVFoaGxiZm9wbjhqMHFTemZFQ2pzSnBTdTU1dEZHamxkYS1xdnNZeDh5WVUxd0JKRlpyS1NhTDZvQlExV3cySmhza21lRThGZjRC0gGyAUFVX3lxTE5WTk8wanNmc09RYmhPR29KTXA5ekQ2SDZkMWtTMW5XZ2VoanFKVzJDQkFOc0RNWFNOOWpGRHc4aFpINV9IcDRib0haUmxiVXk0TE8tN2EtR1phZ3h5VjJ6YWtZZGRFUW44S0p4empNZmFHSnR0a19hcUdDNUxGd1NqaWRDaTdvc3FRdWdyYzFmMnYxOVdfTzMxQXpYelFKRzh4cS1jbGRhZXZ2X0NHVkFHOFE?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Cursor Confirms Breach: Stolen Fireworks AI Key Let Hackers Poison Claude Code Extension for Up to 5,000 Users - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GQmQwcXFwZUpYeVVqTU56TUNNMkx2UGdOcERTaHlXdDlmUjkya0ZXR09CT0dSUnJQZUY1bHVzakhqa3FKTjZyUlN1SHgyWng5RTJKclFKODRxNUpvLVBsX2JjS1pQYXpkQUNLWkVObEFpYVA4blE?oc=5",
-        "date": "2026.11.15",
+        "title": "Chinese AI models powered SpaceX-owned Cursor | Why does it now want to dump them? - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVTdybDI1aFhLRlVNcWc1T3g0eHkwYVR3emJTa052cUltRC1ONE5od1AzcURFcElGSjZmd3dxbmlqRDBoM21DTmswY2tRZ0Z5d2N2SHNhUnZjY3VfU0dQdnJBS01qbXRGVWsweE83TWVySE1HeWJ2Rk5CY1NWalhJR1ZiR0lTX2RMSlNsMkxob0ZSVldqODA1d29OV3ZLbXJFQVNROW1BdGZRcUZDbXNDYlVuaTJweWVMdzJIb2poaGhPT3NwOGY1bjJRT21GaWVsMTVybksxbURIWkVxNE5RNjBOdmJFQdIB6wFBVV95cUxNN1RHODhOVk9LZVpHRU94c0hYb1ZxSUg4UVNqMkpGNzdXRnhQSFJVTFk2MlVQTFNyLWFVSEtvaXYyRkNMc09HWFYyS1VseFZwaVZ4R01YNGwtT1RrVWZQOXlWWHI3TjhkSnVEVzBJSExFZlZNUWJ5NlJSRzJMamxYT3lJekxwVFJIOHVjQm9PNUd1SXZwS3R6QXpwM201TTN3djN5ZGtFMWR4ZjdLamozNzNyTXhFZTU1Sl9pQUhwejBGZTJfSHBIeGUzcDBHemo2MFRHeDF2YmhoNU9vdGVQOVdXbmtBWl9rLVBF?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident - The Hacker News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
-        "date": "2026.11.15",
+        "title": "Cursor vs Copilot Survey Reweighting: 12 Steps, 70 Min - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0ZvbXVvMnBfR1hxTkVoNW80Q0cxdG9DX1RNMlNDUkFYWDNmTHhjQlhGMmlQUm54Z2UtS0Z0QlV0aktQZEJXTmNvTVZiSzhGeW9yREVlNUQ1RGtNVmZKUnNPcy16c3pHVXRHNl9UeEFockxUMkViZmVxYlR0eFpZR2k5VS1kVHdBQzkw?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Cursor kept old AI coding chats for training, and hackers found passwords inside - Martin Cid Magazine",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2N1dVVnVVAxcmpsNHlpMmZ6d1g2dUFXaFhvMzczS2RGV18zM0k5SmdteXJWT2ZQaVZwa1FkVzhReVNlU2xkaDhiQ3NEbUZzamExdmZaTzhmcHRuX2xOVDBzSUNISzZhQTMwVW9BSUN5cUlPdkNSR2dWMnZaUlI0M2tnQTJSdVpaTHd2NlFfN216NllBcGNSay10anVZNEhMSmYxMFZKbWxxV0c4TEVocQ?oc=5",
-        "date": "2026.11.15",
+        "title": "Coding Editor Cursor Weighs Dropping Downloadable Chinese AI Models - WinBuzzer",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0hZZmpKODdvd0tKdGRBdUo5a3pfcDZGNVVlOU01OWd6RVFpbTRfVFR2Q3ZvT1E1VTBhNUlBS2I3TlNGUVJ0MG5NQXd6aV9NV0pCTW5vdC15MzBHWl9CQi1RQllVZkJqaktTM3RvMEJoc0NHMVExZWhsd0QzNzRYQzlRWEtteDRKWTJ0RVJ3VHFvZkZiNkhKcnROTzhkUGR4UWw2R2ZoLTdIWjV4?oc=5",
+        "date": "2026.11.21",
         "source": "google-news"
       },
       {
-        "title": "Cursor drops Fireworks AI after a leaked vendor key let hackers steal data and plant a malicious Claude Code extension - Dealroom",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0x5eDE1M0hYQ2FMemNxd2QyanFDUnBsaVEzMGVWSFhZVGVjbGU5ZzdCQTh4cV94cHJYVGxWNm81eXNmUW9iNHNqZ21yUlZodWx5YnpaZ3EzWUZFNVZqWld0Y01vVGtESXNnTGhmTUQ2dnB6Vm1IWmEzMFBWZWQxZVZfVC1WZG1ISXo5UUg1V0xtTWFNN2kwaUxkVkdJSkpjenBudEVPQ1dSNTF2a0pYWURJTnZiM3I0c3IzZ09RRmt2N1lVeTZIcS01R29OZ2ZXZVZtaXlXQ0xEVHM3VDVLWlFJbFlqSm8?oc=5",
-        "date": "2026.11.14",
+        "title": "House Committees Flag Chinese Open-Weight AI Models as Cursor Weighs Phasing Out Kimi K2.5 - CASRAI",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkh5cm9wZzN0NEg0N09DNXBLQ3ZVVVRjRDY4T0tXSV9oS2ZyejkwQ3JWaGQ2MXc5SGpEUlZiMzJGM2VfLXo3SEh2Q3I2MUVlVGFYMVNucHhOR3JiWjRmeWg5TnhMbVkxeGs5TnVhLVM1VDNFSUs4elZOQXdkTDU3SGE5cWNJSm1wM0JpUEc3WFhLd2c?oc=5",
+        "date": "2026.11.21",
         "source": "google-news"
       }
     ],
-    "replit": [],
+    "copilot": [
+      {
+        "title": "GPT-6.2 Astra And Sol Launch In GitHub Copilot - INDToday",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95MjQ0VXJnNU9YNUFJQk9Vc0FzUDFQclFMckdPcHlTR2M3Yks4eWpRRmM3cktHT3YzbkJOYVhQelRzVmNkVWEyNDNRY3AybzNOV1pmTmVIX1Z1ck1nbUZNV2JMakU2eDV2cnd1RHNlTkMxaDFndWFr?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "Microsoft launches MAI Code 2 and MAI Code 2 Flash on GitHub Copilot - Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wdmRZQmFjSmV3b3VHR0VZd2MwUXF6Y2RwVUsyRUhDZ3BMeXlkYlJHQlRfM290V2FEd1VGc2V6WklBaEZNUzJEekNsamhXc2FiOUhDWUFsb3lkeUF3cnpIODZEdjNITTZNNDFNWGJDWlJKSmdjODhZNQ?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "Microsoft Launches Mai Code 2 On Github Copilot - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDFXZC1ON3NqTDFhMVlFdXhQZHNzVG5tUHBGSkdqSDM0cnA0R252TG10YVk2cDlUU2xVZ185LVNSS2U4UnNBZlNTeG9iUHJTbzhoUWY3UEh0cF9xN3k3Tkdyb2NzRUFsZHBfckJTbjhFWmY1eHIyRmMybXNOV1hCOXpfQ29DRjd1TWtlU3BQUTNGamFHczlyTVFVRzNKUnRSUktrVWFtMTBGMFN0QzZUcHo0OUQyWDJS?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "Gemini 4 Neon in GitHub Copilot - The GitHub Blog",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMS1FJZ2psbEdtam53b1NNNV90Y1NvZUNOcDVnYkxvUkxSY0JKOXpWVFktdUNMMTA4eUVMT3phdVRDRzJtcHM5N0JxMEZVYjZfdTNERE9uaXNGdm0wTkRNYm96b2pEZFd6NzRTSGdabVlVbGE3V211UzI3YnFqQQ?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "OpenAI’s GPT-6.2 Astra and Sol arrive in GitHub Copilot with smarter coding and better code reviews - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2xYUlRYeWNSWWNmd0lQOENkYVozbzZURU1MVFhtNWNQUVlDTE0xMjBjQ0pzUzBHZmRCd05QRWJFMnV2SDQ3TlNPZVZwSTlncHRQa1VYTGRKZEk2SEpMOU12VDJLLUNSLS1fZVF0ZkUtaEh5X2JOaGEzWnJkS0ZXZ2ZWVVlMX0xTMUJ6bmFTZ0VoU3Q3Q3c4ODVoMC1ZdTdEMUxZZkhGbFRXemNBRzlXcEdDaS1BWVMxNy1YNmxpYkJHSWd1M2t5YmhwcXJPQzJ4LUg1VURDYVZlTG4yRHJZ0gHkAUFVX3lxTFBHR3ZLUVpxMjF1WFpPV3NZUGJQOUR2Y1d6S3BQWEtOcVl2elBlSEVBcXQwcmlubWhXWTlUbDZqM3hOdVVBSFJfUDZQY29rUkdsYWhVcVhGcWRWODNONU5hdFNNNW1BcnQxbDFMRW1HOEdMek1LeFBNeHc5Y0ZNMnhManA0eVpFMU44X1RhbXM1NXQ2ejcxTkpKY3NPYzhtaG9mRy1rR2c1YjM0UXBJUXZ4emlWM0czbEJlRWgtb1pqcDMtWTFQc2p2bDByTUxwWllOZUtpZ2ZrbGJPYTdrMHVNb1gtZw?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      }
+    ],
     "claudecode": [
       {
-        "title": "Claude outage: Anthropic confirms authentication issues affecting Claude.ai, Claude Code and Console - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObTRkYXJBX1NLOWl0dDFKSC1GUGFlNjBxTWF0NFVlWHRUbDhrUjZnYjNQenQ2TDlUdGtlcDZRT2NLTmhGTWRoSHJCOXRRSUpOS2RLa25TT1FVcVdoMDZvSHdROUlPV0VZV1VfZ2NaTEtlbEFkb1Btc1V6ald4dHJiNjV2MFN5ZHlMOGhjaTNvU3E5OS1RRHd1TTlqbDJxeUdISXNCQmd1bmxmajVSRkRMcmJrcE01R2prZUlBbVZqY3FqNGl2UldZdW1hXzhnVGk4VlhtSXhIXzJQMEtxbjBmUDlXb3pVQ0x3bkR3dlA4VdIB9AFBVV95cUxNYldBOHhBVUMzdTJwcTJDX3hFbkZva1I3WldBUjZ1LUdJYTROT1BYV3llQWtTWWVBNGhfbmN1V3c3eVlSaDdPSmNlU1d5NG9vVEF4Z1IwYkpsaVpIM2F6bjJWZWVOTjVPZkN2Tm04TFRkN0g4TW44QXdHUGxEd0VKbEY0a3ItNzZKRWlKVlV3R3pudkZmWE9NOXluY21sdTBDUVVzcjg5V3EwWG5LWngxSmZDUEQ4dFpzbXJtLTRhMkM4OXgxSW9IZGQwcG9JdWZmcDdSaWhRN3Y2ZEV5V1htdWlvenIyTy1MeWNtQzNGSEpkcE1R?oc=5",
-        "date": "2026.11.13",
+        "title": "Revenium launches Sidekick for Claude Code cost control - IT Brief UK",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk9XYkF4SjVMMi1tQTFtVk52TlBVTVpfYzczN28xQXV1eTBvTzlObWMtUkt0R0hVSHhTd1NOQVdneTFNQjh2R182b3BCUmxQemhPVEM2VjZpd1B0SEJWNUVrbGg5ZEZoVmlDVVlOWHlDS2FubFlZeDRQTGExZ3NKYzNva0RLR0VSSDJ3?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Claude Suffers Login Outage Across Claude.ai and Claude Code While Microsoft 365 Connector Stays Down - Startup Fortune",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDBHMlltQjk2LW1rRlJFM1k0VWtWcnVjdDR5QUloaHpmbGZuQ0tvYXpPbE1JVV83THQ5UkV2NE1reUtwUmROcDdsdzNVNnlBSEdYcmFNaEtCV3VBamlBU2Npa2FQT2szT2phRHlNUlB2UDlNYjdrSnVYZUw5VnFxY0drRU4yRnVrS2xTV0h4bHJIWTdRdndtTUVkSXBpazl2dDhENnRyOVdzcjhIRncyOGZQd04yVEVlZTZnV3hjNWN6ZjdBRjNR?oc=5",
-        "date": "2026.11.13",
+        "title": "The Last of Us Part 2 Multiplayer Mod: Twelve Weeks Launches Free, Claude Code Used for Most of It - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0R5c3R3bVIwekFYT2g3dzdHM2tSOFM3MEZIbTVYbHZuMmtWSzZYVDBkSXpUSjA5c1B2VDM5N2NDVE9MTjhiTkNqT091RWVha1dJMkZlZFo2OTFudFI5dDlsUW5ac1FfMDNtTV9BSmRqal9VUzNlcFcxbjVZTEFwVElFX2w4NFdvZDBjNFUxeTd4djRqb2VSZjlpa2Q4T1NvaGJsV21ZSDd0cm80d1pLQ0lxNWRXT3cxMDV2ZEwtSk5TNVc3THVHYUZOR0ZUWnh3QUtZ?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "7 ways Claude Code can help you run a small business — without writing a single line of code - Tom's Guide",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm0tSTBlYjAtOEFBSjYtMG56NTI2MUtFZnRXV0VZdjZhY0pzcjlOSXlnSC1qTVRNeVo4X2dUV0VzU0NOUUtMWnBja3lOV1RXVDlpc00xQTB6OWpiRTR3S3B5bi1GUEIwblJHRUhqTExhSHIxVWR1TzNXZ2g2U194dzZvT0t5aGVTUjJXYks1Ym1TQUtvdTRYdnJVU2hMZGpUVmFkUnp1R0paNGxxZ2lKdmhZYkdLeTRFR0Y2aFhNSXB1Zmww?oc=5",
-        "date": "2026.11.16",
+        "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
+        "date": "2026.11.21",
         "source": "google-news"
       },
       {
-        "title": "Revamped Claude Code: Fully Customize All Colors & Animated Backgrounds Starting Today - 36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uT0VyaFBtcW54bVpaZ3BfdXRTSzJQZ3NnVTl5MkV2d044RlJBM0pCelNTYjNkeGhia09UQ1Vob0NLODR3cFJZUGFvYWlMdTk0aU1Z?oc=5",
-        "date": "2026.11.16",
+        "title": "Claude Code fueled Anthropic's IPO. Now the company needs to figure out what comes next. - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2pRQUN2T29QcDU5Q2hOc0trRVFIWUt5MmlqMHdJb0dDX1JMbVdVaEFwWWt4bmhTWENCNWNrVVVGZ3VVb1dpMG9uN0NhZEZwNTVudEJYZ1Y4dlN0dV9YbEFkSjhlME5Oc1ZfNEdtMGVrYXhRVDFERFFzdWYycEZUZXc5TnFkajg4MlR3eFhSNFdnandxSWVQMzVqZXM0UzQzZFlz?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       },
       {
-        "title": "I asked Claude Code, Google Antigravity, and ChatGPT Codex to build the same game, and only one made something I wanted to keep playing - XDA",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzZDSFFDSmFDS3VSMFBuOWxNdDR4U1Y3clE1S3NRN01feEhtRWcwUUJnWUpvZjJjU1V3Z20wYUZQVVFNVHF5M1VIdWxrUlVpN0tvZzhhamxibW16S2xyel9QTGJocmdvRWxyZi1TREY2a1c5czB1RDhfZDVULUxjVXBmZ0ZFVmRDcjRWUVFHYlI4NW96T01WZXAtT0hmc3hCTDRiaHFJNnlyeXI3R0hfd1RUaS11ZENXaFFpNzczcE1YTTdVX3NWd05aNDBreUVoN3lJWEVkRGkwM1o1M1hoak9XZw?oc=5",
-        "date": "2026.11.15",
+        "title": "CROO Skill Launches, Letting Claude Code and Codex Users Directly Call on 4,000 AI Agents - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hWkI1NVFSZ24yVVN5MGVmN0NnMm5ZOFBMUDEtdUo2R3k3UWlWN00wNVlZZ211bENfbkV2UXZ3TDU5SF96TW1BNU16SFM2cXpxUzV1WFV2LXJWN3RwelNGc1pFVmh6S2RqY09TdEZSUEgzeFBMSlE?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       }
     ],
-    "windsurf": [],
-    "v0": [],
-    "devin": [],
-    "midjourney": [],
-    "trae": [
+    "windsurf": [
       {
-        "title": "Trae Young Suffers Career-First Embarrassment as Houston Rockets Completely Shut Down Washington Wizards Star - NDTV Sports",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2RXWE5ESTdLcHJEWFJvaWJlUUpKVkRva2dtNGt5bGo4dVh6YnFCNXBUZWpkeWZzYTdWY2JLUjctNlNvVld0MEdXaGlQTjNvYndGRXdUeTFWSjlCVkgxaU5hVFhaWTdoVWJQNnVteW5iZzVOVzVWSlNra0lLdGl5UmgzeGVmWnpWaWV6ZWo4X29VR1FidEdaMEV1V1RMcWh5d3AyOUpWcl95dXBqaWM1dG0tQkVZQTJUYXVUR1dGN0h1eGRkbV93RE9VcDJLTE1KSkU0a0V5bU5idmM4QUZCaG5NZw?oc=5",
-        "date": "2026.11.16",
+        "title": "World Windsurf Tour: Can Chilean Challengers Prevail? - nautica news",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFI4VTlGdEpkMWpNVHpYZlhEMWtyWmt0bjdQWmVkZDVCeUMydGdkUVRhYk02THJ0WDJ1X2twUDdCeUUwYUJnTlhXUmV4TGtYb3ZGTmxucHMySS1Hbk9YYk5aNmZJaExVaC1YbUZUSmFQdXlPLXRNR1Vydnc3WGxvNFgxN0pVSlg5U2VlSGROcw?oc=5",
+        "date": "2026.11.21",
         "source": "google-news"
-      },
+      }
+    ],
+    "v0": [
       {
-        "title": "Trae Young’s Scoreless Night Stuns Wizards - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0tVcWVOTjQyMW9oM3JlcEtqNXRrN0wySXJDRkltSW96dWVoeFNBamdyVkJ0T0lzMTM5TG1oZ1I2cVJ4QXFlbm56bTYzamcxbU05NDJDcS1EMWJuY2VfNUFXQ0xhME10cWt2c0NzTkstZVpSeDFmUjgxMTZfNG1vY29sWU9Fa1N4?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
+        "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+        "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+        "date": "2026.11.18",
+        "source": "hn"
+      }
+    ],
+    "replit": [
       {
-        "title": "Rockets hold Wizards' Trae Young scoreless for first time in his NBA career - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEtaSEZ0WVdCeUltczlEWjNDMlVKTlM0QnNwa0hRV1c3OV9oNkFHSGRHNzNpMTZRZFEzU1M2RjlQd1dqWWJMS2VLODk0ZmdkTFE5ZzY5SWpBdnBCY0E5M3dYV3c1U0o4ZFFVU1RKWjh0VlJndkhIWjhyQ3JaVnZKR0V0RlhzQXAxaWxLN3p0ZTdneUY1R2F4cWFsa2tMeVh1WDdkck9n?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Rockets blow out Wizards; hold Trae Young scoreless for first time in his career - The Frederick News-Post",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRnBQTlVoS01PWXV6aVRiemZmUkt2UDNUQ2VqdHZBUHpUYjFLN3NiZEtLSWozT2Vxd0NrME1JTnR5ekNZdUZ5ZU1VLXh6OS1sc1daWTFKNEJfWXhRWU5Zc2huVzhMX1hsdk5uWXNncEpfcUdoeWNaRzBWVnJ2RTgzZ0hwZGJnMW80UkRPd2cwNG5PMjhoV0VLdVJSRkdrV1hxLUFpa0RhcGRpeEFqOWhPSDdUTU82MWVUQ19lQ3hrUVF5OFZrYWNKQk5QcHpUdVpzTFJZUzNES2tIRGhLUUNMNWxNdU96cVhhbzhhMFFkVEx1UVI1OTRzSXpQQVRfUVFFNndsMmdUbnpKY1laYjlGV3dmRjJha0hI?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Tari Eason credits ‘the Wizards, for real’ for big night, Trae Young goes scoreless - Hoops Wire",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM25xa0FXbjJ6THJhNndZb0pMcWJodjFpcFBpMXYwQ3FCekZPNjRCUU9HMUpIejRZa01kNTJud3pxX0RiYk9vVHdtMVkxaEpXVG1tdWd6bmdla245R3ZDLWJrcUs3N1JqTXd3eU0wQUZtbGxaQ0laNFFneHZLN0lfSmY0TTFJb0hSbEprUlU4bHphM00zZ19QUGh3MmczZkU1dHZJaQ?oc=5",
-        "date": "2026.11.16",
+        "title": "Replit’s agent swarms built an app monitoring platform in 2 days on a $3K budget. Now, it’s offering them to customers. - The New Stack",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oSFZybnB2Y0F2TkhjZlRuQzR3bDZ0ZnNRX25odW5sM0JrUVJxSmVoOFRKXzJCTnQ4OW5rUEozM3otWVJfSm9UYXhxTE5uSDlWTHlOQVAxZDBpVmlxZWR1c1VB?oc=5",
+        "date": "2026.11.17",
         "source": "google-news"
       }
     ],
     "bolt": [],
-    "dalle": [],
-    "flux": [
+    "devin": [
       {
-        "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs | NVIDIA Technical Blog - NVIDIA Developer",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU25rMFFWU2hKMjBFcUd2ckF2d3l3REh5N19NcVUtNnlyTElIUGxocjN4Vlc3Z2JIMTQ3QUpIcWp3N1dSbnJkOUswWjJqTWJDOGkwWGxWYTlHS1M1X25meXdrOGdOLVFVWUM3WWdWdkxKZWFaS1g0ZThQd0hRRDNlTjdlSFEwRGliUzVGeXNiblVURURDVFpOUHoxeXcyeE1maVZ5dy1jSVBCMEJRMnc?oc=5",
-        "date": "2026.11.06",
+        "title": "Devin Expands Beyond Software: Enterprises Now Use Cognition’s AI Engineer for Data Migrations - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0RUY3RvT1NHTTM0Umg0ZjluQ0h0TEhHVGtDdXRSbEJUODlwTEZGdzRBblJPSkhXaVpXYXpacGxNN05sSUJiYXAtWE9XazBOZWVhY3JKcnF4X2hjNlZsUXlHXzBjSGpVRFhGeHJIS0RzQWFHb2hveUFxV2hRcGZmWW5IX1hwN1liVlNxQlhLN3FpV24zdVZUQ3cyNWduWnhRQzdVNFptNzg?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
+      },
+      {
+        "title": "What Is Devin? The First AI Software Engineer - Simplilearn.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rdDJxU1FVU3lNUW5GZ3pxQUhFS3FUcE9RcnlqaUFrMUduNF9HVlVEdVJVM3hrYnhZcDRuckRIWGhNVTVnRnhiakpqbXNITXk5YmNGRXpJVFp3VkY5MUpVbDZ3?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Cognition and McKinsey team up to sell Devin, its AI coder, to big firms - The Next Web",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNklIYzFRR0Zhd3VSZ1F3N0hqVUNqUWl5QV9WbUMydGhkV2ZralRqYU1iWjFsak44X0FTSXBtbndiZGpQeDB4U2VYQV9Wa0dWS2g5OS1NTF9DenY2THdrMm92TVpTMmstMmxNcUVqOTNDRWNzVHBONFVkeVE4TWtXT2lheEtTVElHU0ZVRGFR?oc=5",
+        "date": "2026.11.16",
+        "source": "google-news"
+      }
+    ],
+    "trae": [
+      {
+        "title": "Trae Young Scores 11 Points In Win Over Magic - FanDuel",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFdYSWZfaWJZazA1b2w2UFoyblEtSjdNUnIxTHFrSFhzbFE1em9WVTBISEFXSDlySUtCYm5mZUVPN25hS0NLNWVXazJBUHc0T0dZSUNUSjFoS3BzNFRYSm03TTVTRHBHQlB5RzNFSjRScW9LTllKcHJkTDJ3bWZ4Ri1RbkdmWUtFWjkzTHp6b1dwQ2FUa0szU1JaU1RWMExzRWJRdEZmQWtmamdPWWtzZm96cTJReHRFTHc?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "Trae Young nails it from behind the arc, 11/22/2026 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTF9ibDJURWZNS1JHdHd1alpIN2FyaVVSR0ZCa293U0dCOE9ObjBVMDczT1l1dmpiTUs1TTRpOThnOWhWSEhxRkQ3OGpzbUh5bTBVSUt2UjYyMXV5WkgwTTBaV1FBcDEzOEtXNXo2bU00bDd2SzRoTXkxY1prWDA?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "Trae Young extension will determine Michael Winger's fate with the Wizards - Wiz of Awes",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWRRS25jRWpuWmNmMFdwcmY1M0tFT3F2Tjk0V1ZveEF1Y0Y0TmJMNnF5bW9lV3p4cmxYVHdDMmdGa01LVzFFaHc4a1lzelFzTFJJak5hcjM2aWFSTE13X2QxWHJNNWhfLWhPNEdIcms3bVZqMlp5cVZuaWpyN1ZmT2FYVGlabWJuOTdXMHlLWkE3aEN5ZzdZai14cy0?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Trae Young fills stat sheet Friday against Bulls - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0VhaUhSM2xRckM2a040SExtLXI2Q1ItNXI1MkdMNVlNVkxpNEpFeUpmXzU0SEpUSUs0bmlYTEthNml6TWo3WlhfLWRHTkpBRWYwN2VFWmU5eGE2UzNsNFBnZ2hjRWp3UU1uUkdCNnNaa05BcnNOUTI2QXRTN0FqLTNPZEtmMHVfUlFIQUFZQjFoTHdTVEhXaEJuUE_SAaIBQVVfeXFMT2RIYkRqOE9yaGQyNUFpaXhoSjRSTVpoRUVKVTg3RnFadTN4QlFrMUxXU1RZV082dXktcXNtcDNYMXJjMDVObFVjTjFHUzJxZHZsZHh3OVFES2FKcEVXT0ZzYzlxOTR1N0FLWVFvNFo0bVR4SjFmaEN4MHR2SjRRV05HZC1QYkRYM3JpSmVkMEJEay1xVHRhZHN1b0Rxcnk2Z0hn?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "Trae Young with 16 and three steals in win - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWI1WmZQS2pfUm9rWVJFNDFjaGJJejU4R3IweHlyLVQ3Xy1neWN2N1JOOFA0NU9oZUJsVmY1NmFnTW5GUjhGZkNUbEFrc2F3WVNLbnFoQVpXMFNLNXBQS3drQm84MlpkQ0liOXBoTkQ3RS1jTVdfZmg2TkpaS2FkTE5sWXhXbUZNUzJBRUhsUE56QTdBXzVhVE9feW0wX3Fudmw1UWdsMk5yRHVOYkxv?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      }
+    ],
+    "midjourney": [
+      {
+        "title": "Disney, Universal and Warner Bros. ask the court to make Midjourney comply on its v8 source code - MLQ.ai",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3RjZjN5cDM4VUd4U2RyOUF0RHcxcGdhNkxSbEN4MVdiWkZpaWk1MmlzVGVMYXZOdnVNaHRZOEZfbmFoSGRYY2lYcXpYa1pJSU9UUklQQUFRN3AzZ0J4ajM3SXQ4SldNRTFrREMtT1IzVWluM0IxVi1mc0xuRkFMbDVUNVJocXpFTmludmpMeXl3ZjhtcWtrTUVVc2xrX0wxaGI5T3ZITkRxU09zcXFKSHRpYWF1dw?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Richard Lane’s Midjourney Scenes Hint at a Connected Fantasy Realm of Ruined Citadels - freeyork",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55cTBKZjJjOTFWbG01WndmejBkNmlXYVpIOGhON1FWWjFLRDNzZEdTR3Z1dndJYW5NcUNjOFN6QkJuZFM5U1FUSXhuTkJLQ0hOcmw4RmxCalo3YmRQaHNybkdpUmc0dGlmMlppMFpGLVMwTlE?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "Midjourney: Zero VC, AI Image Models and a Meta Licence Deal - AI Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFFsbGw2TUtKSU52RDBJLTVubFBQT19iMHVsS2FIa0hNTkFyYUlmUjFJSGJPWHNBb05Fb0ZpeGRhQllIMzNEbUdJZExuTzY5V3F6eXIwQUwtcHl4RXNYQk50VDFsVC1Rdm9ic1AxU0prWWZVLU14Tk9VbVF2LVZiVFBMMkRmM05MVEpweXUtSQ?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "Midjourney Pricing 2026: $10 to $120, No Free Trial - Fello AI",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00RDA5X29TVTV5M29fWFZJTnpTa2wzcjA0SWs2ZE8zYzFjTDQ5R2FpVFJpNXl6YUJFOUkxR1AyRmhuVjFmcVhKaXpseXZtRDNq?oc=5",
+        "date": "2026.11.14",
+        "source": "google-news"
+      },
+      {
+        "title": "$80 Subscription: 1min.AI Grants Access to OpenAI and Midjourney - Brief IA",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFPN0E2dnlqWUN1ODlhZzR4NkVwVFRkOXR6UnM2MEtjcW51OWlQU2dLMGZVaHpNNm9mcGx3NEV6aEtyQXVscy1DWUtES2pWRW1RZC1XbE1sOUxUWnh5ZGRXZlprYW8yWGlmeWtJVDNlS0huMGFXcE0xdHpzaGNnR2U3MXJhbkltN3ZpdjNHekREVXcxcGZjXzFpVWU?oc=5",
+        "date": "2026.11.13",
+        "source": "google-news"
+      }
+    ],
+    "dalle": [],
+    "flux": [],
+    "jimeng": [
+      {
+        "title": "爆肝爆脑制作《神仙传之罗公远 》2 #即梦ai创作者成长计划 #ai创作浪潮计划 #古装 #用ai打开人文新视界 #用ai打开100部人文经典 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VBVl9feEpOZVBQbHJtcllmRk5HNk14ZEJpN1lDVW1ETUt0bG1Ia3RLOWREMV9NYWVLemhDcEViY011eko5bW9zWXVFOVBYUDk4RGVzVEpZMFFFWkJtX2RETGFScUNldnQzVXRPcTFINGtPMGtlNVE4ZkJfZzdBcHNfa3JxLTZ0bnpFMw?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "ZPedia｜实测即梦 AI 三大工作室：不会拍片？没关系，你也是导演了 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzFyemU5eUN2TmIxUzdveVBzc0l0MDlVVWd1VDBSOHZURGcwU1cyNVlYU2pYcHNVeEhVSFB3RXlqR2pCWnNkeVdsX2x6bmFvRHg2Vl9KTDZBOGlqOVZZWmtfTHNEaEwxNjdhWFVaS2o4Mkp1WVVlRmkxajN4TV82YnB0VVZaeXFyVk9KSQ?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "字节跳动否认谢欣、张楠离职传闻，剪映与即梦AI人事安排亦被澄清 - SmartHey",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Nc1NfaENJZmhfWTNZWmZhb2x6Q1g1MDhKVjRFZVE0ekpraVBWdjNDSFJWdHBLNGhIbTBha2RRSmJpYVV1TWFJV21hM09fZG9xVE8tTkpoSFVKV1BaRVE?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "一句话生成百集短剧！一句话生成AI短剧工具推荐：即梦短剧工作室 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84RzlVQmo1Qll2WmE1MW5POFpENkUxdlpQUlk0VEhOUkxtc0p6NWtPQ29lVFREU0tpTllDZVNSbUxDWjBsZmtBTHFDMDU?oc=5",
+        "date": "2026.11.18",
+        "source": "cn-media"
+      },
+      {
+        "title": "AI短剧剧本创作AI工具推荐：即梦短剧工作室让灵感接着往下写 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbFhvaml1SWRyYnBpektmcG1WWWxZd3RyTVpROVRWcTlqRlZDU3FqMm9xak16NDBOd2Z0UE8yanFsWXRlUWZKY3Zvc2E?oc=5",
+        "date": "2026.11.18",
+        "source": "cn-media"
       }
     ],
     "firefly": [
       {
-        "title": "Adobe Firefly gets major AI upgrades | Generative AI and audio enhancement at Adobe MAX 2026 - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamV2S2VtNW9rTTNWSm9ESk9mVUREQmpYcVVRT0FVTE5yLTY4bTVTSkpqVk5XU2dDYURReWUzTGtjb0pHdG9jbUNfZk4wZy03cE1UbWNNdkxwZDJidk1zS0NUdFZqU2NjUVYyaFNkNGpEQ3BGb0pEb2lhTElTZzU5UndqNUJtVm5oTFAySEJYWWQ0UFdXS0FVUXBwMkF1WmxJX05MS3RHclZ3X0dtTDdMREN0NE5XS0FKdG9vRFA5X09Ecm5Fa1g4UF9LZWxWRFpXR2JkX0oya3puQXNiUXByaTJld3JvMW5XSzVrZTk5NFFFZ9IB9wFBVV95cUxQOTNTQm01eG5XcXctMkVsaE13ODJLck1DWlA1T3ZGS1h0ZlFSbWhORjJqaXdXZ3RjSXB0bzZhV0xmX0d2Z3YxaVR6VVNiT1o4M1FISXlBb2tGTnYyN1ZxRFNncHBYWU82N2tpR09zVnRPdXplaUxhLXExV242ejE2UDJvTnMyeEg4OFJzN3paekJOaHBUeEJwbjdTeUJhdGQ4bEVnRy0zOTgxa1RnUTRJdXFtUy11ZS1mT0pMOVYyZ3FtTG5vRlNMUXNxUWJGX2pjdmZXTHpjTDhwUU45SUx3UnplRndQR0pHZnJMY0xkX3BvT2JidG5R?oc=5",
+        "title": "Adobe Black Friday deals slash up to 77% off Creative Cloud Pro, Firefly AI tools - AppleInsider",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkwydHpYYTVVWlA5VUw4dGdhUmhocGJobEhfSi1CcWZRUUh3Ulo3X3E2NURqcmp6ZXQzTFlFbHUybk41eTg2c0hyTDAxVWVuVEdLOXpwRkF6SEhkQmpOUWxnbE1uRVZJcVlBY2k4SXpjeFpReTh3cjVVVm4yRW40cFBHR2s0eTFfYXoybzhnUl85WHc3RVR5WUJKbGpvNWxrNmN4cTZUUFZyWWpVcDdpQVk5ZHpPUUx6U0ZkUnBOSQ?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "Adobe’s Firefly AI Assistant makes it easier than ever to create great content - MakeUseOf",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQ051cUoteTR1YzZYclhka09OMmVuem9scFM0aUwzODh5RnFNRW1qR2d2bkpIQTNMVC1fOUVvcTRURVllT3FIYkRiNzB2dUd4dHpXakx0YTlHaVdlZDRma0d6RQ?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       },
       {
-        "title": "Adobe Firefly Becomes An AI Creative Studio With Agents - WeRSM",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JUTc5MHBOTF9IOWlJWDAyM2FCbTE2N0dHSzI2R19BSE9fN1NkZXVSczRpaFBZRzZSM1lfa292TFkyUEVQX0RQWXRVb3ptQzFpVEpuU3daQVoxRWdQaC1ib2NnVHB2YnNHY3c?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Adobe Firefly was supposed to be the safe AI option – so what's changed? - Creative Bloq",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVMyQkF3S1Q1ekNaOXRFeThmbmotX3FCakFqM2NaTHNkNTQxWXV4TXhsOW51bVJrNHFGNHMteC1oMzZLcWhrY2pYc1JuUy1LSmZWeGxTdlZCZjNTUk9yTDlWOWtNUTJMM3kyUENCcmFOMkpTOWs0MG50NGY5THY2elNVenJLZDdNc0ZGZHdmM21aUmVhVnFMMm9JemRIWnZITjZNemxJMWJtOHY4VkFZ?oc=5",
-        "date": "2026.11.15",
-        "source": "google-news"
-      },
-      {
-        "title": "Adobe Firefly Adds Design and Workflow Tools in Beta - Technobezz",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9qVklxZHhOWlNpNjh3UFdQRk1JZ3lfNVNqZWhvN1dubW90WDNCWVVEOFFmdlRmTy1KZ0xlSlZRM0NBeUZNTFVWTWd1TnFfR3JBM1BZWVVZbXRNTTI1a3p1VE9KaGU3UEFycmt2S2FlVnFhQXM2c0d0aTRhT3FiSjFfRQ?oc=5",
-        "date": "2026.11.14",
-        "source": "google-news"
-      },
-      {
-        "title": "Video | Adobe MAX 2026 Explained: Firefly Goes Agentic, Premiere Pro Gets AI Upgrades & More! - NDTV",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2F3MDlrSDFyWEhHblVNYnZ1OHR6cVpNVC03QmhraG1hM1NtcnoxM3JlWnhwdW41dS0yMVI2LUZaalhUSjV4NFN6MUY1azBTak4wV05NTXk4NktVQ0VPNEVZbDFRVHRraGZEUVVld1FoekQwQUZqX2twT3Z1dkllVnMwdHRoTE1UUDNBcHZBM1Jad1RXR0tjRVlpbVdfanlHcDIxWkhkYmliQURDeVBJWXdRU1NjQQ?oc=5",
-        "date": "2026.11.14",
-        "source": "google-news"
-      }
-    ],
-    "jimeng": [
-      {
-        "title": "发财梦 轻信返利赔积蓄，错付真心失家财。全片由即梦AI制作 #即梦AI创作者成长计划 #AI创作浪潮计划 #防骗 #反诈 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVU0wV3I4aTlSdzhLc3BGaFYtMkR4b2tQSHB1bXoyRzRxM1dBeVpiVHRraVNpaGM3YWF3ME5YSWlVc2F1dWo0eFdNanU3eXh2djJWUnlPLWIwU3FPdEpBMHZvazV1dlhsVGNaTXBuQnZRbUxRclRVYWNmem9rRW1HME1BLXpnZzhadXhxMg?oc=5",
-        "date": "2026.11.15",
-        "source": "google-news"
-      },
-      {
-        "title": "即梦一个月连发两个工作室，张楠带队视频AI加速跑 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGNVaDh3bVRhN0pPa2J4OW5OR1RzTmg5TFRHRFY5WHNYdGE4RGVRcUlIR2F2U19KNGZnOWdjZmlsQ3N1VTRIbXA2UmtqRUt3Ni11RVpQdWZfdWJSSF9VTTFhTnpkaDZUMTVIeTFpajgtNHctZ3V3X1E0S2dGRU5zbHFXNnpkV05YUmxpdw?oc=5",
-        "date": "2026.11.12",
-        "source": "google-news"
-      },
-      {
-        "title": "字节即梦下场做了个 AI 短剧工作室 - 腾讯新闻",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FVXZXQVZKTGx0dk1FOVR3aTZsOGotUVJrVDB6SVRLa2lBX0NjN2NLUHJDUTVncUY0LWpYRFhkSUhlNHVNSnZnaGlvTnRHYTFfY1BtMEFR?oc=5",
+        "title": "Adobe Firefly Expands as the AI Creative Studio, Bringing Adobe’s Trusted Creative Tools to Every Creator - Adobe Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUDE4VGtTTDZZblhnYVdjSXZPVU5oZkRkbVVuTzdzQUYycGV0a0czMTFaT0NoTnRURzE1SHgzM01xZ3FvTy04alhJTm5BbDFtYUFUQ1h4QU95alpHNi1FcklkY0thS2RK?oc=5",
         "date": "2026.11.10",
         "source": "google-news"
       },
       {
-        "title": "阿里内测AI创作平台Looogen 阿里版即梦AI即将上线？ - eu.36kr.com",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wQk1CcUJHWjJhUWwxQXp5cXdTUVRhbHkyVHhoNDRWOURaRTkteTJqbnVaMkczZHdLRzhBRjZnQlB3dXZBbVNPTVg5V2w5RlE4eHk0?oc=5",
-        "date": "2026.11.04",
-        "source": "cn-media"
+        "title": "Explore new ways to create across Creative Cloud and Adobe Firefly while advancing your craft with more precision, choice and control - Adobe",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeW9BS0pvTDZLTGZrZjZ1d2g1eWVTZ1R3anVraW9LWlNGTHFCekJxcFJUUFNiVVR6SHlacVRteU5mZV9OLXAyVUc4bnpmeEk1ZVd4b2lnY3JjOHdUMk9SNHh5YkNIRUJLRkdDRDd6TTU1dGM5NHltRW00d2ZMSF9YMGhHMGszS19oQXA5NnhUdFEycjhlSXdRUkdVSnFIMHljR1pZR2RWZGNPdjJVMTN0WGRmcVg4MUFYZHktS1hVNzBGM1AwbWlqMWZJemFFSFYwUGZ6MmlaMFB1dG4walJmdWUwakFhQQ?oc=5",
+        "date": "2026.11.10",
+        "source": "google-news"
       },
       {
-        "title": "2026年AI短剧视频创作工具推荐：即梦短剧工作室全流程解析 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yc05DWW52dW1oUmpQSzRXSExHdUdGcXdUREgtcEpUbWxBNjFYcEVoSW4yR0NEb3lzTlBCeUdDUTkwclhiTGxCNmUtbmQ?oc=5",
-        "date": "2026.11.12",
-        "source": "cn-media"
+        "title": "Adobe Firefly and Premiere mobile unlock new ways to create videos, edit content and find the perfect soundtrack for your stories - Adobe",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXY1bjRQYUk2bUkyZzVhT2c3UmlSR1d0YVc5c25QRWZubXdsWno4cF9yZENqOWgzOUhjY1g5UWNLMnl0TXNxZXhRcG1IWlJZMjlJdzlOeV8xVjlsOXRSWS1sVUN5S0YtOFRsRlNQQURYUWNfTEhxMi1UdkFZcFVWWGJxZzFwRTBpWldTYUpVUy0tNHRRMmd5TjdHSGNUNTdnT1EtNUNIcVZaZDZjMkRfUTRUUXpkTFBrZWtlbG5mZUpuLW5YMzkwdDUxNHFRZw?oc=5",
+        "date": "2026.11.10",
+        "source": "google-news"
       }
     ],
     "wanxiang": [],
     "ideogram": [
       {
-        "title": "Artlist Vs Ideogram: Which AI Image Generator Follows Complex Prompts More Faithfully? - Dataconomy",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUklQNUhtQzhTb1gzRlYyYWl5RG1MdDB0TEkwYWNrMXFXU1NNQnlVUDgtaXprcmJYOU5EY2RBYjlxcndQNGR5MFR1M09UMUpNZjFEM3hRTFRtcjRNS2VCYkFmVUdEN01TOFR2RDIyYXJBV2M2SE00bHV1bmlQdC1PZ1lQbUV1YWZDcGFpS1hxM20?oc=5",
-        "date": "2026.11.13",
+        "title": "Virse Unifies Design System Drafts, Brand Style Guides, and Ideogram 4.0 Layouts - WBOC TV",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQM3lQLThWUEdzQVhlUUZTaE81dFlQZnM2QUJRUnJ2enAxbHdDbFJ0Q2dYZWlOREhqaFlwYlBodVFTdGIwNWVYTndBS0g0Nl82UjdmT0FtVG9KNVRpcXlnWUptSHVmc1VfOHY0RWNIQTFLWGt4ZTNlNlhyUzJRbnlCNDNtcmMyaWJCdGhFY1Zvbkd2TXlfVWo0Nldzc25KQmtjUUJYNmdaV3Q3ZHRFTVU2VjBvRnlST2ROcnpPVzlDa2NKd2JkVmdaSDA4TDJKOVZaQ2Zxdkd0OHAtWDVvbEdtLTdib3RPWHNFWVBhNzBzZlBtdG1fc3N1TFVrSzRwcjRoODhEZVJmTFNBUDFI?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "FIBO 2.0 vs Ideogram 4.5: Rank 31 vs Rank 38 on Editing - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uQ2RVeEhRUGJqQWYxQTFMVVdfTGlBb1Jqbkk0c1JWYXJfcDVUY1o0M3BoOVMyNXV1TmVOaGdiRlJZRktFTzdtU2RDbVNWcVZDUGF1ejdQMlpxNUR6d3FiTW16RFZLQQ?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Ideogram 4.6 vs Nano Banana 2.1: $0.60 vs $0.113 a 4K Edit - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tLWNBY3BaRTdhSE9iNTc0UElmR2pHbDliS190Ym92aG03czlVUDFTbjdRSFpoZVVIWEktQXdFMExHM2JmZTlyZ3ZWQkVIRUNBWkJqZFRBVWVVMUgzQ05nbTFoRjA3T3BQRVpIb1VUTQ?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Ideogram 4.6: Native 4K Edits and the 1,892 Drift Score - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xb3RPZXNHWDRXZTNBUVR1SVlQX2lDUENaWlJSSDRSMEoxODBMX0M1bVFWWGppTkdWejgwWHFhdl9DYloxcjI5ZTRSNk9oTlBhVUVld3l6Y2hMN2JDVGpmRW5iZENWS3R5ck5nbTRrSDA0MzlH?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Ideogram 4.6 vs 4.5: Same Price at 2K, $0.60 a 4K Edit - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CX21fZl81NlpNUnVlRGFhU3hBV05aMm5xM2NhMDB1RFgwNU9DTGQ5SnBkQ3lFRjJfU1B1dnZneTRpSFVRb25JaGVhallDNlZDYkhMZ001OC1LeWZDRWttV0JwNlB0QTFNWm9j?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       }
     ],
     "recraft": [
+      {
+        "title": "Introducing Santa Maria T ReCraft Edition by Royal Balk Shipyard - Powerboat.World",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTzU2Z24xb3ZHQmwtMEpKbTV1aVN6a0haMDV0TVRvalp3d3V5MnVBNlo3eko5bmh3MWNXbFpDbkRpR0MxeHJjQ0w3cnNnVlQ0Wi0wNDNrY1o0MkMySTBDY2ln?oc=5",
+        "date": "2026.11.12",
+        "source": "google-news"
+      },
       {
         "title": "Balk unveils 37m Santa Maria T ReCraft explorer yacht concept - SuperYacht Times",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEh1bmJRSDFmQmtlZlU3SUZPMnVUVmRUSTRDMW1raWJ2QThtNTNCM1E2Y0FocmU2RkZGWTJLV0IzU2ZvOUFCZEhNWXZwS0ZSRk9yUUJRTmxfTWlybDVuTGEyOUxnOHRrdHRrZzlVN1A4NEdmcERjdzlfTjk1UHROblh1YjZlbmtvMUNSUndB?oc=5",
@@ -496,96 +597,141 @@
     "leonardo": [],
     "sora": [
       {
-        "title": "Love Live! Hasu no Sora Jogakuin School Idol Club TV Anime Reveals Special Trailer - Anime Trending",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlVIUVhUVVl1eTA5Y0N4TnhpV29Pb3dEUzc4NHBaVU9heUJzekY3ZUFBaFJreWVhVnVQVm5yU1l1SWYyNS1DdWU0UXF5YlFXcXhOR1Y1T19sdVB0MnYwalc3OHcxTnprdTZRNXJhUktPX0ZzWnhxLWpkTHJtbzFLWTdfUTZfRW50U05DY29nN1RFaklIWVlXRGtocllHdlZEcThVSVBSZ2IxcGpTNzZsTEFZd0ExUTlpSVBRdg?oc=5",
-        "date": "2026.11.16",
+        "title": "OSK Property enters Rawang market with RM200 mil OSK Sora, opens registration of interest ahead of 1Q2027 launch - The Edge Malaysia",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XeW5IaTZiS1Btb0pyRUMzSzlEa0VCTUNKNDRmMkJKMHloWVp1Mml1cERUMFdZV0NWUFNpVFgtS25XQ2p3bGU4Ul9CSjh6enUy?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Are the viral fries at De Frites Staan Harajuku really worth the hype? - SoraNews24",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1ByaHFFVTF3dy1hQzJaV2FjNGZiQ2lMMFFTZFVmdFRVZFgya3B3OTRoU2xXcU54LWtNWDUzdnpwUVJ5b3hGTHZfdmNFaWE2QTVBc0J2NUhkeFFxXy1ranFOZFlSLXhtRU0tLWx2d1RYaklUeFlvU0hkWi1vamhWZ1l0T2dzZFd0QTlMaGx4M3VXWXJ1a2tyWGh6MlFzR1hZN2NTczAzc9IBrAFBVV95cUxNblZZOWNoTWhnb1FwYmJqbGJjWjcyU2VlekcwcWR4MFlTU1IwaGxLcDZUMEZmUjZzb2hsZFIyMElkblJhX2lEb1NHNjRPdTdnS2pPM0RoQTAzdmtqV3l1Mm5SRmZMbVlURFR1SVpDcVVwSk1qOXNnT2xrRHdwSzdXdmNsUTFOdXdMODdlR1NxcjBXeWhRbW82a2xoNE9KTmlESnFQbUI4UWdqRUQw?oc=5",
-        "date": "2026.11.15",
+        "title": "Sora 2 Shutdown: What It Means for AI-Powered Creative When the Model Goes Dark — LBB - LBB - Little Black Book",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdElKRTBvbGhnTWxuOU8tSFU0bWk3ZVJ1QmxuUTZ6bVdIcGRRMV84ZzJNN3E3elMxM1hkVk1JWmw4c3pud2J6dXVRTHJVYXd2RFpMYnhlVGZZSkRGM0cweXBieHU5UHpTb3JETVRwYzduSnNGQ3VHeXBaR0V0eldxYWd3NjQzZ3JGWUtsa1h4WDE4ekdjWUM2Z21mbE94MFdpZUFrSnFVcmI?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club Anime Gets a New Trailer - Final Weapon",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczc0LXFxeUthTFJRLXBNbTdnVWlnWG5NWUxYTTBjUFZTb1VZdlNjTDBWbnhGbUNzM012UUhFUC1WLXM5WnhybGc0NGh0UU42Qk1Ga0FodDZrZVAtSkFZY0k5b2x3UXlLbThSOE1wYzZ0cUNpb2c3TDRUVXJ6d25OOWpHbktRa0hzUUVaaENvekNvVmNTTHpITGVsd2E3QXQ3R0VlVjRvUXpISnZuZkE?oc=5",
-        "date": "2026.11.14",
+        "title": "Sora side profile so damn pretty - Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0wMDRSWlpMTTVsT3lHMzBPRklkVGJCUl9kbnlzSFZ2MUF6d01Xb0hXeHpzWmlTZDRVd1Vv?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "KFC Japan starts selling soft-serve ice cream at select locations, and they’ve even put it in a biscuit - SoraNews24",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWpDTjBiODV2dzd2N2d0ZTRpaUJYUlJpMUVpdnp3Rm1Ic2g2Ni13ZkwzbDJUOHFCUGU2c2FWZGQwekxjNDlBTXdGc0dYSUI4c2VzeFFuNG95Ti1OVHZoVmV2d2M2THY3Y2dLd3hUdG9yODkxX1VMYzFnSWxqMXlWbVBHRmNJRFV3Tnh4M3l2SjhzT05YUkMxcGJPeGRXVEo5MjFCZkx1R0dnWE83ckIwaEpLZ0ZZczRRUTltSC1pQlhocmxfc29Hd3B4aGdXSFVIZEHSAdcBQVVfeXFMT2ozM25Dbk1Vc1RlYW56WVdWck83bGJHcElMcW5oSm15Wi1JenNBZ0pHZVlzVWxLMVdZNHVraGtaUWwwZ3dCM3N0OE94Q1lORHhsZGZWVWNLbFVFd056WnUwNmNGWUh4M0lIQThJNS1FUnU4VUN6bWhpangzTmpiMDU1dDhlVHhuOUhfLXpTekczOXhCcjBWM2dGcVpSRXhaNjRaUHJEemxILVFpdVVqT3A0bkNLQjJFWWV2VGExM2xtWS10R19oUmpaaU1RRXg2VlQ0RjZaTDA?oc=5",
+        "title": "Choi Sora — Photographer Husband Captures 100,000 Photos Including Birth - The Korea Daily",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3lCeXFST3d3U0dlRmZMdUkzWnZ6NUYyOHBYWWJSYzBhZU13aDhBVUFiR280XzFGT3RoYllObEJncFBqd1hXRElVOE0xUHY3TVhfOFJoTDNZbmJPQ21oR0VBNi0tTGNJeUVHc3M0bnplS045dnJOMi1Ia2tLWTlBUV9wN3JZWVk?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Photographer Ikobe prepares exhibition celebrating 10 years with Choi Sora - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGZ3SE82dVB3YXpMN3RDZ09nSGM4ZlVrd3ZISGZHbE0tNjA3Rl82cW5feng1SWxfbG5ncWdJd0Y0REpYcUhIbUxiSFdMNHRkRHhVaC1qRURyX2NrOXRreFl3OHViZEdTOXlLTDRUUkpjaWFieDdNQXpvNlA4aXpXYnVIRnJaWFBo0gGcAUFVX3lxTE1tNTNidC1ZcHpzMzAtS0FOYkRqckc3NzFPX211WVlQOHhJZHV1M05ZekJwTFN3VFBWU2ptMW4zb1E4MGphRklWSEd1WEc0UXlLMlFOcml4VDgtSnVYZEVwQ3J1ellDRUFSa1FNaFdkM1lITUY4b3JMbEhseV9LS0xFMmNjVzEzVzBQd3NHUTgtV185d2xUcXNuN1FaeQ?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      }
+    ],
+    "kling": [
+      {
+        "title": "可灵4.0已经上线，快手能否靠AI视频打开第二增长曲线？-证券之星 - 证券之星",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UXcyNC1Cc3BfY00wSkpqNmhEMl9VTE5jNExPUXNnRS1Kbjd2c1NkNnhYYVh0eDlDTk9Hbi1FLUNsa2tfM1YwSTB1UVNtMS0wblFScmRvTHVzd2Z2c1E?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "快手业绩会释放多重信号：Kling 4.0上线后可灵AI流水提升，加码短剧生态建设 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZTdHFDUFN6OHZMVUI3RWpSLURFMmxoVHptMWdIcC1NZlo4ZUZCTEtVR09fMTczcVRBU1pReXJJVGF3TktrOXVTXzJZYkpxNHZIeGI1aWRnTm03dlpQWHNwUGs4WEg0bUphLUhpYmdOMi1VWUJBQkVfNUREY0FnX3h2SDJvcFc1LXNpZQ?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "可灵AI拟启动港股上市，预计2027年初递表、融资至少10亿美元 - 财联社",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04cFBPUXRhVjFIc3pNZFlYYnNldVBKZUFqb0JCaElOaTRpbEZBOUZUUFE2Wm8yQnVNNlE5UnZtU3Y4NGQ0enhDZ01YeXVEMXpwRWh2TGxPdkhoQzN3X0Zn?oc=5",
         "date": "2026.11.12",
         "source": "google-news"
       },
       {
-        "title": "G-Dragon's Good Day Returns for Season 2 with San, Yeonjun, Lee Sora - PAP Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME1pYzdhQkJEOFY3Z3RiNUhPdUM2TXhtSU5Ya2xmZVZWYTdWMWJsUXFvWWNjdTJnWXQ2b0g0UkxtVXZqX3A1eDBKZlN4NG5VckxWQWFuRm14ZmU1Q3RnSENIZ1dKd3h5VDRBb25USUF6MndkYTlyUTFqT1hOcjFNTGRVdTRvVGJ6Y1EzYTl3LUk?oc=5",
-        "date": "2026.11.10",
-        "source": "google-news"
-      }
-    ],
-    "kling": [],
-    "hailuo": [
-      {
-        "title": "总价4100万元 海螺新材旗下土地等相关资产成功转让 - 同花顺",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQ3JyRGpFUmYwRnpMS1JTejQ5SGVGNFBGSm9HcnlpMGZYR29qVk9iNGZ5Y3JGV3hxbVVTQUFPeGxvZTA1bTZIOWRCNWVhMGVIbFZGVXJMczU0N3JJRHF1SjhR?oc=5",
-        "date": "2026.11.16",
+        "title": "可灵单飞，快手需要新魔法 - 中华网财经",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13cFE5aEVQcy1hUGJwTFpsTnprcHJtM3UyRFhMVmJuOVprbm9IeDdEUzl4clBiU25HQ0hzNVBZVHlpYWNrOXRDSEhIQkwxYTNwZ1NYeXlmbGIxSmdkTmp5VWZlWUphWVMtQjFwSmR3?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "安徽叉车集团与海螺集团达成战略合作 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XLUNkTXY4Zy1yZk1BU2xQN3VWYlR6U21rdlVHLS1ibTkzQnRrbWhvYkM2Tlc5SnRjaWM2MFJKc01oVm9uQUVmSV81UkNKQnJHOVp3WTVn?oc=5",
-        "date": "2026.11.14",
-        "source": "google-news"
-      },
-      {
-        "title": "海螺创业高管变动：李群峰获委任董事会主席，潘忠虹任行政总裁 - 东方财富",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wYWpudzRzRGdiV2IzQm52YVlmVFg1TVVaaUtaS2tub3FnVExqX1hUcEVMUHZJazl0VDlIMG93R3kwUkJZSDliNkdFZGZlY0JYUWRWWUZuREZBdmtSQ0xFMnczMF8?oc=5",
-        "date": "2026.11.06",
-        "source": "google-news"
-      },
-      {
-        "title": "大宗交易：海螺水泥成交537.60万元（11-2） - 东方财富",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pdkhmTUZnc0tJMGF2QXhnYzlZal9lSjUtbFdaaVc2M3Fia21naVpKNGI4MjNrNFNRT2NyQ1VaTHI1b2liVHcxR1FLdlRsMFNDbDFMLThadkdVekF1U2dfMkJVUQ?oc=5",
-        "date": "2026.11.02",
+        "title": "从快手独立，可灵要回答的问题变了 - 潮起网",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fMEZONjVKTFJiQUp5ZkR5WVVpSjBlV2RxVXMwemQyTFA1S1hqNGJsa29ReXhiU3pmNGo0ajZ1bDVoOXpPaHRVMHpJUzQ1QlNlNkdTSVE3V0VfcVNmbmEzUDJpdw?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
     "runway": [
       {
-        "title": "Skyways launches Skyreach, a runway-free cargo drone that can fly 1,300 miles - Interesting Engineering",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcF9qNUQ4dFdzU3NraEpfWHBnQ01aREtXNTFvSjZWa3A1QlVRSlptY3NPRU9FOTRFaUVxV0VkVXctVzltMXB3TV9LQnNIRF9iaUtzeHloYk1ZSEZydlBpM3ZsSHBwTnZuRzFMcFpzZUVlLU03YVBvSUtkM3lMelhRcl84QU9oSFZROVhQeUVyUUl5aklFZ0NydjdDN013OXYtRm1ESmo5eGRZcGJoUVB6RzAtLWs1d1dN?oc=5",
-        "date": "2026.11.15",
+        "title": "‘Runway markings are a language’- Bert Loupe - WLAF",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDhjSkJlVzRKbk5hTFNxcmJ6R1BFLWljYUJiaC1EbExpQTlSU3V4czM5M0NfQWNyWHZDMFFtOUR3X3VURkRZaWZ3Xy1oeDdna3ZYLXVMVFJMQ1drWUhlcXhRcUdHaTFMMTNrdzJGckdiQ0o4NkE2NVZJYVdfLUQ4b1poRTdpUHRiclE?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "UPS cargo jet runway collision with Copa Airlines - Toowoomba Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmozTmN4Y2QwcVdqRUxQQkVpdVd5b242OVBKVHVZdDhmZ3ppUmQwcTFKcjNXUFJTelhULWdXM1JUN2hRenFTZ2tFSmtiYkM2ZGo1MEhaLUg0WkpFRTZxN2g3OGhSXzlYRjdCUVUwTUx2S2x2Q2NMRjBCSmhEeDd2VGwwRXh3WW5ZeVFKVlYwd0JibFR5VGNmX3hFU2c3ZDlWZ2VkMGJhcXVTMkMyblF3UGYzRFlQRGZDOUtnMFhlMEZPTmVpRVlpVE5oaw?oc=5",
-        "date": "2026.11.16",
+        "title": "Futura Medical extends forecast cash runway as sale process continues - Proactive financial news",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVmp3Wkp2NUJobFdoN2NDX0Z0TUpTZ0JvUkZnYXVZbW41ejJYLTRwX2JfX1lHM1lTMV95Sjd3Q2xFbVFnYjZ1ZlVRQkNLc21UVzUzc1ZXNXpiWGhQQXpuVlUxY0xibEZlcnZNNERCbHNvREp2c3V3VHZQeEsyYW5uTDU0SEh5OFN4OW9EMVkwc25vV0J3aXZCeXJMZEJ2STFiNWt6STFyNHMwUnhWdVVVWnFiY2YxNUUtZXF1LVNWQWN3ZUVXeml5eHdTVWhnRWY3cmVUZC0zRQ?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "The Unlabelled Runway 2026 puts inclusion and purpose at the heart of fashion - Colombo Gazette",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWszMVpRbnVZOGFxS1VCUjRKZzZnNDdzcGRQR2pBMWQ1UWpFcy0yclBaOWdGMHRUY0dlS2dtVUczMlNDQ0psYVhjUHNQNmFUcFJQZ29LNjM1VkE1LUpZU1A0dGFLXzdEbldGWmhHQjhxQnNadDZkejhqVWdpX0FfakdyMkJlZVQ4aDRNZnU1RHIzNVduQzJ1OFVQVmlLVHB6cFZXTDBZUmdtRHVKZDdpQk9TSlo?oc=5",
-        "date": "2026.11.16",
+        "title": "Work on Boram airport runway set to start - The National | Your Number One Daily!",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FWHh1N3dFNFlIZmd3YlZfV2E5bjJ1VkNldHJtbjNwd0lKYWdzajBwb0xLTHZFZ2k3Vk5VMHR0cEJxei05R0pKMWgzbm1fQXJ3RHZfSXhaai1EdXdSWDZrV2tzTmNlWmJaa085Y003SUNjeGNKWjBuSm4tWjZJdw?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "How Qantas Used The Boeing 747SP To Conquer Wellington's Notoriously Short Runway - Simple Flying",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazZIdXpCVWtESDhRdXFNcm9VN2ZrNHU5bHJYMXF3LVVqXzVDUnFNQnB4b19VNFpDZTNLeTFjZGViU0R1bmtyLWcweFlIdGI5ci0tek9XcGV6Y1RQSG5IT053eXc4UFgtVjktYlRkbnZTWjdxd3dqeDJnWFFhZTlKbE9LQTVlUzJWWGp0ZjdsWQ?oc=5",
-        "date": "2026.11.16",
+        "title": "NYKD: Cash runway into 2029 backs a 2027 Abili-T interim readout - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2hxOXdXSjNoUjJQNXBfU2hnRV9oNHAxX0tJM0xGWThWeEhQWHY3Ul9FelZhTk4ydm9yb2VJX1NmMms4VkZmcUs4c1hZbmstd2ZiNldLTmFhUGl3SGVmbm0yZ0tJLXNycHk4ZnlWTTRCM3hwSmlab2ZxN2dONjR5RFEtcnpkVlZpUFJ6bzVKc0YwWnl6VlZYZUdTWm4zLXpQbHc5TDJfSC03UU5DR2dfVUhFelppS0duSWtUcnBxMzZBX1g1SkQyTHpvQS05R1BiZm5USHFKZl9BdENJdzdz?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Austin Airport Ground Delay Nov. 15: Flights Held Over Runway Work - deeparrival.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWW5uQnE0Rmd4emF6VmdULTdqN2lSWVJEXzQ4T0lrckxQNi1FQUJpckFXeVFoc21mVUNJaUs3QkgtZmpLdmstWTZMRUtvZl8wOWJkTVVDY21fcjdKYjhTVkh1TVhNLVdnMGRKS2NsSFhmVEpvVUdPeW5STHJxa3Y5dVJtLVhOaWVha25PWHFCOElJekxpZVBvYlVB?oc=5",
-        "date": "2026.11.16",
+        "title": "Jet aborts take-off in near miss with ute on Melbourne Airport runway - SMH.com.au",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeE1KUzNoNElwYXFrbTlLaEFTNzJPaDFXcGtiemxVNXhnLTZVZEVhcGphVVpEU2JsTzZCMllHWFFIU19qbHc2V0RWVHRhNTJmRGppT3R0aHNDUXBuQkZqYjlNcEw3MmFkTGxJcUZpNWxCazl6R0V0bGZjLVVvRXhPTk5QYlh0dGtZS2VRSWoybGFrb3lwZ1NnQkdUdEdJVERTdzA4cVVSTkNCR0hYQnJTXzYtUWRJc3gxOXhlbjlNdzdpbmlVa0VfOWYtSFo?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
+    "hailuo": [
+      {
+        "title": "海螺三投锂电，星川半固态2027量产，杉杉40亿定增包揽，跨界买的是座位不是风口 - 36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnb0RDdGtUMk1UYlg2Q0Mwc1psbklzVHQwYmloVHlhX3UzQXAxc2hXWGtuTkZBQnNQQnBvRVZnMF9SUC03cGxuUG5wdGtMemc?oc=5",
+        "date": "2026.11.20",
+        "source": "cn-media"
+      }
+    ],
     "pika": [],
+    "heygen": [
+      {
+        "title": "HeyGen Launches Avatar 6 with Script-Aware Gestures and 2K Video - Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkxSX0ZubEVnbmRXNE9MOGdfNk42RjBTaktaU01haV9NeGYtdE9jcl9rUGdERmQyU1E5WE1xYUYxRVFWWkt1WjZ6TnBpc1pEeVUzMmg5ZEM3bmJaSWk1T0E4Wld4b3lhZEhQUDIzdElKdFFPOGhEQWNYa3V2VjNYN3NoWk1Id0FsbzFNaEljZw?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "7 Best HeyGen Alternatives in 2026 - SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aaExLamlSa3Z0Y2ctUmtSenc0LXZJQVEtRjAzc0Q3aGxMZm9oRG9YaTY2dVNJVHNmM2ZDczd5WGxIUzJmYzJ0SnQ5eE4wQzBmRzVjVnVuSW41UQ?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "HeyGen Alternative Platforms For Training Teams: 2027 Comparison - TechRound",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnc2YS1yRXFRT1cySVE2QkhmRXRkZWRQTnhhbm5reEZSWGRZeUdWbUNWU1hWYkNxcHlRN0NIMGEwOXY5ME5wVVhlbkRnOVJWQmJVb1hicHBKVi0xbTlqTFR0bFR4VVI3TUt0VnBsZzg3bFptS1Z4aVBBVjNOWHlGRGJxNndlNGwxLU9iU2RYVXA0R0JKcnNmZHhqYmQ0QQ?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "HeyGen Avatar 6: What the 84.4% Indistinguishability Figure Really Measures - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JQTBWUGJ3RVlta0s1WlBHekx4bXBxV2RSYTJ3RHNZR0ZGSDN4bkdGeXVlaG9TNXlOTF94X2NBSm53aHdRc3czS01LeVJjRmFvRzY4aFFTTFUzOUFzQlN6WVJWTQ?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "HeyGen Introduces Avatar 6, an Audio-Driven, Context-Aware AI Model that Alleviates Repetitive or Unnatural Motion in AI-Generated Video - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTHlPcVpoN1VtYzQ2MUtzblNRWmcwWE5RaFg2SG5Nd0FWMExpUkFhRkozenF2MDViYzhKSFlEdnhZZGNIOFBoZ3pobERNVkNCajRReGpaUWRzR1Q0b0NZZnNUZ1JDWVZWbUE1cktJT2g3RWRPTXk1aHJlcU5YRVZ0d2RscnhEVWZEeG9paE42WnlTeVgxeDVWaEl0SkNtQ3BTSEgtUjhFTGhlNURqeU5CT1Zmbkh1X09RZ3lyTUxQRU9QVFVRR2M2QVB5VjFNTHo4bEUxVE9LNUptNmUyX3hfUUZmcTh3U2N0endLb25JWnhfU0tNSEZ2a2xUQXZMRGV2UGxiNndNbUZxOUZsZEw3Z2NUdHVxcVdENGc?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      }
+    ],
     "libtv": [
       {
         "title": "LibTV - 量子位",
@@ -594,104 +740,88 @@
         "source": "cn-media"
       }
     ],
-    "veo": [],
-    "heygen": [],
-    "suno": [
+    "veo": [
       {
-        "title": "Suno Launches Bridge Beta for AI Stem Generation in Ableton Live - Unite.AI",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmFiNmNSUjZoSG4yX0xkQktjeXJPUU92NWFqbFJZTDNaYjEzZ1Q2TmZFNDBiN2R0Qy1OTEJmUWJvUWc0eDZUWlRGNFNtS1V6WjhfYUVFMjlwZlZaYjdfUUY5SEl4SzJYYkltTE1DeUJqUUdoOVBucVg2TW5XcEhpQmw2U0hZYmsyUkJCWGhGdw?oc=5",
-        "date": "2026.11.13",
+        "title": "Seedeo MCP Adds Suno, Kling and Veo to ChatGPT and Claude Connectors - El Paso Times",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXU1VWxYLUh4dHVKelgwRmM1Q0JkVTRlQ2F5UVltTUZTdE9mM1d6ZEpVR2hEWUI3dExlak9WZlg4SlpEajIwZnpteFBxb0hOOElfckpPVHl2eUJiVmVqeTF2MEwyeTFyYkM2QmQxQ21aR2JpZk9wdVZOVG5JM3ZTM1Y0RVdGT252ZzBLRjV6X0R4NVdLa3NvMWhGdEdWWUJ5MjdDcVd5VXNyNkZRQWxVN2tjODRYRVlZMldwdS12Tzg?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "ACE Music v1 Edges Past Suno v6 to Top Artificial Analysis' Vocal Music Leaderboard - Pandaily",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm40TVV1OWdiTHFyU0dXblZobVlOWGFFOTFoMTZMM3E5UVF0Z3BLM1YyRXpTUVdoOTJOX0pIallHLUJfWGhxOWItSGN6Vld3NnVkOHJQTDRJQnc5ZFFKWk51eFNOcGZnVjBqak1YQjRJTVIxRDBtczQ3a0huUVVfdFpSeGpDSW9ZVVh6VGVR?oc=5",
-        "date": "2026.11.16",
+        "title": "WeMM-Video-35B-A3B vs Google Veo 3.1: One Signs, One Reads - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FYy1uVzVKcVdyS2d6aXhKdFF0aXc2S21kT2hNNFRFc0dkVHIwVWQwaGdudGh6eW5VQkVhbjZaNXJpRFNXVFFDdEVnc1N0OTgzU3JsYlFqdzdBcGYyRklRelJOeVN1OEZaenh2TGdDR0FqRDQ0anc?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       },
       {
-        "title": "Universal and Sony Want Suno’s Newest AI Models Exposed in 60K-Recording Copyright Battle - The Hip Hop Democrat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXdCQXRJVkREWWY1Qktjajl5bjRVRkE3Nnp6Mmd4dnZncDdubnM5WE9Tc2F0a2Z0bkxtc2JtX3ZRR1JkR2hjSHJhc1BfMHYyaVhsbEI2djVXek9NZVV6MFNvMWlWUUNFYVJ1MDhEYW1qTF8tdmk2XzByMEhhQld1OWswdnlVeV9hVDd2Vk9NZFBvV2V3cHk1N1pPZ1FJUWtpZm1MYVRnOHhHOHNZNG84djZkY29yN0hobGhTeTg5NkxFOVVRWXFsODln?oc=5",
-        "date": "2026.11.15",
+        "title": "Pit-Lane Sponsor Clips and Native Audio With Veo 3 AI - SpeedwayMedia.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEw4YldoaVlLMm14bF9EN2ZielBvRlpfUUlBWXVEU3RBSkNUZVA1MkNXenFrX3hFa3BqZnEyelNjeGJ4dy1VTUl6TFAycUF3RjI2VWNIdTN2ZWppTlp0S3BBOVUwSUc4UTdnc05kQTUxX2loSlM5NjQ2V0VEal9wWElSSmlmNkt3S3FSTjhVX1FaLWIzM3c?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
-        "title": "EXCLUSIVE: Suno Faces Demand To Open New AI Models To Copyright Discovery - AllHipHop",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjl1M1VadmNsUW1BSmxaeFdOWWJjRWppenVXNUp2YjZzamlBZUdicFVzWlJXa0x4aUMzb24yOUQ3Y2tlV2trZndpRmNNeExvZkQzZ01kdXVsNmtBaWlvSm50Q0lWUzZVdThuVmNUYUpxVElXbVVORzc0WUl5ajY2Xy13VzRUR3pBRkRJZXNvTUdLQnFEczZkVEJoWklEZEhlbUE?oc=5",
-        "date": "2026.11.15",
+        "title": "Two men convicted of fatal Veo scooter drive-by shooting in Syracuse - Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWdVT3JId2dtand6YjBkbk5JOERKZWNrTDlFRm0xZGZoSmpxSWN1VjBhckV6NmZIU3RiNWxCYmkwbGlsYlF4MzBiMnhmSGpmZE9Cd3JYTXZDdEZFZ0czOFloV0V3WDlmbnZaWnM3UGJISlNDeWVkOEpfVUpISlNaVVpJX0xDQXR0Tks3akpPZUVianRmMkVXOW5MQWV5aWdvSTJTdlp0dkcyOENNTU1OYlhn?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
-        "title": "elen \"Innocent\" (Suno AI) - YouTube",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBweGVqWHVsX3dEZUwweHNwRkYyeUxvenFSVGpiM29sbTh3akRxVGVXNC1pNTlwaDdEM3ZSVW11RnVuOGpnYi1kb3kzUGY0UGdiRTJPa3ZzUmRGRDdf?oc=5",
-        "date": "2026.11.15",
+        "title": "Indian Microsoft techie on maternity leave seeks advice on VEO: 'Have newborn to take care of' - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV2lxM3Vzalg2YUEzemozRFprQ19GMkxTVnRyMWtlY2t5M3JkODBLNkc5eEhaUm5tQ18xd1dkSjVqMFROSHFRdnJWeFpvWWVNQ2xPTXVIdE4zdkVQd0Z3OXVLSDVwMHRJNjFvTVBtZ1pLR1M5RUhyRHJNWmJrbTdYRDAzZkhyQTM4TXE4Q0d5OFhSLUtBcW43eEZLV1hQTlpueUpwb1RBWDhKVHVPSWpSWlpWWlV4emlhbGZoMHJXRkgxOVVqNmgxa3p4OHNCbndLSnd1U1dBRlBOckFMZFRaRTEzUk9NVXFfbnfSAe8BQVVfeXFMUDZqSVl2RkxzS2dNZUw3R09YQjFqUmEzSUVPenozb283NmtRc0FmelhDZDkwU3NUZVFKMWJBZlA4LW9idU5HTVF5RUt2Vm5kZXhsSWk4WFE0Szdoc3NkWjFnR0dFRlhWSURvdXdWUkFNX1dLS2d4aVRsdXNFVF9RQzVBOXBURGxRaHdzSjA2Mm1ZQ1hRU05TRzh5Yy1PaVVxeTIyQXZ6U0JTODRVZ0dadFFNNnc5TW1vTVhuTFJWVDRQSkNUdDc5NDBpZ0RiXzBTRS1pYjJycV9nOGtvOXd6ZE5ydDF1OWY3eUFHZGNPaVk?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       }
     ],
     "capcut": [
       {
-        "title": "有片！黄仁勋见工AI片疯传 被嫌经验单一兼年纪大：剪映会用吗？ - 香港01",
-        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQVHZiU1VfamVWSXpMYVlpZXBadlp3Z3RqT0NtZEpFdUpyNU1wV2dneFVoeDZ3VWpIcFJQOEFUaEJ0aE5Db1ZSc0RpcmtfRTdLRmFiU3ltb3ZOSnVvLTFSUm45YVBrbHJpNUxpSDFqZmlPbXNKLW1JVk1ueHBIbnNlNmlXVzc4Q2dNSkk2SElHUVpXM21ycVdobjYtTmZnOVVVZlZJX1J6SThQYTZRUlpTdGJUNUFoZ2dhN08yZ1BybHpmVmdOak12akZITjFpTDZwY2FFbHI4M0xvQVhBRzNaLTFZaVRaajBvZGpDZHRNSS1mYTh0Q0pTemxDTWlxeDlSMllHUWY4ZENhR1dhM1VnQ3A5S01XM29sYlJ5RjB4TGoweUVNN2g4blZzRWhiZTNGTFJXR0VVa0duSWR4TUo1dlJOaWdCbkpILWl3Qk9NOFZmaUsxNW9WRm83dlNxZVBra285eHFSSTlFQ2xXcU91SWVtc2ZoeVI1QnA3c0tuLXZ6TWtYZHNHZm1LRkFnelFVbVBOTkdUeXZZZnl5LVlwaU5RV2ZFWVlnSGNtemNmemtNbm0zQlJF?oc=5",
-        "date": "2026.11.15",
+        "title": "做完MV不用再开剪映：苏诺之音上线网页端AI视频剪辑 - 凤凰网科技",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1raUNvektOSGRPMW9BcjZUdHFrT2dNcFdNTVRpNVZoS3VSdTFiM1BIVktVd3dzQXRUdzVfMWJNVzhucWNwRzVfcUhCOWw?oc=5",
+        "date": "2026.11.18",
         "source": "google-news"
       },
       {
-        "title": "这把势必要把剪映会员用回本 大家好这是我妹我哥我爸我妈 - 手机新浪网",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RU3F0cGlPcWRiSGoxWEFmT2psa1VuNkhwWldVR2xDLXpickU3T1Bibl9BRTM1MmVBTGluYnVIY3lsd3pwdERRVkZrb1k5TUVkUVdtOUc4SzRPN0NocTlrdjVuc181MnZCVDVTREo0ZUc0ZFU?oc=5",
-        "date": "2026.11.12",
+        "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场 - 雷峰网",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03U3JCb09weFBHN3ZwMXFpRHByMUg3MDBBRTRIRXFJTG1HamtzTTJENzhnekRQMDdjM2VEYzNWWnFKVjRzbV9OMEJiR2w0R3o0SVFtdGlYei1zMXR4U0Vpcjl1UlJma1gzZmpVWEkzVEg1eXRRbl9v?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "11.11 倒数 20 分钟：会员年卡狂促汇总，bilibili 爱奇艺 QQ 音乐腾讯视频 WPS 剪映皆年内好价 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzcFdCZlI1OWpvOVVISlloUVRSd0RwUVBXTXFhT3ZDcDJjSXhpdGZBTWdKT29JaE12cFRjWmFMZjhIckVJUEoyWEd2eDk?oc=5",
-        "date": "2026.11.11",
-        "source": "cn-media"
-      },
-      {
-        "title": "11.11 倒数 2 小时：会员年卡狂促汇总，bilibili 爱奇艺 QQ 音乐腾讯视频 WPS 剪映皆年内好价 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DdVQzc0pQUE5RX3p2VjlxQzdZY3hzUVhZeHdNSFl2NnZYcENNanVVUnJXTDd4aDI3TGN2d2tJbWVGek55Y2V3VzNqRGhkQQ?oc=5",
-        "date": "2026.11.11",
-        "source": "cn-media"
-      }
-    ],
-    "elevenlabs": [
-      {
-        "title": "ElevenLabs launches new app for team meetings, transcription, and dictation - NewsBytes",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVdsTldIT2tyQ1ZxX1hjSnZWcHI4Z1NxOERTS1kyUGpGZnFta0dhY193UHVCMmhWc2ZTV051a0o5UW9ramZaVUUwa0tERHhEVnNtZy1DY2wyaDhDdlk5cThDMTd6RUNYdmVqZlowUDJienc1bS1FQnRrRmpnVlotME5xTlVUTUdjbERnLWpyME1wVzdzWVJKYV92aHdCYkFzaldQRUpmVkZLYkRVZXpBSkJLQThMWkhPNHVYWFI2X1o1dw?oc=5",
-        "date": "2026.11.14",
+        "title": "字节跳动否认谢欣、张楠离职传闻，剪映与即梦AI人事安排亦被澄清 - SmartHey",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Nc1NfaENJZmhfWTNZWmZhb2x6Q1g1MDhKVjRFZVE0ekpraVBWdjNDSFJWdHBLNGhIbTBha2RRSmJpYVV1TWFJV21hM09fZG9xVE8tTkpoSFVKV1BaRVE?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       },
       {
-        "title": "ElevenLabs launches ElevenAI meeting notetaker for teams - The Tech Buzz",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWF2d3MzR2hpOWpIZEJTQjFoRmQ3QkV1RHBHNURIMnNPWlQtZkJNeFRhVk1BdW83T210YUNfRDZlMTJEQk5UR3ZLNnRiNmRBZjl3d2wtVHNpTnpGTWlfZmx5bVVZMUt1YXhiaUVfeUgxZFNiV2xLdzNmTU1TcjI1LUUzTjlXR0R2Wm1VMFZ6M0ZOOFE?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "ElevenLabs launches ElevenAI app for meeting notes and dictation - Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrU0F1cDhpeGxZTUluUFVhRFZsdHJ4ZXZQOWF6cExZbDJlTHo0R2RtbHBNbGRPaUZnYnRyWFd4elNWMm1yNlJ2NE9adVhRb1lMVFpXdXoxUXQ3WmlZMTktRXhMckNfWWI2cUlfV3lCUkZpdTFWYTJFUmNUbEEwdWc?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "ElevenLabs Launches Scribe v3: More Accurate but Slower and More Expensive - Brief IA",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUJDOG5iZWJ0aEcyY3pidTROcm5KbDBJUk9NNnZ4ZDRzeEVaa3BVR0xoSU5rcTl2VUxmdjUxM3FjbEhZNWNldEszWnZfQmNrTHlYOUM4aV81TURzbi1UOXVrbU9ucFZlV1ZWQVZQTEhiVmx1MElVY1BLcFR6WXdnTGRUVmtxcTVoQmhWbS1PS2hINkpEYl9tNUhFOUhTV2pjN1BLejdWUHU2a00?oc=5",
-        "date": "2026.11.12",
-        "source": "google-news"
-      },
-      {
-        "title": "ElevenLabs launches ElevenAgents Campaign Manager - TestingCatalog AI News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGw3NTIzTXlYWGZWaFB6RENOUThlRkszOERVWjhZSVVRNzhWUjgzSWVGVTdzbWxIUm4yQ3Z3NkNWdGRfUERxSWdXSk9Ja3hFQkppaTR3NnpLbVZ6LU41MERyZ3pRYzlBelRtTVQ3NkF4LXQtSjZWd3JMTUE4UmpCZVdjTUdmM0w3?oc=5",
+        "title": "剪映从0到1技术拆解：自研引擎与音视频性能优化 - CSDN",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44SlVxRjNQVXhFdEYtYXRsSWJLdWdyZ191Z091U0s4bXhNTUU4a09NTEplOF8zZEpWMVJkZy13cUlUTFpKR0xwVVpVMXFxZHcwcDE2NE1NQ1Q3dVpGMTgtbw?oc=5",
         "date": "2026.11.09",
         "source": "google-news"
+      },
+      {
+        "title": "五人席位 + 每人每月 3200 AI 积分：剪映团队版会员 180 → 71 元单月发车 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QZzgwNjNNVV9mZ2tzUTRrQlpfUUxoOTZOUm1EVjhjVTVlaUJ0WGRHVWVZZU9hYlExT3JtaHEyMVgwYldBWXBHSnBMN1Q?oc=5",
+        "date": "2026.11.18",
+        "source": "cn-media"
       }
     ],
     "udio": [
       {
-        "title": "MLC Fires Back Against Udio Stream-Data Subpoena, Citing Costs - Digital Music News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rSHlJbGxtOGlIYVRyMDdZaE5ySzd4YUE0VG1YZ1djaFlHdW5IN1pXVmxYRzVUTzVLaFo3SGFmaUg2NE16MkotTEVMRkxLTnU5NE9hTl9mdHpjSElrSURvNk90WDFfZVBVQUFCMnJFN01MQ01YVVNNMFNMSTY3Zw?oc=5",
-        "date": "2026.11.03",
-        "source": "google-news"
+        "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+        "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+        "date": "2026.11.18",
+        "source": "hn"
+      },
+      {
+        "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+        "url": "https://trynotched.com/find",
+        "date": "2026.11.18",
+        "source": "hn"
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "date": "2026.11.17",
+        "source": "hn"
       },
       {
         "title": "Show HN: Umbrella – macOS app to capture audio from any app",
@@ -704,18 +834,70 @@
         "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
         "date": "2026.11.12",
         "source": "hn"
+      }
+    ],
+    "elevenlabs": [
+      {
+        "title": "ElevenLabs backer Concept Ventures leads £1.8M round for ex-Monzo scam prevention startup Acorda - Tech Funding News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqQWtKeVVURzJ5VGhNUHlmSXMyTndVcjRxOUhjM1BzYlB0aUdreFFPZzhvRktCTXA1dGU5VTBHTnQ4NklId0thcWVYUnk5MmNCdUJzb2FZNHYyajlGRWFqRXJrb0NFa0NVdVV0MC1VYzZzUktzOHVJQUp4b3hGUQ?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
       },
       {
-        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "date": "2026.11.07",
-        "source": "hn"
+        "title": "59 European tech leaders, from ElevenLabs, Lovable and DeepL to LeCun and Aghion, demand a dedicated AI budget from the EU - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGtQelJtUHV5RUM4NER6OFYzOTVLRjl0ZGdGczNXMjZoNU5QQ1lsNmd4ME9XUURaVDRyWk9KZldMQm9oanVaTHh1cFFkZC15Zks5eldoWUFzbkN6aktGSFhYMF9WLUk1YVpJZElDWUhxTFRfTkFPd3F6UGlBcWVmaF9la0YyRm9qbTU0dTFvUktKdHFPdDZKdmhOSHhPUDNQcl9xaVVHRXR0c242WVZtbHdSUTVVNU1hTDk2ZEsyTFlyYXg5Y0I0Nk96dE9sanBhTVg2ckFKcDl5ZUV4eFp5WG8zSVJfRE9k?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
       },
       {
-        "title": "Obscure audio codec is a perfect fit for the N64",
-        "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-        "date": "2026.11.05",
-        "source": "hn"
+        "title": "LeCun, ElevenLabs, DeepL urge EU to put AI in the next budget - IO+",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYl9weXpyQld2UEZwZVk1VnVHSjNfUkM0TDQybnV2a3VTdnRoa3NlQmRTcm44UmFDd05FTFlxdGhva0hpRTMxQVZ0ZVpObzRUMDZvbVR6YUo3SmhoX1pNaVBMMVdTRENaR1ljMUlfSEdGOEJRcG1IR3pLcHZUWV93dXZIYVYyV2F5UkJpNklNVQ?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "ElevenLabs Lovable Urge EU to Fund AI in Next Budget - TechnoSports Media Group",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xMGhET2xFTDFRdGhPby0wVklvYm9XWjFkSVhIb2pZTkxSU2x2SnV2S2NSYTNWelFOcDFiamdSWE5sUW82UHFfai1EMmRhbzBjcWZEajZjM0hnX2c2bnpzNUhBekRNUmFRVlo0eg?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI - Sifted",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVRkWC1teWloaEJlTk1aUGo5cVZEdFBmeWpwN2oxQXh3QmxHWkM1bkVGeEJDMkR6a3lFendZNVFaU3JRYTRqUlI1X1RsTHJxRkFsYjBMY2ozVHpKQ2pLWGwxTi1faXg4WkNCSFowUTJjY09UZWg3Tk1zclE2V0o2dGFRYlUxbnc?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      }
+    ],
+    "suno": [
+      {
+        "title": "Suno Launches AI Music Video Generator That Can Make Characters Sing Along to Your Songs - SoaplandTV",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2JScnE1ZE5jV1ZPd1NyMEdNdFQ2NG1NSS1LbVEtSDFNcHEzR1lvRU9LVm1OYTNIMkRfTXpTRUVyc2NyZllGUU1WR3VyMnRmTk9ZNzZwazZkWThJTk5QcFNKZjF3WWZVY2RvekZLeFFra1JyY2diekRWUU9uUkItQnJ4WEI4dkFTbFZFa2xaQmZoZDFk?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "Suno Launches Visuals For AI Music Videos And Album Art - Dataconomy",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWtqeUdjcWNTeHJORmFfS1BTQ0lyMTgyRXRzWmxVbkVkN3RvOFVCaUhZUFRrZHNJT0tFamFmeVk0elZIXzMteTFWREwtMmtMNThsSlQ4OElhaWEzZ3E4aW1IMVhUWTdBQUtONzIxRmVBTGN1blVtZzhyYS1fM3QwM1hNZzlibEJzdFhfZDE4UVRTNFBJ?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Suno launches AI video tool amid copyright disputes - Music In Africa",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkxjUVh6aktMMDRuV2pfTjJyay04eHQ5OFE2elduVWg3ME9BVEFHSU9IMk1sSFNwYUZPUVlnc0lLNXZuNlJlWHIzaGFhMnZMX2ZSeEdCTUFvYU5fckhDcmJOc3lPTklVSXRPSmVyUE9ZUVBMVm5hZmswdXkyeHFoRGZNSDBDaE5YRDNOUVdQYm8?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Suno launches Visuals to turn AI songs into 15-second video clips - Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTBvX2k1Wm5jbVh5QlpkelZMUkNtakowUkFDX0xaWlJrblE3NTBXUGxMSGtFaHhxa0FiTFB5NTJoSTVKNGJhSW1SZnZlRjU4N0hBaTdVWnF5N1A4eDdVaWRub2lLT0djVjNtUlo4R1pXUUJkYm9rQml5RHBlZjM3bmFBRVpfQ2I3YXBrY05uM192ZGhZVUpUbw?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "Suno Visuals Launch: H3 Move Video Credits Explained - explainx.ai",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUE50ZklwOS1FeVFTb1F0d2U1M1ctMzZtM0xJWEEwY2RqSzVPSkl0cEJ3SUpvUkJoZFJrVVpYLUI1aXBXQ2RlaHB6Yjc5OXlsaWllbkVqYXVVU2x1THhJMGtUZjA2Nk9hd0ZxdmY5b1k1Z25FSW91dmo0cmxZUGpldGk1M1pOQQ?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
       }
     ],
     "murf": [
@@ -726,14 +908,8 @@
         "source": "google-news"
       }
     ],
-    "krisp": [
-      {
-        "title": "Kellogg's Rice Krispies changed U.K. recipe, muffling its snap, crackle and pop",
-        "url": "https://www.cbc.ca/news/business/rice-krispies-changes-recipe-rice-9.7408568",
-        "date": "2026.11.04",
-        "source": "hn"
-      }
-    ],
+    "krisp": [],
+    "tianyin": [],
     "adobepodcast": [
       {
         "title": "Nov. 18: Carson faculty discuss building AI literacy on Adobe podcast - WSU Insider",
@@ -742,25 +918,11 @@
         "source": "google-news"
       }
     ],
-    "tianyin": [],
-    "stableaudio": [
-      {
-        "title": "What's new in Stable Audio: November 2026 Release Notes - Stability AI",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmJ5T2IzRm5kSkFQREZiZUxvVHpRanUtbms5NEphRFFXTnFPU2tXUVpnWFJidWMwbHNYcWpYZnRfWEs4LXNic21EMWFZZHBsNF9RNTBWZUpqbzFaSlUtS0xHbWNZVEJ2WGt5QmRXSTQwM05OUFFubzVFSEJtNXAxVDd3MFFJOHpa?oc=5",
-        "date": "2026.11.04",
-        "source": "google-news"
-      }
-    ],
+    "stableaudio": [],
     "fishaudio": [
       {
         "title": "Fish Audio Live 3 vs Sesame Preview: Who Can Be Measured - OrcaRouter",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1OVNpTm0xY0FTaVhOMmtBSG5HMklCZEVKdFNPRl9TOGt3alJ2YVJIVHR6VWFkQTFqalBmdzZkTVRmSmlVdGJwRUpMSnd4dldSc2RJeDdtemxVYzlMWklkVWg1N3dSN2hWOXVLQlpVQkpub2RD?oc=5",
-        "date": "2026.11.11",
-        "source": "google-news"
-      },
-      {
-        "title": "Fish Audio Live 3 vs Grok Voice 3.0: One Price Is a Bundle and One Is a Component - OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNjVROHowejYtV19CRWtXeGFhRXBZOWdLUkF4UkRzVUNnaHh1WUFqV1JHaGpnQUtRcHYtbUpqaDVVUTY2UGo3WFpKWHBya01qQ3FhS1FHSlpJUFFMX0RidWJveUQwZ0JiaC1SVDZRN1lRVFlI?oc=5",
         "date": "2026.11.11",
         "source": "google-news"
       },
@@ -771,8 +933,14 @@
         "source": "google-news"
       },
       {
-        "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms - MarkTechPost",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm9zUnVYRUZRS2xSa1IwbWUzSHlvdnJJTXZMalFaZ0xEa0U3WkRQMWdTQXo4QzVzMHAxbWdraV90VzFxRzBlV1NoU0YxRnRkenFMUkVkd0dWcWxtc2RZa3Z3VFEyWkJZc0VMMGhCNklmYzg1Z3pfYXFpQUtLYW5sWUU0emJKa1BPS2fSAYoBQVVfeXFMT1Jvc1J1WEVGUUtsUmtSMG1lM0h5b3ZySU12TGpRWmdMRGtFN1pEUDFnU0F6OEM1czBwMW1na2lfdFcxcUcwZVdTaFNGMUZ0ZHpxTFJFZHdHVnFsbXNkWWt2d1RRMlpCWXNFTDBoQjZJZmM4NWd6X2FxaUFLS2FubFlFNHpiSmtQT0tn?oc=5",
+        "title": "Fish Audio Live 3: 186 ms Full-Duplex Voice, Still Unscored - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TlNTcDlRTXRlRmFsNXZfajhLZGttRERET2l4LTNIQ0tfYmROS19oU3Z6MnBUZzNIOVQ3S29wOEVYNlY2S3pobWwzRWJaZzJEV1NERlZDa2toWmU5WFZRZWFuakZPVWM?oc=5",
+        "date": "2026.11.11",
+        "source": "google-news"
+      },
+      {
+        "title": "Fish Audio Live 3 vs Grok Voice 3.0: One Price Is a Bundle and One Is a Component - OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNjVROHowejYtV19CRWtXeGFhRXBZOWdLUkF4UkRzVUNnaHh1WUFqV1JHaGpnQUtRcHYtbUpqaDVVUTY2UGo3WFpKWHBya01qQ3FhS1FHSlpJUFFMX0RidWJveUQwZ0JiaC1SVDZRN1lRVFlI?oc=5",
         "date": "2026.11.11",
         "source": "google-news"
       },
@@ -783,137 +951,149 @@
         "source": "google-news"
       }
     ],
-    "metaso": [
+    "metaso": [],
+    "perplexity": [
       {
-        "title": "秘塔AI对话导出与结构化知识管理实战指南 - CSDN",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qR2RMOHdiN2NVN2Z1Sld3d3NzeDBwQlFnZFp6d0FEXzJQdFNrRUVlWUFYRE1MWk9kMmgxM1YxU2xscC1jYlFUTno3Y2lDU1oybHRqeTZ1SFZRTk93cDdSeQ?oc=5",
-        "date": "2026.11.13",
+        "title": "Perplexity Launches Monitor, Its Web Monitoring Tool for AI Agents - Brief IA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWVpOVc5MGdraG12Z183RTZEU3RlOHFMNWVnQlJYVVktNkdpTENxNm5QSDJCaU5LUjMxU05vam5uSmhQaU9sZWpKZ1ktbzFBa0p2Zno5MWdIVThxSGR6RlJOV0lJSkdyeTZDTURWS0lOTnNZYnRqbWdnVU9oSGFzOURkTTkzQnhkQXdBdnJqYmVSWkx5eVlPcU9tVm93TEJK?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Perplexity Launches Orchestrator API for Failover and Model Routing - MarkTechPost",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE9mM0hja2RJRkJTZE5RbkE0aTdYM1BETkRacmRxTzVxVFowY0N1SDc5Y0pMdmdfeHo1X3FOUmZaSXZpaTF0R19SYThuaTl6NF9UQ1dIeUVSREptYU9jSE5FV29iX2QxZkNQWndVT1JBNlMyVmlMT3p0eW9obzRFbzhBWEl6dGQ2c2ZfNlRxT3NBQzBRWHfSAZYBQVVfeXFMTWhPZjNIY2tkSUZCU2ROUW5BNGk3WDNQRE5EWnJkcU81cVRaMGNDdUg3OWNKTHZnX3h6NV9xTlJmWkl2aWkxdEdfUmE4bmk5ejRfVENXSHlFUkRKbWFPY0hORVdvYl9kMWZDUFp3VU9SQTZTMlZpTE96dHlvaG80RW84QVhJenRkNnNmXzZUcU9zQUMwUVh3?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "ShipCargo Becomes First Car Shipping Company Available in Perplexity - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkZwSjFOMlJzYjhwMm1FelR1UDhENUU4S2U1VkdINTFJVTVMZ0w3aW1yUVNRQTdBR2p6Zi1MbUVfcFN5MHh3UlAtVW9IWjZVMmdKTDZfLTNmaGxjNndWUFo4c3FGYTdQOEV4bHpOX3NncVdySjliYzFtSWp3WE5fSWE3YVQtSEpzazY1OXc2TnQwTExYVWhuZ0VodlNlN0FLOW5rWklzeUN3YzdkYmtCaHVFUGkzTlcyQkR5eEItZzVmdw?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "OpenAI reveals its perplexity numbers and calls for shared training limits - Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONktkOXNla19nRjFQNWIxekx6aVA0WnZuTWM5aWxCYmRydmN1VnJSMHFTazhFbWZtUXc2WTY5VjJzamhCc2JyUFNWZkp4MU1POHNKeWFlR1Z3WGlNNGluNW0yUm1hM1BJem1OMmU4cG9VTWVScHh1T1hUSkNNNm9EcmxHTjZqaW5UNDdJTmdjc3lmVUwxVVItTzdhV3huNWpnWHVSWg?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "OpenAI’s chief scientist has a new way to track AI progress: What is perplexity? - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWdUY0Y5Uk9qMDNVRWRHZC1HSk8zTkNnZ1F0azVBRldFT1paeU1SaHBhaWtsTWNabGgydm96UjF3MVBVemVIM19HSkYzQ1AzTElma1NvTGtrOU13T2oyT2FzeGZVeXd0a3VIcnBiMmRZTGMxUjl4d0V6bmdlOHVwY3VrTjZIS2czeGJ4OW1OYTc4SHRacjZwQVRqVXVpVGtONmJUdk05MU9ZZWhRS0xxMjE5RGFaYXFtbVpjaTd0MDllQdIByAFBVV95cUxPcHAtSEwyamFtN3hUa2g1c3FWdGN4WF9ZTzZZLXJrem94dEVpLXR0LW9TYXVkMHRNeEU4MGtQaTduU0M2WTlWUW9JQVZZZkwwYmlkM05ZQ1hBQVQ1ZHpXaXBjSTQtVl9Lb2FLX25MNUZieDJjUkxuZnN6LTJOT2d2a0hyRXE4RGxITEoxaWY1RVdDeERqUC1rYkxmVHJyRUl0bm9YVmtlek9IOThhT3pRN1pMOGZTLVVFczJzNTEwVUZmQ1ZFLV8ycQ?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
-    "perplexity": [
+    "genspark": [
       {
-        "title": "Perplexity is launching AI agents on Macs to transform everyday tasks into a digital team - صوت الإمارات",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUZjR0otNFRuU1NXdEx5UW8waUd4d1F0Ni1FVHFRY09GSkg4U0NIdTJFMjRTbzZldUxUdHBCTF9WWTgyWXQ3cFlFT3RBS3NCVVppT3hEcnBsbldxMDZmVTFLdmhiMklWSjNrM0lLcUJQcHRxZ3BfWEhHNFlBVllIZ082enVFMWJnNnh1MnE2QTFqamgtbzlObkltbUY5N2sxNXlrdWhDWUlmWjAzcWI0c3g1T0FHUjZ0aVVMU3VIUGRQZjBtaTZ2cjI5VHJlbDBZajdsaTlMYkI?oc=5",
-        "date": "2026.11.15",
+        "title": "Genspark to launch SecondBrain VoicePad on Kickstarter - ChannelLife UK",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHlNU3B0ZTMwUGRpSXhTdkxlQ3NzZURpUjJiVmp0UlE4bHNjTmhrWk1aQ2VPX3J5aVRDcHhWSDk2UUdYd2tsNmVRZU5tanV3NDFoS0RfWHdSdzFXTmVnVEFZVHR0MkNPbThubTM2bkF1YXBBeXRmci10dXRBVXpMMVZNQmhrUU9rbl96eUpmZw?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       },
       {
-        "title": "Perplexity Launches 'Teammates' AI Agents for Ongoing Projects - iClarified",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTdVTlZnNG5SRll2SjZLYnJzN2RRZ1pjUk9rRlNHMXdicHRWZENtODRucWRYb0ZIZ21zQ2MwSGdacFJYTzN3aDBib2hXd3cyU21tT2NJeEoweF9SNnJhMnZQcTFPbXUtbXlydTROYVRxNjhETHN6N0IyR2FpaF9nLWJ1LWpQbzE1aDhnRkpIQ0lpVUtkWDI5N0FB?oc=5",
-        "date": "2026.11.14",
-        "source": "google-news"
-      },
-      {
-        "title": "Perplexity launches its own take on AI agents for work - The Verge",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmpjbUlKRk5NNS1ocHJHQkVMNklPamFtSzNjUjhEWWItYndXYk1UbWdjUlB1NXFzc3NQX1Q0MVJnVm95TkZtYUUyZTFCUVA3WjZ1M19MMGNZQ09EeEFuTGZMd3JvV0xWaEl1dnh5Z0lYOTg3MkZhMnVsRnlWMFdoQ0lNMzlvZ1Bka1k0UHdxYUFxSHp3cEZhMmJFNA?oc=5",
-        "date": "2026.11.05",
-        "source": "google-news"
-      },
-      {
-        "title": "I asked ChatGPT, Gemini, Claude & Perplexity to rank the 10 best fast-food chains - Tom's Guide",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQzhpT3ZjTms4UTNmU3VfZGNlWGNfSG9oaTF0dnQtTU9leWZ5RkJWTEpYcktuUTRnbmtSVTBpd0dBNXpEcjdodko3VXNYWmd3Z1RKdm9CUVFjdlZ0MHFYUmJ2NmFUcXo4X3E3OXZHQnNzUWxlcmdrX3ZYREpVQjlKZGJrVzlkcmJSLVgxRnBzU0Jfd2w3Q3RWS1BPWGZabHNjRWR6LUZlSlktbXFZZUhYWms5Zkt1NXZSZjc1SThqdktGWHg2WmctZDFEY09pSDkxVDFJQTNaeG9LNHVSRDh0VHp3cVhnUU9DN2pUWDh0cGZjSnVsQ3lOUTJ6MjRabzdJS0tfZzVwcXktcHhw?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Perplexity AI Predicts a Monster Move for Saylor’s MicroStrategy - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTRqcGh1aGx0bFl3OUp2d1hoVzQ0OHktU0VucThHTzlWYjlLX0hxdVFYWjlrQ0dvMi1sWFpGUTB5a085M0UyX2t3SWZ6bU5tR2JDdTlFSjlQY3FwbmNiX1VpekJzQ3JhQlF5NFQyZ01zY25BVW5lT0dNalQtRHVieWdZODBqQm1pRUlGUjIyOXAtVGUzRkZFakNYUnJqdXdBOGc?oc=5",
-        "date": "2026.11.15",
+        "title": "Genspark’s SecondBrain VoicePad combines macro keys and AI dictation - Mezha.net",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVNWRU1oVEdaRGFGYmFCdnAyMnVqd0pBUWRrUmJDQjFtRzVDVm9Rdll1NU1mbnFXcmx1dnhvLVd6NThiSFhFdjk2RUdsbjlvRkxOUmlPTmxWaDB2d1VWRWN3aXJvaS1KY3dLVDQ2ZTctVTduS0t0cVFlc3hOYlpmbXhkZlZsUFhyX2o2Y0dYRENBdFB4?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
     "phind": [],
-    "genspark": [
+    "felo": [
       {
-        "title": "Genspark: How AI Agent Workspace Hit a US$2.6bn Valuation - AI Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0NFZGRE5KU0ZTbF9HNmZWb2tsX3JlUWhZZ1diV0hlTWh6Q0RPblJOTW5qVHBhVFRuZFphanA1aHRzWHZyUVJRQ3NMNndHVDVUek1PeXZib3JQQ1p1TEJBcWVVUkt4TU5DcW5Nc3MzTWNENjdoZUZYdXExQWFoZw?oc=5",
-        "date": "2026.11.06",
+        "title": "Mdu aka TRP – Situation Ft CowBoii & Felo Le Tee - TrendyHipHop",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmxZbkZuSzF0S3Rnc3hXVnIxc1lnOFZIeWVRNU9mNElqNzNUZTV2UWNPd3FJT2hqMDczMWpqTkpfV2FVZ1Z0cVUybjM3azNfMlNQdzctRUpvQ2lUVU5tbW1WaFpCTFBYY2dYeXowU1BxTzBTdHkzSzExMlNReVhGck5VQ3BkbU9m?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
-    "felo": [
+    "nami": [],
+    "youcom": [
       {
-        "title": "Felo Skurt & SKB: novo single ‘DOME’ denuncia racismo nas redes sociais - Cultura em Peso",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUdMRFdtd3BhX2U1V1kzTlUwSnJaeTMtN3FpNWNzbWFlay1mQ3g3VHBIb0VrRktyS3lPOXpYSl9wenJRYVJaNnhSajlMSTk3d2wxQTZSRDlJcnpJVkpZSUFLMXB3MFQzZzQ4enJQQTFYYnRLUjgzT1o0YU9Ca0l5WW92Yzh0blFKWmpMUnY0RmFwLVFmVWt2Yw?oc=5",
-        "date": "2026.11.15",
+        "title": "Levante v Elche Bet Builder Tip - BettingTips4you.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DOVRKQWx2Mll4S2xzTFJYaDJ1TFZBclp2aU5ycEhRRXNCbWJSSURyYUJOYTg5T01Fdkd5ZDM3QWpIWDBZRE1iNFZrRXhRUnpZbUJpc1lzRE5GZlkwMV90Tmw2TG9ISUZzQzQtbnlR?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "Xabi Alonso Is Failing at Chelsea — And the Excuses Are Running Out - BettingTips4you.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GYm4wU3JFWjNnX3BDWlZoNU5VMjBfVmQ5QjNwM2M1TzlrZ2VVakRUUUV0UjNFSVFLcmhDcFFVZ0d5YmxpdzBxZlVSbjlubEhmRGd3VU9ZM3RnUEtCWXh1Mk5ldHZIaW04TE9uTnR5VDNyakk?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "Brentford vs Everton: UK TV Channel & Live Stream - BettingTips4you.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUZrWjF5Q3BHYnQ0QVN3QVc3Z2syYmxWSjUtNk5MQzRfUWo1V1dLYVNsNzV2WWNiUFNHUUNBY0JVenpnOU55VHNYUm9pUHFudXA1QkJhcjNhamx2bDlvMTl6OG16eWs1U0FxaXJwUkQxTnBVVnpBQUxaUUkzZEszdGlR?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Zverev vs Alcaraz Live Stream: ATP Finals Final TV UK - BettingTips4you.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2o4U3dKQ3g5TDc5eHBrWE96dE9uQi1TRExXMzNaQm44Tm82UlZVajJIbm5EeGhnbTlOcFFMUjR1V0lpQjJGQ1VTdGsyakh1UDM4VVpScmxiMTZDRy1IS2FmMmxhaUd3T1Uxb21SR1Awd3FVRlhZRWcyWmc0d1FGRzZCV2tIdmpUM2JNOEpCZVFmdkxTeWtQZ25OUEJhMVR6WHJKQU5VcU1qUQ?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Getafe v Atletico Madrid Bet Builder Tip - BettingTips4you.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wVzdoTVhKSkFGYVhfRDRNNmFBQ1AtQUhUWlJ4YWZEMjVNbXVVVGpVUURTT19ZMmxKRXd1c2U1dFl5cDRydlUxaFhXaml4ektFbFlwX1diM3VCdlYydFF2anlpT3RGa0o4R01oY0RmQzR2MllIU1JyRENn?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
     "ima": [],
-    "nami": [],
-    "jasper": [
+    "jasper": [],
+    "copyai": [
       {
-        "title": "Jasper AI Statistics (2026): Users, Revenue and Market Position - About Chromebooks",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRa09wenFZVVY1N2tFVUM1MlZwUXkzQ0NpckdwZ1IzeFJnRDZOU1hfdkpZbEkyNWoxLVROQmFVVUVkVTlpYlNxSS1lVExvcnFHWHZsWDEyNUNZU29TWUw1QjB3SWc?oc=5",
-        "date": "2026.11.05",
+        "title": "Copy.ai Review 2026: Features Tested, Pricing, Alternatives - Techiexpert.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mV2h4VnNqWjZXUUZoLXdSMHctd2xiT2J0Rjg1TXhlY1RxdEVUbU12X0xqeS1fLTV6OTFRUzNWdUwzRjR5eW1BcHhPZjhtWmlo?oc=5",
+        "date": "2026.11.18",
         "source": "google-news"
       }
     ],
-    "youcom": [
-      {
-        "title": "Switzerland v Scotland Bet Builder Tip - BettingTips4you.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EbTVYR2FPZFdXbGpGZE0wbU5ackdHekhQc25zR1JrcVRObHNjTHFqa29YVlQ4UnNWTHBJN1VXb0c4RkFBa25SV0xBRktuZEc5Z3RRcmE0QzVKZ0t6b2ZYcWpuNW05Q0J0a25qQ1RmUkl0UlQyNVk0?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "England Are World Champions of Hype — Beat Spain, Now Win Something - BettingTips4you.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmtKNTRUNjZ5WHpBaHZWWWFxS1hkWlNFV2Ffclg1aDZQUHhrbnZpNnZhb3dhdllidHh5QVBxQWowLUlicUhHUm81YjloR3hSWU5ST1BFQkVIQ1hPbEZFNVRBVm9YdlRLRnY0anIyQ1I1S2FxZjBPQ1FuTU5DWkdVQXhYY29wSkljbkV3dXFneDZ4SDhyM3hWVkxxbk4yWE1NUFJyUA?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "TWICE’s Tzuyu Named OWNDAYS’ Regional Brand Ambassador, Set to Meet ONCEs in Singapore On 30 November - kavenyou.com",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xWUc3VTM2UEp3Mlg1Wjc4YldNNEdsUTlUS0gzcGVGR1dyXy1BOEthaWUxbktYVFhoREFXZkZrOVhfRTVMTm80T2VZQllNVW5Jd3RlSzJOLW5rbmFBNnNVZ19n?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Scotland vs Australia Predictions: Nations Championship Handicap Analysis | November 2026 - BettingTips4you.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWRudFFjQ0NsQzdtLTFid09ILUN6bzY0RmdVbkhiOXZmSXl3a2VhNC00cnB2elF5ejVpakx6VVpJVlVxYWl4ek1RYUtWTm96UEc2dVBuQWRILVZ0dmRrNG44aDNaVzNKbGc0bV9KZjlCYnZTWEU2a3hCVUNwTmhHaVFIZl8zVWdIZTgzR2VpZ0VmeUpiNzJJVUFUajZWWGFrZWRZa1dsVTRtaVRsMDlTYmFGcWZrM0U?oc=5",
-        "date": "2026.11.15",
-        "source": "google-news"
-      },
-      {
-        "title": "Belgium v Italy Bet Builder Tip - BettingTips4you.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rRndCcVpGUGZpNFAwSzFOVjNlblliNElUUmczR3NrRTBGOUhhN2ExV2NOMnJUcG5RT0o3dWEyTW5IeHhjS2dCVzZiTUpud05jaXNiM3pfMTBYMWdrcDBaUkVIOU1TTElPME96Vnl3?oc=5",
-        "date": "2026.11.15",
-        "source": "google-news"
-      }
-    ],
-    "copyai": [],
     "writesonic": [
       {
-        "title": "Writesonic Traces What AI Says About a Brand to Its Source and Launches Outreach Agent to Fix It - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRWJGZk80eGNhMTRyQTFqSm94SVVUMDRpTFVpNXN4UllwNnUwVkk5bHNMeXcyLUJFc1lmeHA1OVlPc0Jma3lHSXBBZGJCU3A2TWRyM2hUVWY5eU15QXJKS3BYQ0dreHNPSlpkbjI5VnlEMFMzTVJHYnVYUWxKZ0Fkd2xGcWxfcGxFXzhyZTIyMDh4OTR5SDRRSm1jbDkwdXd4VjY5NUJqNEJSc3RSR0RmdEM2a1FHdWhBaTdmTGt5R1pmVS1ySi1OWkZ5eGIyd0c1R3NPU2FDOGNRd2c1SGV6WS1qLXpscVE?oc=5",
-        "date": "2026.11.05",
-        "source": "google-news"
-      }
-    ],
-    "grammarly": [],
-    "notionai": [
-      {
-        "title": "Notion AI Chat Transcripts Exposed In Fireworks AI Vendor Breach - Minonline",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSlRWWWRfTTlETG5XeDlHTVhNQ1pQMUtzQVNJaUxJc1U1WHptRXNmclhfRmJ5V3VHUlZZU0FLbUxqODBaVHdNY1QxTE95MkJZRnU4S2FYLU9SNEQwX0hFa1NBWUpJcExnU0piV1B4S3pkYVJqQUJvY3V4WGUxNkJJblFKclFzMDRDSjlR?oc=5",
-        "date": "2026.11.13",
+        "title": "Writesonic founder Samanyou Garg’s Bansi Astro reaches 15,000 users in two weeks - MediaBrief",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeXk5cDVxb3Atb0psQlVaamY4Y3MySnZzbzNPZy1ZMEtmSE1tNWI1XzlGNjA4M2VlWTBZQWpueHpEOUQxT1E2dGhIZkdDaXVVaWZlRXhQZldhREh5N3VuU2JUUzBFN3BiTENmQ2JnSEpjX2JsazJr?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
-        "title": "Notion AI Chats Exposed in Fireworks AI Vendor Incident - UC Today",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjF1TGJLWDVHN083RjlDbVA3MUxjT1VPaGZ3c2Fhc1lWcXJ1cW1wSF9udGpBM2pEX0RCN21tUi0yOVktUk16bDR5UzA2RHdJVDhVc2laZGt0NHJtNnl3VGNJeFY5WGpwZVBxaEZlV2ZlaTZ4SExIVUwyNUdDcTdVZTVvYnVKWEw4UnJTa1VGOFZIdW9nRjl1eFJGbnVOcWY3a2ExRVJtaU4wM2ZV?oc=5",
-        "date": "2026.11.13",
+        "title": "Writesonic GEO 2026: AI Visibility Plans, Engines, Limits - Everything-PR",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FWEVJbkJQcnlwRTBCUTFNaDZ2ak9LVEJEZTkxLUo5a3hReHJNYVZqeHlaWVB3UUlScG95ajlvdnZ2bVNnYVVoZTk3R2JKMWpKT21ELTlyT1dGalVfLXEwclB4bW0?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      }
+    ],
+    "grammarly": [
+      {
+        "title": "Grammarly Runs 100 Billion LLM Calls a Week | Superhuman｜MTS - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kWEszYjNCSUxHaEV0VHdJUHgtdlNzNkliMnpvcDJhMDIwcXNTVlBpQmtDSWRWR2J2NVVPdEJaTWFYQ0J0WlJKTlVEMklGZm5tenI2My1MR0RJLUtPVHZv?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      }
+    ],
+    "notionai": [
+      {
+        "title": "Mercari Says Data on 1,522 Customers May Have Leaked via Notion AI; Records Remained With Subcontractor's Subcontractor - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZ3NTNDNlcFdSSGFIUTR0WTBWRFhwcmlmUnBFNUc1QWpPS3kwQUJPSEVONTlCaktmQU01cVRmVlI1cEkxb1pUMXVIZl9VMk02elhGOHRnR0g2SGRMUWs2NHJnQzBPOG5tTzFpeER6WklCT09ITGc?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "Used Notion AI? Hackers May Have Accessed Your Private Conversations - All About Cookies",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KNVotLWhyYWo5UDYwcnhKY21IeTA0emtyb2NsY2xZencxYzd4NVlCNDdRRHZsVUxWZHVfOGhzT3d1dTI3UmRJeFEtS1JySDk1QVBscWJHR2JvNjZnX3c?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "Notion AI Pricing 2026: Plans, Cost & Add-On Status - Fello AI",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZazlGdUFfUW1EZ281ajZHTWFMUEZZcXMtWVBDeVhtVjEtc2g4R2xTblVjVGxPNE5XVkRxYTVzU24wM0w1ZnhuRHBncnVPek0?oc=5",
+        "date": "2026.11.17",
         "source": "google-news"
       },
       {
         "title": "News - Notion AI chat transcripts exposed in breach at AI vendor Fireworks AI - teiss",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3JFY01rbEpoRENaSEk4QjVkVGxoWHN1OU8tZVVpNlBHbFJRMWNkVk1CT1MxUGpzMl9iWjJNMDhzOVdyeGZUejU5ZjZmV25WNWJ5NUNZemZTdTlWaF95MFVtMm9OcjBKNDJRVzBQRWl0ZzhMc096bkdsWF9wUldITWQ0Ry1LWGlmeG5EYmg1NExTTjJxcmhEdUl4aEdFVW54OHFmRkE1ZXY?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Notion AI Chat Logs Leaked; ZDR Contract Violation Found at Contractor Fireworks - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdU5WakRLMUNSeXdGaFp3d05tSHdCOUxZX3g5d3hxbzZHdjhlclVzenc1clJPcEJBSmFqREw3ajlKU1FlOTgtVFVEMXZ2RktpbzhtQzZMTlBLT0VaeF92Nm5FdGpWVVhZYVlaVGlxN3oxZTlNb3c?oc=5",
         "date": "2026.11.13",
         "source": "google-news"
       },
@@ -933,73 +1113,14 @@
       }
     ],
     "huoshan": [],
-    "gamma": [],
-    "notion": [
-      {
-        "title": "Notion AI Chat Transcripts Exposed In Fireworks AI Vendor Breach - Minonline",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSlRWWWRfTTlETG5XeDlHTVhNQ1pQMUtzQVNJaUxJc1U1WHptRXNmclhfRmJ5V3VHUlZZU0FLbUxqODBaVHdNY1QxTE95MkJZRnU4S2FYLU9SNEQwX0hFa1NBWUpJcExnU0piV1B4S3pkYVJqQUJvY3V4WGUxNkJJblFKclFzMDRDSjlR?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "News - Notion AI chat transcripts exposed in breach at AI vendor Fireworks AI - teiss",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3JFY01rbEpoRENaSEk4QjVkVGxoWHN1OU8tZVVpNlBHbFJRMWNkVk1CT1MxUGpzMl9iWjJNMDhzOVdyeGZUejU5ZjZmV25WNWJ5NUNZemZTdTlWaF95MFVtMm9OcjBKNDJRVzBQRWl0ZzhMc096bkdsWF9wUldITWQ0Ry1LWGlmeG5EYmg1NExTTjJxcmhEdUl4aEdFVW54OHFmRkE1ZXY?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Notion AI Chat Logs Leaked; ZDR Contract Violation Found at Contractor Fireworks - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdU5WakRLMUNSeXdGaFp3d05tSHdCOUxZX3g5d3hxbzZHdjhlclVzenc1clJPcEJBSmFqREw3ajlKU1FlOTgtVFVEMXZ2RktpbzhtQzZMTlBLT0VaeF92Nm5FdGpWVVhZYVlaVGlxN3oxZTlNb3c?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Notion AI chats exposed in Fireworks breach affecting less than 1% of workspaces - Mezha.net",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZFdjc2trZDk5YlFhR196bVppc1QtVlJIcllKWmZOSFRWMFd2MEI2eTI3RmZXdm9iS2h4MVVhMEttVXd5YmdIa3luX2ZIbEl2ZFJSNV9BeHdXXzY4OW5QTzBualFDVExnTjVWcW5ySzhORm1zTUUtSnBVcWdSWGM?oc=5",
-        "date": "2026.11.12",
-        "source": "google-news"
-      },
-      {
-        "title": "Notion AI chats exposed in breach at AI provider Fireworks - Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPck54RHlkcDhvdG1JM3hxbVRMa2JqYjZPVm9kTFJoY1YyVDl6aWt5aFU0QVZHLXRpNVB6aGpGNnI2clpfeDktSFJSaXM1YVlDU3NRdkJjQmtwajZlYkh5blA5WFZHTlo4UmNNY0dVYXRJQTBVOFZFQUhTckdPaU96LVdyV0NlSGFEZ1ZpRVYxcFhUdXFkQmxkTG9MY09MTlhhWi1HVTdR?oc=5",
-        "date": "2026.11.12",
-        "source": "google-news"
-      }
-    ],
     "xiezuomao": [],
-    "m365copilot": [
+    "otter": [
       {
-        "title": "Is Copilot down in the Microsoft outage? Microsoft 365 Copilot for work is affected - Nacionale",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZU9lNjVMUHdqQW40R0REMk1zNzJFQ0tEWW9jdEdueHBia2F6WVRTa1Y1U21hYXRCaU1fcDBYNE5Xcm5qeGk2ZFRna21pbm16WGtDWWZmWkNRTzRFQ0tpcXNJNjQ2Ul8tWWZON25WRVo1VlctUjM0WGhiTDhFOXZhcFhOengyS2RHWEJVSVhpQnZtT0FWOHM3Y0FTSWg1NDJmaHY1MGhuU2NiVGVFREdRWkdR?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Columbus strengthens its AI credentials with Microsoft 365 Copilot Specialization - Via Ritzau",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeTJaeXpmdnNPN3c2cnlDaENsSmx4eGFoQXB2SVhPb3NaS3JtemZ2RG9qOWJ5ZzVlLUVtclNzMHdUcXVaenFGYWZXNVp5UjBOUThjaklCWFp0NnFzZ1dMRXk5YXYzT0JSMmZxd2JmNS1ON1FGM1RqMlNJay1vTGpIczJlTU5hc0drN2t6b2c3UV9FMWlxTWlxaHJHdzlhQmcxM0lQYmd5eExQZDhXQWVVWDUxdlRsU21LVUEwU3dWRHhOclRnb1Z0andseHdqS3lvU040SlpwQTJQMndlNktKbldWSDRNUUxMSnRMQ1RxZw?oc=5",
+        "title": "Meet Otter.ai CEO Sam Liang: From rationed food in China and struggling with English lectures to turning a - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQVTlheXZacTlhYzJUeGszQ2RCYUdQcFpobUtOYmxZdS1vV0ozRnY0RTAxVjVrYmsyVVlGVGd3bGttbGFnMUwtY0YxMUw0eU9YRWR1bjdoVDlsUnhXS0ZGSlpyUXd3Y1A1dlNpUmhmQlZXbml1QmN1Wkp5M2tjYWZ0ME1rUDJpaGpTZDFiV193M3YyTlFIZ3p0SlppMnZQNDFGSTNQZVBla2FGUmFfYTNWeHJya29HQUtVWjhRWmozaWwzT1Fhd0JaMVZaRzZ6Z3BKVUEyWHNpV0JUSGhaQ2RjYW03UkpXa3ctQXJ0eWo0N3BlZUl4NUZ3MEJrQnZSY2Q0WlRXdFluTERaWkktWFRGV1VQYmNBZVpPaC1qTEpsRExnbGZPdHZhRmpvMXpRNURGRS1BVE5LTWltSnFUTU02bUE5Z1_SAcoCQVVfeXFMTmlYMi1PZmlrU0pnM2w1cFNsZTNYVEdIRkYzYkU2Ukt0al9naWhDWDhmcTVWVWN3cldnTENmREhOODI2Tm9WM1l0RnI2RUN5VTYwSDRleldYVHhHQjlSYm9GdlB4cjVaSWgySVpWd1FYR2QyeE9WOVVNYUJYODdmVWQ4N09WLTFfZHVGV1FBQmg5MjF3Q2h6RzA3dEk4U0p1VDNHdFJDZGVyY09fMlhrWGlEaFlCM05FbWtsNTdxVHBHU3dlbWRqdjA3dzRWTGZPdVUtWnlkZ09OT2xlYThfMUJScXYydVZkeEp0OEh0MVR2YktWbjNfWG9oS2NTN1VOVHZVS3FweUd2aExpWHJNN0V2QUpnb0pYT0xUNlZkbWQ2TENwZG11MjUtd0E4dmtveE44enljMTRmNXlRbzJqUTdsQ3RUMTdCRU5R?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       },
-      {
-        "title": "Microsoft 365 Copilot turns on Claude for UK tenants on December 9 - Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1dXOVlueUV6eXpkNXFJb01ZMFFVTmRBN05zX3Z1QWVhSS0tQXM1RnhwbTNJV3N0SjZjS19WczBoU0RJMkxMWWdKNHZxZEFFUWxjNmVidV9WTl9MTGZyWFZ1NkxtdjlhbWhDVmV4ZDZJR3pSUmcxLWJpVHl2bnlvbmZjSmo2VDNLS0ZLcjI0cWlzYVUyX3Z0YWxTajVTbzBCNnhMMXRUVVcxb2l0X0hoXw?oc=5",
-        "date": "2026.11.14",
-        "source": "google-news"
-      },
-      {
-        "title": "微软称 Outlook 等服务陆续恢复并趋稳，部分用户仍待恢复 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWUXZMVTQ1M28welBIaldpbjd4bEFob3VyV19LR1YtQmdPVVB0UFZVMHRxS2dfVEN0OU5IdFJJc1ZldHptbXJuWHFfb3E?oc=5",
-        "date": "2026.11.13",
-        "source": "cn-media"
-      },
-      {
-        "title": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PQ1ZSVjg4RVNGT0tUWnRSNEZVNjdSZ0hEN0JwOTdMQ1JGbEtMQVhhVHNwQzJRS0RFUTljZEhMMFhROXRxelEzN0N6Ylo?oc=5",
-        "date": "2026.11.13",
-        "source": "cn-media"
-      }
-    ],
-    "otter": [
       {
         "title": "Otter.ai’s CEO grew up with rationed food in China—now his AI startup makes $100 million a year - Fortune",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVHFUTkJBVks3dUwzZV9ZQ2RuaFBZUlY0VVB4dnAwc3J5YkZieVhuZXlNcXlqSnMtUlRNRkZrOTdYYnlQQ080WVFrSmoyU1N3Yk1wYW1OaGQ0ZE10WXQzRDl0eTZBOWhUS0xZMHNzYnhRMEZNOVRTVmhXZTRHQUM3UlBTVzQ1SmpEajRPLUtMWHJSaW5XQkROS0MzU2ZQdVZabFp5Tjdwb2x5U2ctTjR4MTRoOFBmREk3Y2UxZEFHYjBpalNPV0dmeFR1bHcwTlRUZWJaVHJGbGJYZ3V5eE4tVmRGcWZGWXhUUzJIQy1tcw?oc=5",
@@ -1013,30 +1134,57 @@
         "source": "google-news"
       }
     ],
-    "feishu": [
+    "m365copilot": [
       {
-        "title": "CCTV品牌发布 │ 飞书8.0版本全新发布，为Agent（智能体） 而造 - 央视网",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFOGVPUFdGUTFDMUM4WXNSa3RHbXpOaUhTV2RhaEJSSy1TT1BSU05jb1g2bG9RTjJtVGpwM1hYLWo4b3A0NDhfbnRiSnhoUXkyMlJ1T1l6TWZuVTBfbFRjWWZhY29TUkZkSGhJQTM1THlVTDJVR1Nj?oc=5",
-        "date": "2026.11.05",
+        "title": "Manulife turns AI leadership into everyday productivity with Microsoft 365 Copilot - Microsoft",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzdWSkpxaDdZN21lSXViXzNzVG9LWElCa2dyTzNBMFNpTUVOd1dQTjB6ZzR5WEowWklMcFVtdVZtVlg3cXZPM1BZbFZKUlNfd0pMcmhrN0s3Ym14akV1TEF6Rm42NmlUeHE4S0QyQWk2Y2h3RWJhZFplNUdNYmE3U2gtS215YjhnNXU1Qnp4emZvaU5jRW1kQkQ5MXBOak9nMU5IZkdYV2FqMVJYVVJES1FIb09taDZY?oc=5",
+        "date": "2026.11.17",
         "source": "google-news"
       },
       {
-        "title": "传估值5亿美元，飞书前副总裁创业，不到80天散了 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNktwdVhlNmFCTG55YWU1ZDlIc0ZvOHp1LXJKaGF6QVM3Wjd4UGVRRTdVRHNTcXRWaV91XzRBNGpfbDQxUlRNdnNudDBXX3NkU1BfU2NSVldVYmFZOWstSE5aQW5raGpuSko5Z2tEUndvWGJEaEVKWjZIMEdkbldDWmF5UWR4dWwx?oc=5",
-        "date": "2026.11.15",
+        "title": "微软 365 核心服务全球性大规模瘫痪：Outlook、OneDrive、Teams 均受影响，正逐步重启恢复 - IT之家",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XNTdfX0dBTkxOdF9HWmVjOUlhYndVVVBsM0dIaFVKWGFPSjdNQ3J2d3Q4N3hIaEkxSFBZTFdaaTgySVBnOTgyV1ByeUU?oc=5",
+        "date": "2026.11.13",
+        "source": "cn-media"
+      },
+      {
+        "title": "微软365大范围服务异常仍未解决，微软正排查流量分配问题 - 36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZakVrc19SY0h1aW40bHNHNWlrX2JEcTRqRXV5aG9zM0RZMVhVSjVrU1JoMENBVGhjRi1Sak1kbVhYWkZWdXpvM1A2b1A2bVF2QVBqV3ljTFo?oc=5",
+        "date": "2026.11.13",
+        "source": "cn-media"
+      }
+    ],
+    "gamma": [],
+    "notion": [
+      {
+        "title": "Mercari Says Data on 1,522 Customers May Have Leaked via Notion AI; Records Remained With Subcontractor's Subcontractor - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZ3NTNDNlcFdSSGFIUTR0WTBWRFhwcmlmUnBFNUc1QWpPS3kwQUJPSEVONTlCaktmQU01cVRmVlI1cEkxb1pUMXVIZl9VMk02elhGOHRnR0g2SGRMUWs2NHJnQzBPOG5tTzFpeER6WklCT09ITGc?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       },
       {
-        "title": "飞书鸿蒙版新增豆包工作入口：AI能力深度融入办公全流程 - 驱动之家",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02bF9sdkM1ZEtSLWEyWndpbjM5TkFaTFRLV2lRMUV6ZmwzekFfUTJIcDlwWFV4OEtiaHFqbzhGREhGQjJrVFhZLUxGeVVOWVU1c0hVZ19YUmc?oc=5",
+        "title": "Used Notion AI? Hackers May Have Accessed Your Private Conversations - All About Cookies",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KNVotLWhyYWo5UDYwcnhKY21IeTA0emtyb2NsY2xZencxYzd4NVlCNDdRRHZsVUxWZHVfOGhzT3d1dTI3UmRJeFEtS1JySDk1QVBscWJHR2JvNjZnX3c?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "Notion AI Pricing 2026: Plans, Cost & Add-On Status - Fello AI",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZazlGdUFfUW1EZ281ajZHTWFMUEZZcXMtWVBDeVhtVjEtc2g4R2xTblVjVGxPNE5XVkRxYTVzU24wM0w1ZnhuRHBncnVPek0?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "Notion AI Data Has Been Breached. This is Bad. Very bad. | by Michael Swengel | Nov, 2026 - Medium",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWRvekVuV01sSmhsSTlsY1NVTDJuR1RlNmlxel9ERW8yQ0EyN0JIT1hrX1lMSTkzTHBiZmZIVklmZUpqaDQ5c1dDN05EV3RXZW95MC1fNU5qMzd1ZXd4MktfN2tqSjI3ck9XQWVhcG9DTlBDcUhNS2w0bHZDeVN6eDBUcFZ6TzNpbTMzVDRNMW1pYTBDb29SdTJJaFhBR1MyaEln?oc=5",
         "date": "2026.11.12",
         "source": "google-news"
       },
       {
-        "title": "飞书深诺集团亮相上海企业海外合作会议，助力企业全球化布局 - IT之家",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhdU9yZW02a3VISmozMmhrcE1VclZYQWpZajZoX2o5Yi1ueFIwVXRscDlGN2d1dXBHRFlsdlNrR3B4aUxiLW5uX1Uxd2w?oc=5",
-        "date": "2026.11.13",
-        "source": "cn-media"
+        "title": "Notion AI chats exposed in breach at AI provider Fireworks - Notebookcheck",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPck54RHlkcDhvdG1JM3hxbVRMa2JqYjZPVm9kTFJoY1YyVDl6aWt5aFU0QVZHLXRpNVB6aGpGNnI2clpfeDktSFJSaXM1YVlDU3NRdkJjQmtwajZlYkh5blA5WFZHTlo4UmNNY0dVYXRJQTBVOFZFQUhTckdPaU96LVdyV0NlSGFEZ1ZpRVYxcFhUdXFkQmxkTG9MY09MTlhhWi1HVTdR?oc=5",
+        "date": "2026.11.12",
+        "source": "google-news"
       }
     ],
     "fireflies": [
@@ -1047,26 +1195,71 @@
         "source": "google-news"
       },
       {
-        "title": "Krish Ramineni, co-founder and CEO, Fireflies.ai - qz.com",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Tb3VlWXBzRnRPaDNBMU1jMjdoTlZ5YTVvd24tOFJNNmc1WGRibU1aMnFkbnVPS3N2QXNybFQtMzY2dy1iR3N1dm03YjBUdkhIYmduYmp6MjVZSDJHSHlJZ3BJUkpJaEN4?oc=5",
-        "date": "2026.11.13",
+        "title": "Fireflies.ai turns Fred from a meeting notetaker into an all-purpose AI teammate - 91Mobiles",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmhTeTFoUlRXR19ERm5nSTJrU1ZpalFtbDdjX0JjeTY2OXZ0SlBmXzlRbkpia19fVTVualY3S1hBOWZGTGdLVDNVNTBfYmk4TUVBUTR4LWtWazdDZC0wZzYxcUNDeVd1bF9Xbk5JNzI3eXFCWVp5QTk0bVFXNWtzWTVlQ0JXVjhuNHdQYlJtQ2l5X2lXRl9zZDRIT0tKOWNlY2h3cFotTHJOYVhPN0lZStIBtgFBVV95cUxNb2FFdTB5eG5sMkwtcUpzVVJUN283MzZhV0szR2hTd2RYbHlnNms1MVhvSV80VWlpaVJVZTFWRV9TTTNWT1JhcmxUcEROU1MydHdXeDZfM2pjaFpJakYtMnNUcEZ5QkVEczVmR0ZoM054b24tSXpXdGtDblY2azNzeVQ0eWxVNXFpSTZoM3VKWU5wbzlYaHdyVllkUGdYSzIxdFpyZU5lTHhoN0d5Ymhsd24wNHNUZw?oc=5",
+        "date": "2026.11.16",
         "source": "google-news"
       },
       {
-        "title": "Fireflies.ai Evolves From AI Notetaker to AI Teammate in Its Most Significant Expansion To Date - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmIweGlUNVVnZy1BeVcweXhJOGY4WGZjWFlMR2FYS2VJUGJySmtCWDBLaC13ZDBCN3BsTklhd3puYUFJWW1DUXZ2ajllRU5pOU9Cd1hzSlYtNkxMN1Z2STlSMWRqN1BrVDcwZ003RFZ2a0UtX25uaDQ0V2NIV2dFTmVEZU56VEg0X1hYZ0lpMGtXTzBOMFNpUnkxdE14QQ?oc=5",
+        "title": "Fireflies.ai Evolves From AI Notetaker to AI Teammate in Its Most Significant Expansion To Date - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONEhxN1VfNC1rZnREek1fSDU2V05oN19DMzAzR0FVNVUxSC1KT0szcW0tbm5ycDRfRFhlenl3cjBONnhpeHJvTzlVdURlYXV4M043MnBWYldBR3NyVFppNk5tR2w4SmJWM3Y3VFBQZklUeGZIa21fM2hwSDFFeDZLblhiZXlEeGl2bGFLT1pFVE1VTURrMEF6RmM3NUZrLUR2eFNOTnRMcVpDYm93VUpXY2FTUVg2SHpobThUdnBlVmJpYUpLM2VuYWhFajR6RVVsNDd0QzRZYWZ4a0F4WTJWWTIzXy1qdDhLUXFyNUpIX241RHhIeUh6TzBPNA?oc=5",
         "date": "2026.11.11",
         "source": "google-news"
       }
     ],
     "wpsai": [],
+    "feishu": [
+      {
+        "title": "飞书妙记与腾讯会议：转写更准为何未必省事 - quasa.io",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEVMcEZ6azlLTFRackNfWlFHcVJFdkVFaFRsYjFKMG1tWGcydkpLektSbXYtTFM0TG9YTkV0NHMySm9UVWJZUW9Od3VaQmZwaEUwRlJvRWUtRU9SSlFpelpibV9maDdUOFcwS2l6TG4wcWdTMi1PUlE1UXhsTXRZUFJxdnZhNVdwRUQ5ZUdtWFFpYURTWFUyYmI1d0hoQnBidmNIY2EySlhMc3hWQlpUNjhCTE5KT2VIOTBj?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "科技早报 | 黄仁勋或将筹资500亿美元创业；字节回应原抖音CEO张楠、原飞书CEO谢欣离职传闻 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1Q3NUdsXy1ER3hfRWlmT3VFOWJqekpqNE5MeTcxM0JtRXNfdm5tWkxhNmxHakppLU14Y3B4RHE4eEk3UmNRNFZGbHgzTWlZLXR1RHFKazBGQTlPaGRkdTFBZzFxNkhOTXhkX2RpeTRUNGxSZTRyR0ZiWTdyaXY4ZTV6U3hQQm4z?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "字节跳动副总裁、飞书CEO谢欣修改微信名，斥责自媒体假新闻 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUJXUlROdVFQcEp4dUYzSU1JcTg4SWhQNHVyRGJPYlcwRlJJd1VJekNscVZyUllMajJhZGtDTUFGbE1jNXVDdkpUMEozTVctbTNNTXRqYWRfdVlvclNzVHBsbU1rZFdNQllqU1EzekgzMWpaLWgtSWNkLWJwZWRYbWU3QXJtcW9u?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "原飞书CEO谢欣改ID回应离职传言：一个个回复太费时间 - 驱动之家",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UMm5Eb2RDalUyTXZLNURiOGZ0Y2k3NFcwNWZOaWY2T1AwU3dnR0VwaGsyU3RSeU8zU0xYVklVaGUyN2hMbkh6cnpZd2FxTE1GSXZNa2NrakQ?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      },
+      {
+        "title": "原抖音CEO、原飞书CEO被传将离开！字节回应 - 电子工程专辑EE Times China",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ba0RvM3pqbm8ycG9jVUNuN2w5TFlCMC1YREFjdXJEd1IwVjdEUkxxWXBsaG50aHQ5WEtzZVgzYnZaVmZhellXR19IS0RBVmtzZ00w?oc=5",
+        "date": "2026.11.20",
+        "source": "google-news"
+      }
+    ],
     "canva": [],
-    "framer": [],
     "figmaai": [
       {
-        "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXcxdHQ2Z2g3SWRETlRYT2pWelV4bElxeUpnSVY2dUY2T2RwWGJYUUJnQU9FNUF2ellXYWFTNTE3clJBbFhjR0dHS3dHRFdvRGt5VFJnZjlldmpiMGFZSDRNNTl3SEYtS19SUmRyMTJ3N2ZHM3hUMmFpeVdfTHRXd19BVm9HMWlmRTFTNm9MOTJ1N1BndnFtRVppQm9mX181eDdCZlJMcHBHQTdzMGJvbVhSOWl5TlZCWnVkYVppenk?oc=5",
-        "date": "2026.11.04",
+        "title": "Figma’s AI candour puts Canva on notice - Capital Brief",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHBtWTF5ZFB0M0lOT0dqbVRnWmlvMXFiWk1nYlZSWEJjUUk1LThvd0RuNXAyZGF4NDFybmc4NVZfdzBaM2xia1N1Vl9oU1IxMWVtV0JwcExBZXNUZlR3YWtsNjY4R3RzYjR5d1Q5ZjhuNTVmQjFwQWFXMExSRWRYRUhIR1dVb0NpQ0MwdGtPVk02TWFIRVNBSVZwZkg4ekJHdGRkdmQ5MVEya3BSQWhFSEpETQ?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      },
+      {
+        "title": "💬 Figma of speech - Capital Brief",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGFFcEl3VHFOTi1uSVNkUFNKZ3BXZkFfNHgtSk5NcG1Odm1zRTlOdXdFd0NycFNqUkJUUHpYLU1fMGZMcl9Ua3ZWNFp0VFZhenFTZ2hXTVZ0Mkdwekh1T0FLREFaRW10SjRkY0hGbHZyMEZVRjMtTksxUFBxSmpaX2xhX2g4b3FEaG1kTzRuc3RrdTd3SllJUw?oc=5",
+        "date": "2026.11.18",
+        "source": "google-news"
+      }
+    ],
+    "framer": [
+      {
+        "title": "Proud To Be A Framer Returns - WALB.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fb2hrQ2x5Tmd6cDlpdnRyVi1lTkFHS1BpekVzM3o3Ukl3UURvb2JaaG1Ec2ZNRG5iay1jR0plTU9pbG05eDhHaFo3V0dpaEMxamhuZ1g0dTJNTm84MEJxNTRDUllSWnNvNFJSQ1BLRQ?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       }
     ],
@@ -1077,27 +1270,21 @@
     "lovart": [],
     "manus": [
       {
-        "title": "Danny Manus highlights “24 hours” of major disruptions following string of shocking US incidents - primetimer.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2RGVGFOUUhrMlRDNWthMVVWaEFIWEIxU1ZXUFhWWlZGSU9OMzdmTHd3aHZyczViTlBjT1RfeUtqYWo0MGdfMGkxQ2I3MU9LQlQ4akVlYUMzc0VLeXhGcW5pZ0xJMG9NTUctRWRDWmpFWGt1VlVVZTd0S0hPb3g2ZUlFSVRPclBYTG0yMkNDUUd1eElHNXIzWlNxdHVDRHdEaDRheWVnS1djX3JnYVhZNUxtY1h6VEIwYi10am9aaG9Pbm02MHB0dmhR?oc=5",
-        "date": "2026.11.14",
+        "title": "Manus on Markets: Anthropic IPO frenzy masks Wall Street jitters - The National",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmFReWNNNlRzZld4WmhZOXExUENBbEVKVVl6R3hVZDJPMnJXRVowWFFzTU5DMjNGRVQ5WVpSV0NXbHBkdzFPczdGbURLeng5SHozd2JGOUN6aXNyazJoV3o1VVk2YWdfOTd3MFV0OUtBWTdOdmY5TzV4Qm5rTHRKZ1lPazlnVm5jR1ByRjlvLWhfOXB6clg2NzJtTnVkNXFZbk9TazZOa1VDaEs3SEQtd21VeU40RzZnaGdQV0V0R0N1dw?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       },
       {
-        "title": "'No Marathi Manus backs them': BJP's Manoj Tiwari hits back at Raj Thackeray over Chhath row - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUU5OUE9CT29md2p0b0VoSUIydUpKdXA5Y2prcWZUNmg5R09IbFUxNWZ5SjNzZWZKMjM3WktHb3c5eENWSDBWNTdWbERqa2NWZEhBc0h2eXRXV296TFRqdE01c1VBdk9jNmZjMnZRNUwycmM1NF90NW9CQy1vT3IwNVpwSFRKc2llOGZaZm1RbXdDZVltdTA5NDBFM2VDRGJlSkdta1pISjl3ZmZEXzlCUC1kOEI4cHJ5NWZmTldHVS1RQXprSjBOVkVTT29sZ3REZzRHVUlLSUhfY0VBZFNRRERKSlJVTEt5R21qYtIB8gFBVV95cUxQMDYxN3F1UHV3X0FjQUVqZ09ZczNvekZTSC0wb3VxeUVYOHFBLXNzY1ZDMUpROERQczBxRDdvUk1mcjhpTHhBTHFseGVfS3hXZ1ZmN2l3NHg1Q1BwcW44ZjdzelRvRmFLUXg3YUNTN1hDeC1LR3U0UnotczlwYVNqNFhZcXdka1NJX1BSRFdxUmRmT2lzeXlWRnNhdUtfYnQ0dWU4NFRyUzRfNC05TWdodUJ5MF8tQUFTSDQzMHJyNUtSTG5Ma3ZUUlJkQjNMaEJVb1l1Q3RySUxYT3hJWmVyRVRvUXV4ZVdBN0hhZGxQZ19EUQ?oc=5",
-        "date": "2026.11.13",
+        "title": "Manus on Markets: Nvidia reports first earnings after Jensen Huang’s exit - The National",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXh1QUFGNXM1M1dMNTFvVHNhTmY1WFFRVmp5aU9VSWJ6cnBlUjBId1R6VGRYeHM2M3BudFY4cE5YaEVRM0RibEt3VnlGZ2d1Z3AtSEZNMDFOaVlkQzZoTzA3aUlvSnRLb1BmNkVMN2Jrb1Z4T0E3NXhjaHYxdkxkdUR6by1hNXhZbVQ2bWk1NWZqRTVtSm9FRVB0bkhxSnJQbnVXQzR5VnlqNXJNZ1UyRllLczBoLTZLX3RHTXlYOWU4eEZGN2Y4V08zUmM?oc=5",
+        "date": "2026.11.18",
         "source": "google-news"
       },
       {
-        "title": "Manus on Markets: Nvidia uncertainty puts its tech ecosystem at risk - The National",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzRNM0ozNWJOSlVtUlM5OGhKZzFYNWhRVkZ6c09jRHpWOGF3UmpEZmlHMHk4OVBNZU5fUFVLdWVaaW5XYTFMMFFoQ3kyVXZfaktBbGF1MHFHNnU2NTd1c3BsN192SFo0SUZ3bjl5ekNURXdMal85ZnRBQ3NMRnFVQVN0OEJEUEs3NFlha1hUSzNNM2VPVHMyb0RsUzM4OTFXdG8yOVFieXZVTUF5Mm9ybWNhNmNaZjlHMENhbl80NzI5V2VoMWw0?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Manus on Markets: Nvidia shares plunge after Jensen Huang faces second affair claim - The National",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUV5VXVPNG9WdHp2TndMYVNLS0lZc0NobFNRMVRyalJNVjNnMHBfOUxPNTdRN2UyNzNiSFZHZHdubTZEZ3VjTEtsamd6SWlZQ3RzWTQ1MEVxY1g1dXQ1MXpIQnN2cGZaRXV4R2NiT08tU0FRd2tZYmdpWEdGaHc0N2VsSEhfWDVQNWswaHd2TlotMlh0M2V0amw3V2RxSHlzV2pMX2tlalZKOHpFeFVvbDBQN1lZbXVtU1pSM0t0MXVmdDFwdXJyUXZ4TDVZS3NHblNrUmh6ZGh1NDA?oc=5",
-        "date": "2026.11.12",
+        "title": "AI company Manus becomes a Godot Engine Platinum Sponsor - GamingOnLinux",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFJyQnBtcmhkaGZ0TnlrRlc2cEtxbVJVVnhhdmZCejJHNTBiWUI3QnBKeFJPc1I0enhUanJfRzZ0ck53UDdHVmlEd1R1WGlxc0hneWFoRW95S1I1eWhhbGFFWTlVdjJ1M05ZNVJ5akZmNjlDQVpEVEVYVk01aU45YkUxY0RpQmhYUHIxMnhidnV1M3lVaF9MRDdkaw?oc=5",
+        "date": "2026.11.18",
         "source": "google-news"
       },
       {
@@ -1105,37 +1292,43 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DSWJ0Ql92UWZNSkJMR1hGUVRqTGdBQ1p6STZTWlBSdTJxZFVrSnNFWXloNzBXT3BvXzlGV0VCR2lvZTQxSGxMN0tVNG1HVWg2V1V5ZjJFclEyOV9GZmVR?oc=5",
         "date": "2026.11.11",
         "source": "google-news"
+      },
+      {
+        "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！ - 量子位",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jckhjX1h1Z2Z6YU4wOXFKTVdNTGFfQ0dtMVZqd3hkd3J5UGttcXJoVF9zckp2NFhCX3JXdWNabjc0YlZTNHpEQ01ETTdRWjd4cFpkUg?oc=5",
+        "date": "2026.11.19",
+        "source": "cn-media"
       }
     ],
     "lindy": [
       {
-        "title": "Lindy Duncan Wins First LPGA Title at The ANNIKA - NGSC Sports",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41RnlWNmNtZkQ1dF9vVmFfMktUeUx3M004ZkNXemJRWUlob1I5Q3NrblVKRDZibXRlMVdhV2JrQ1EwRXc0M2dtX0pIV250RGs0R3VtRm4zUHBTUUJ5R2stTmxvRllMRnBJampNQ3pkd3lxQ0FheHVpWGRPV1E?oc=5",
+        "title": "Lindy Duncan, 35, captures first LPGA victory at The Annika - Field Level Media",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlNJcmFBVEFfMlRpbkZmenZyT2JMcld4MzB2UWNIdElDemVMX3QxUlRSYXNOc05ndnJhNkpwaEdFNkJiMHhXaG9BVTl1ZFJEc2hQc2Q0dnlNVGVfRkhad0lBVDNTMUEyMUU4TEVTTmxyMTZ1YWVWWHVQYnJJeWJ5SXNJRzh1MXdHaGVXckZGalVFTi05alFRZWZXY2c?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      },
+      {
+        "title": "Lindy Duncan wins first LPGA title in 222 starts at The ANNIKA - The IX Sports",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGJQUjdYNkJadkNoVFFCZnM4anVkYklxajBoZGJyYll2RF8yaXJvV2VTMWUwQWlReTBtQUhoNTBLdXB3aHVCSE5tRUcxX2xUQmdaaTlvcHM4QWE4RGtXejloSXFwOVJOSTZnYmNKeXVYYlpBN3BXTnMyTVplNUZSV1Rpbk5UYkF1OXFUSXlxbTRKY0Y1ZXZqdEl0d2tiVFBoTV9iQlQ0WGpVaE5mMHp5bUQwUGF1RzcyNkxEdXdPV29Qa1Y0d0E?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Veteran Lindy Duncan Edges Hye-Jin Choi to Win 1st LPGA Title at The Annika 2026 - Just Women's Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGNtRXEwaFptZ2RfZVZ3MF81aDdkdmFBMmQyZFhrUUpnajVLZzNkRU9zenlpcDVGaXNFY21VMERDcks1OUJSV3ZKV0g4aVdzSVFiV2k4M192TjJCYURwWEZQR2lNUkpZcG5xZ2dJUEVXcVNkNkEza1hKUHdvSnEtaDAtWUhuTGUtcTRQTmNWcw?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      },
+      {
+        "title": "Lindy Duncan seals first career LPGA win with clutch back-to-back birdies - Golf Channel",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTV9VMmVrRENrZzhsYkhqNGJONDRuLTFXRkhNZmE5dHlWVExWcFFBSFJMa2Mta0gwU3FWT25KR0tIbUxCUW4wem5NV2NmM3Bnb0gxa0o0M1VSNTE1QkxBRWdIenlUSGZHb2tYVDdvNHoyYW5SOHFsVnJuZVlpd2JsSFdsNDF4TVFZaGhsa3FHQ21CYlpU?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       },
       {
-        "title": "Lindy Duncan breaks through for 1st LPGA Tour title at The Annika - Tampa Bay Times",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUURhMkNBWDFXaS1CSnFVdVR0ai1MV1FpbWlvLUxNTW85T3lxRG1ORVlQUG1iMnRiOEN1ZzZYdGpLalZ5eU9OaFFTRXlSTE9aZXQzUlpfZHI5M1oxX051U2o4c0hGNGpJcVJySDdkajVxWDZRaGZSOUp5dVJzOFZNYUVjQWpqZ2RRTWFNT0Z1ejR2VkRTMDNNdlRBWVdXRE5rbTJKMUVfNElkVmw4cGxF?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "At 35, Lindy Duncan wins Annika event, is oldest first-time winner on the LPGA in 18 years - Golf Digest Middle East",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2xrM3U1dlFqbHo0YmV1eDlYTnpUSldyOGpTTlctVUVZMTdRMVBkVE1ieUZTdUxtNHp5RkZOcU9WcDFpY2w3NmhGTGwwYU5Md2EzdnR3bXp6SzgxenZuZ1ZSbEZFajA1ZUJ2cGpqRm1XNWtWTjJFRllZT3hjZmNIanVza3dja3hlVUY2MG1LX0kwSTdiZTAwRGZWWEt0SkF1cUxITEhZRW5XVmMtZXRYZlJTUHQ?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Inspiring Lindy Duncan, 35, clinches first LPGA title in 222nd start - Golfweek",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNy10RVNyLUxibkFnOUlPT28wUllSUTc4YVhVX2J3aFVyZm5lMmJtQzIwQW5IVm93YTVKYkpKQ0M5OHRGTHdYSHVETUJJSnNDSGFzTlF2VzhLMGhWeFZPUzVvZG9zYnpYcVJ4RC12ZnB3Ul9pWWRmcEx5TjBkLVpxTXluMFdhT3RoOWlXSnFXOE95VzBGUERUc2hma1ZRamJWNWM1QlRkZkg0M3dKcl9EZUpRbjJxS2IyMjZQZnpnaDVreVhJbjVNbg?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "Lindy Duncan delivers clutch shots, gets first LPGA Tour win in 222nd attempt - Winnipeg Sun",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaThQZWRfZ014Yngxc29pOFVob3FGaklaaWZneUo2b2NOOUN3NHdWQkJSNTFqY29jMjVrOHkxcVc4VXNWN09PZ1BlclN0M2dYb0cyUkV3ZHdneFd5VnRjclBnblpFYXFDRV8weVJZOUctaHlaWTRIU0lOMXBMQXAzdzNkeGU3djg2WHNLTHgzUzlWVFJ4SnJvV1g3UTRsUVlaelJpc1NRV3FtUDlualNZdVpRTWJ4aG9JOXllQmo4Uk9BQm1jbkZidy15MTNqUEY2dE5MRUE4M2hfYVQyQmJ0V240VHVWMzlPUFZJUElZUldnOTQ?oc=5",
-        "date": "2026.11.16",
+        "title": "Lindy Duncan Gets Long-Awaited First Victory at The ANNIKA - LPGA",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVJrdUlBZlR5YjFGQzA0eDNOQWVSVXdxZ0pMRGZFVGFwelZXWWJEdnhLc2JpcnM0MzRzbEpIWTZHbTc0S1ZxRVJSbEhqbU83RTVNTktDTGZkTlc2eTA4TWNsZi1aX18zVEV6RGk2Z0ZTZnljRzV6RGx5bGhadHVQWHA2UktRX2s1ZUZwbUFrcFk0aG8?oc=5",
+        "date": "2026.11.15",
         "source": "google-news"
       }
     ],
@@ -1143,129 +1336,135 @@
     "make": [],
     "n8n": [
       {
-        "title": "n8n, high-severity vulnerabilities flagged by ACN - Meteora Web",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWY1OHF0T1hUbDRHamRmdXh2LTJzVEpJbzhvVkNNbm55OG85SGlwSlR5RlRkOVA5Rm1FSUVjd1k4bDNfVVFzZGNxTkJXcDJtQTl0Vm00cHF1UGdLVkFJWDN0ZldsaXFWRnIweE84Mm9KV3o5LURCTEFyYjlCbW1sQWtNdXZJbGxqbXhOM0hCNHBBaWhIV0o4?oc=5",
-        "date": "2026.11.14",
+        "title": "Hostinger Managed apps: How to set up and manage n8n - Hostinger",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTZscFFNUnNTWEhzS2VyLXBfbXdYV1NPUU1UdnY0VmczUmpDMUJfbnVKYmZ5Q0hYNG5tbXJUZFlFN0sxbTgxOTZpRks1cXRvWV9YWFJWOWllZnlYWExPbFRwZUgtM3N2X3dfNEJycDE2N2FwOVF3eDA1WndNcWlYdlJxclRkV2RaQVBqS1RVbw?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "n8n hosting Black Friday deals 2026: Sale with up to 70% OFF - Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRF9tM0FpQklFTTZtZDdqblBnQU9MdEJiZ2xmYmNpUHJsM3hOeXJIa3lNMHRCNGRxaUJJcXJabDJTRUVFTzhMaEtIeTdvcG1taWhfVUkxbU82azd1TlUtQV9WdXQ0dDRyMWM3WFVCWVltam5DVHp0YkR6WUxhZHY3OEVwQjA1T2RVcXRGTnJLb0k?oc=5",
+        "date": "2026.11.20",
         "source": "google-news"
       }
     ],
     "coze": [
       {
-        "title": "厉娜帮许飞系扣子对话细节：两人关系变化了吗 - 新浪网",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy1MUV82eGdZbzRHYjE3WFV5aFF3R3lzMGZuNHdhdTJSRWY3b1k2QXM4QUdXRGVueVRwVEVyN2tydW1PVVRpWl9QVURQcGFKQVRQVzhZRVRsSmpxdlRreWtZRlhpWVdyV3JTWElNamVwSWwwODRvQVFsc1p6MkY2Z1ZfTmJlWFFodEtyNFhRSlJWYXowa1d2MkxlZ3Y3MXJKR0Y5MXNvVFo?oc=5",
-        "date": "2026.11.12",
-        "source": "google-news"
-      },
-      {
-        "title": "吉林省举办“系好学术生涯‘第一粒扣子’” 专题宣传 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjJOQ1hXUmpKMGJDa2FxVk00cnNyaTVnUUxzNTFsak0zbjFxTDBXa2xFbVlCcFN3LUo1U01nOG90d2drNUp0N2ZveFB6Zmg3Y21EQXRMNV92RTVVRXRPM3ZxTHhVcTBzSUstNVNScW9tc3JWYjM1djdUS21IdDhOMlZYRjgwYlE0VjlZUQ?oc=5",
-        "date": "2026.11.11",
-        "source": "google-news"
-      },
-      {
-        "title": "扣好“第一粒法治扣子”！任城区检察院校园普法巡讲首站走进唐口中学 - 凤凰网",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ed21IUEVOYXBtRTA3eTVGMmJzNXhuYUh6d3NDWUZYUFBTR2M5YmFETGl4NzZmdy1HbU80N0tLbE1Kd0JaYjd5RTU3MFA?oc=5",
-        "date": "2026.11.11",
-        "source": "google-news"
-      },
-      {
-        "title": "【扣好人生第一粒扣子】一堂跨越77年的思政课：柳南区在军事博物园开展爱国主义教育宣讲 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME5oclQ4Yl9OblhZcGtBWFpuMDN2UEphTl9KLWNjTWpveExSWFo3Sjh6OERjNk9tSElYOXFPcm44bWMwdE90YUFHWk1keHVVMUx5dnBBQXl1S2pSMGtUdnh3ckRMUGcyZXA0WkllLVFBZ2RaTGxzVlM5cGdXeFFJanhHZjlvVHd6ZTNBMw?oc=5",
-        "date": "2026.11.10",
-        "source": "google-news"
-      },
-      {
-        "title": "系好职业“第一粒扣子” ——八角社区卫生服务中心开展新职工岗前培训 - 北京市卫生健康委员会",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpc1BGRnRieEp0RGVkcF9wZlhxYTZ2TDNHNUxaUUFyUnlzX1h3VDk2RXRnV1V3X1VqUW4tenNlSmF3X1Z5X0ZzV1FMNkVfaDNCS0xRdHVxSnpRS195VW5MMk9BLUVxd0hOYjcyOVFiaTdrTV9LV2NfN1Atc1k?oc=5",
-        "date": "2026.11.06",
+        "title": "档案助力扣好“第一粒扣子” - 国家档案局",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmI3VmF3R3VEVWRobHo1TzY1UlhJWXExejUyLWM2SHZwWUxiamxPRl9oQldfOHBaU0tiNlZwSnU5TXNwcmtVSHVMaFVJOXVVc3VSQjZJSERVSDZsUjhqWlF0QVczU1dpOTBYTE9SMmZ2djFJSjI5cEI1N2tiZXVIVFFqRWt3MVJk?oc=5",
+        "date": "2026.11.23",
         "source": "google-news"
       }
     ],
     "dify": [
       {
-        "title": "AI agents are hunting exposed LiteLLM and Dify tools for API keys - Tbreak UAE",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OY1ZDX19XMlVzQWdmOWpQdHNSbFVIYkhUR2FpaVVfYWV3bHBDLVNpNC05NWE3OF81aFFILXNtYzhTQnIxR1VENjltUXV0RGNZZjYyZlU2b2NJSUE5b211bldGLUZpMTg?oc=5",
+        "title": "AI agents attack LiteLLM and Dify to steal API keys in the cloud - Foro3D",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDFfYUhmWkNVYnJCRGtuN3puSF9sakVVLXdDWF9fSDhWMDB6Z09oeW9RYlBiWWhNa2FDLUFLU21lLUJEWTdqcXl4dGYzd21jeXI2N0ktVkFoeFRkSzU4dk0xR2swZHNkRm1XX3NuV0JGQ3JOLTZZRmlNdWs3cHZzV1FQMWc2WWdoYkwyYl9sMXlOZGRzYVFBQzUxVm40SzFJLUt6YWtBVWs1d0diZ0NUVHdR?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      },
+      {
+        "title": "Amazon: AI agents hunt exposed LiteLLM and Dify keys - 2-Spyware",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nT2RVLXhlQ0E2YkE4TkNnaUk5M0pSYXlIelY2UG1ZTkhURUV5Rm8xaXhPN3VtOU13dWxCUTdReTFsR194QVkzaXhMa3poMUNoeVFNY0NNMGFrSjVDTFF6c0wyeWYzTEZyWVFtR3R0SUM2SFF4?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       },
       {
-        "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys - The Hacker News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOYlpIS0J3MVBzZnhFbjZtTmx1TlBnRE9BOGpwelVBSUJDQi1YU3ZTclJFUGgxV1FpcDdQQXlRTl9Tald1LVRZeVpkb282ZHBSX0tXemdCWlkzbkxWc1lZczlJTGxhTXFHclVJOHpEbG9hNUdILVYzU1NHeU4?oc=5",
+        "title": "LiteLLM & Dify: AI agents steal API keys in major campaign - SecNews.gr",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oQl9vRm1XUW1tUzFZeVV1RFJkMWJIeHptQ1JhTEF0WEllcVJsMmZqUERpejA1UXNjcGNZUjJGWGVkdy1iZ01BMVN0ZzRTT3VxMnpUNjF0bnozWVhjendMUlNfRm9OQzBKZFQzd0ZuOXRsTGtMd3FiRkQybw?oc=5",
+        "date": "2026.11.16",
+        "source": "google-news"
+      },
+      {
+        "title": "Amazon warns stolen API keys hit exposed LiteLLM and Dify apps - Softonic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0MxYkFnXzF5SkRsTXhWSkU2clB2R1FsYmpSUlRmWUxkY0dLN3RpaWVpSVI2WWo4X2JkWUNXVDBwUFMyeGNFMDRvVFI5X2xzMmowa2Z6ZV9vVUtNNDExcEhYR29ZdGdWQ0VKbkFhUTZMMjJ6RGVnNzVKVzhnRFRoZmw4Z1FNaFRmM2Y5VHMtaFZ0SUFzNGhmYVdqYw?oc=5",
+        "date": "2026.11.16",
+        "source": "google-news"
+      },
+      {
+        "title": "AI agents are hunting exposed LiteLLM and Dify tools for API keys - Tbreak UAE",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OY1ZDX19XMlVzQWdmOWpQdHNSbFVIYkhUR2FpaVVfYWV3bHBDLVNpNC05NWE3OF81aFFILXNtYzhTQnIxR1VENjltUXV0RGNZZjYyZlU2b2NJSUE5b211bldGLUZpMTg?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       }
     ],
     "autoglm": [],
-    "replika": [],
-    "xingye": [
-      {
-        "title": "尚界Z7T星野套装即将上市 11月20日与享界V8同场发布 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SaHN4Sm9uOXdxT1ZyWVJQNGRZVERPN0NfYlBKQzZwZFpfMVFWWDladHNfRGE5d0VMMUptZ3FzaVQ3MXNoRnhHSkVpTk5tVTUxaGlyUzFNc19idl9xbGV2MGtBNWh5cHhZa19nY0NidS02RTJjeGIydDNvVzRHV00?oc=5",
-        "date": "2026.11.11",
-        "source": "google-news"
-      },
-      {
-        "title": "尚界Z7T星野套装实车到店，新车将于11月20日正式上市 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9odWJiVVcxMmhQXzU0b3Q1LUJPTC1xdmVGbmZkWkNOVjFDakR2dGFOeng2dU1iNWdGaWtKaXBjUUtDM3RZOVEtSV9zVzF2THl0SlJHVUdKS3otT09ZMkZqRWJ4enBqZFltUjJJ?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "尚界Z7T星野套装实车到店，猎装迷们可以动手了 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5haTFsWHNtdEZUdTRtYjlDQW5UQWZDdVhRQ1k3andaQkRUa3VQUC1pd2tXUXhhQk9xekV4eU9adm90eFZRNEdRVHFwWEdJT21saTR5b2tmLThhdEhlUWZoWVVnMUVlTXk5eWgw?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "尚界Z7T星野套装实车抢先看，11月20日就要上了 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tbUsxM2hnNDRnSGw2dndMeEpvcjFCZUxUN1NZRnc2M2dZeDVUTHdpVl9xWmpQazJaejZjRFFFUlZ4aEdwMFIzc2FuVnZxMUhocElVX2RCT2lNNFU?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      },
-      {
-        "title": "尚界Z7T星野套装实车图曝光 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84LWozVHFuMkxGSTNMTDdsdkN6dzczRWs2UnRoM0xuMzRSejJXeDd4cl9JLVM5anEyUm1CamUtYXJoMVZ0SmtzYm1IVEh1bHZDM2JoV002S0lNWTg?oc=5",
-        "date": "2026.11.16",
-        "source": "google-news"
-      }
-    ],
     "characterai": [
       {
-        "title": "Character AI Outage Today: Is Character AI Down on November 3? Users Report Login Failures, App Loading Issues & Chats Stuck on Generating | Check Downdetector Status - The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNOGljOUZsWjJ0MWJ0eU14eWl1OTdaYW9nVWZEelJZZWIyby1jSHp5eEVhR09XN2FRV3dwVjl6ZlFfYXU1X2RPV3dGQVpfaGNldVB4MmJjcHVOazJLdzFWc1B1ZjgwZVRpZEJGeVVUalNpM01ZRS1lbC05cFZIZnBQSzROV2M2dk5KRFhqRTlfNlFnQThkcHZOajFSaDJzRlU1M1lOSWs3Wllwak9HNzRmRDJCa0ViTmNoYzBjMWpBRFdjcGd3NkZTS2Y1NzAwbElSeHhhbEhnUXBHb3dTcTV0eHpYMi1UdzNsNGFrSWNJQnAxTjkwYWF6aWRLQXNaZnNDbVJ3NEpnTklHREx1cmVqempiU25mLW5fS2VDa3c1aW9jcGtHNEJ3ZHFjUnhELTJa0gG2AkFVX3lxTFBXaFlmZ2dXMEJRLXgxM2w3eWdXUll6NFA2WXZYeldIOFJUeS1uV0tFSkkzVUo0aExLTHNSUGFIN1I1azRDa085RVp4a0hYbDIyNmNGaklEbGh0bmdJVGlRckI1TTJWNUdfTEN6bm9ON0hDeDZsU01xbFFrSGJRbkV4ZVREMkpWcnBFS3lQNy1lRHZXOWlydHJsUmlhTHZoa3dBNkRTeko1QlYyWjZhQTVzYWYyemNNaHNyS29DY3JtQWRWckVXNzlkUnNRYW90eWlZVkNHbVc1Y2NOZjM3QnZPaXRuYXp2WTNJT00yaFlyZ05aLUphWVJGZ0xDSEw5eFZhTDJFREJNekpHTFhpOTJELTluSXZ5MnliV2ZVOFB6U1g1NTFBSGVrd1dnNkxGMWpCNGxVcmc?oc=5",
-        "date": "2026.11.03",
+        "title": "Why are 39 states challenging Disney's $20 million Character.AI deal? - The Mary Sue",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd0NvX29PdWprZlFnR20yeXBUb3VZZEFwV3lzSGRGM0RFcGh4bjNjdEtybkwxT0M2b0FRS2VkbEpVZENreDE1TkJGbkpkUk5pWEM1UnM0REpvNnZYWk9lZENmSFN4Z2tkSmJ0VllSYmZOZkZyaDVFRnhSNnQ2VGdRbTFwV3czV1JFNldfSjFEVzQ4SjNiTjctUUMtWEtScXUxbkVDS09BWjFjQzlpV2o2d2M2QTlPTGN2RTdoQkEwQ1g1dGF5X1Jwell0Vk1VYnhyZkFoR05nb1BfZmtrZXFpS1BsbG8xRHloQVd4VVJXZG85Qk4yN2ROaA?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "‍‍Character AI Free Best AI Chat Experience and - Comité Asesor de Vacunas de la AEP",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMS1vZUMwNWpsNjg1M19DNUo0N2Y3cURueGNLUnByTkVUbGxHOW5YS3Z2R0VPRjZObVI0NGFqd2ZKckZjaEdMeDVfalZLVUV1M3ZlQnppYXdHX2RpaktQQnNCdS14ckluWmpvS2pDWkQ4WGJ1bzROcG54YXA2Y2JhUkxST2NjWnNreTBzeDU2LUZrUzZuLXZwTVFOeUUyMV9yUDdtNTliM284RnR0U1ZBT3ZEVm9QQUVSMGhsQW1XZjVUUVA4RkhJeVVZSVJNa29fMXpsUndVWDNKcXlIZ3ZmNUxMdHpWbWVvYk14SlhycEZ6Y3lCODFsUDBVM0pfZGxLb2l5RzJkX1RGZGN2Uk8waEI2UXBCY0g0?oc=5",
-        "date": "2026.11.15",
+        "title": "Court Orders Privacy Oversight of Character.AI Asset Sale - MyChesCo",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zSmV1LVctWUZpZTR1c3gtNVJyUmx2dHB1c2p1aHd4UTBERkpzNFFQSnlSdFhlUXRWLXRKOVBXTWN5V3hsMGtHdUl3?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "‍‍Character AI Unblocked 2026 Get Access Now and - Comité Asesor de Vacunas de la AEP",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeThrOUg5NklnRmxGbjJVUXhlSW02cEZBbHNtck1UM2dJalpmTWl1ZklmRTFwUWZwaThPWlg3VkJDTGF4N2xEMlE4bXczZ3Naa0pJQUpzRTFSTHNDeVpiOXgxOHBsNW1FZWhHX3pqR1QzVlIyV0VTZ2o0aFdVa0JBWU1FakszYVZ4eWYxVDl5S3BSRDFGSUR3VHFCa05xOUx2MUI1eVVhVTRqV050Zzd6M0c3QU94Z1hyOHQ5Ym01S0lwMFVmZ2dXdC05cC1jSTNPTUM5eXg0NGtVNXFNenVHMlFMcVA5MENWN2YzZndzVHk5QUF1TFNSUWdod3dXZV80MGUxTUJsMjh6X2lwMktHWW85U2x3ZTRU?oc=5",
-        "date": "2026.11.15",
+        "title": "Attorney General Sunday Ensures Watchdog will Monitor Children’s Data During Ongoing Character.AI Bankruptcy - PennWatch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVJoM0V6U1d6SE9KNWZRQ1hnUG9rc1FnU1lRTFk1OXFURUNZMTJKVk9GQWUzSW5GUFZrZWtqdFpCYmthX1MyWk5Vb25LS3dpaDF0UzFXZzYwSzF5Q3dSbGxSZkFzM0cxM3N5MmRfa19IWnBjVzBucEhHRmE2NVU0Rm5sejM3TG1Dejh3SjBxOXRkOGQwNWt0Nzk5OHhUZC1FakJnTm9oTFpXcFlWWDgxMC1MZ09DNnl5UDgwbUtTd3hiblk1TFNNcmtB?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Character.ai Chats, Models Face $10M Sale to a Day-Old LLC - FourWeekMBA",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWE1UcTkzTzE1V0VDTm5hUXc4eEd5VXVrdDN2SC1kQk5XZE9hMmYwRW5SQ0xueDVEUWJCVGxwZ1llUDZGWTViQ3NRU2JNRnJCa0w5elh4MS1TTTNQckl6RzhsdXh1bHRYenI3amdESkpiMk1vZW5EN05DT2lmeXkxVGhkZWJHak50c1U0?oc=5",
-        "date": "2026.11.15",
+        "title": "$20M for Character.ai, $180M for Its Staff: 40 States Object - FourWeekMBA",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS1BnbFRHeVpTbnVsbDd3T3Y1elVtTHI5N3lpU3NxbnN2c3hwRXE1TU9obWpjN0RiQnRTUXZoOGhlWjFnMWVWbTY2VTZUZ1A4SEZQeU1RT1hjOTczODlGWjhENnZzcHNIZkFJUmJ3N0xkcjAzRjVSVk9HS0VjQk1UQklMbWw0Nnk3Qkow?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       },
       {
-        "title": "Character.ai users' chats face a $10m sale to Smirks and Pangs - PPC Land",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2FhUUoxMDlDdkJPZTJnZXNQOEJzOUQ0dnVVbF9SRXUtbU1WdDg1dTRZMFB6NVRqM0R3VEVOYzJvQkZpc2FmUFl6eThKTHhXYTBfWXlfSlFGdUJKejg2ZmdLMTh4WGxKSEs5RU5KclNPUVFxZlpiSlUxMmhjV1M5MkNiSGo?oc=5",
-        "date": "2026.11.15",
+        "title": "42 states and DC ask court to keep chats out of Character.ai's $10m sale - PPC Land",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQW9SbFdSRUc2SzdKcG9jRENpY2Vqb0p5Mkk1R3hxZjFHLW5SVEVmN19ZZ2QxdHRVRUQwM3p2VWhkUnhHLUJTM2I0TjdFb196Z1ozWWlxMkpSSFU3QWRqWGVkOVFNeUM0cDNiU0RnVW5uUmtkVTI2RTBlTUQzcTdsNGdmNkRGQXJvSmdxR3RmQ2VPUQ?oc=5",
+        "date": "2026.11.22",
         "source": "google-news"
       }
     ],
+    "xingye": [
+      {
+        "title": "31.98 万起享界 V8 登场，尚界 Z7T 星野套装同步发布！ - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sN0plZHItd2lKSFNKaDYwUDM2b0huSVhLRTRYY3hBY0VjdnVkMlpzV3hhQXBpdnI0TThrbXQ5RmtPbzYxSmlZVWtSM1R2SVdBdm9lZUttcXhfekE?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "【视频】轿车唯一C-NCAP超五星认证，尚界Z7T星野套装给年轻人猎装新奢 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSE8yLWExQW9kVXlveEl1elZueW54MnY3S0dxeHVVS3dpcGZlZzhrMGg4ZFhqaVpPX3J5Njg2NnFmTzVjdms1MnM4MDFZNzJvakE0T2RfbjhPUmc?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "27.48万起！尚界Z7T星野套装版上市：CLTC纯电续航最高818km - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemtJYTFFY3RGWTBCdEEzS3g0SERFdGw2R1pqbFBLYmZfS2RycDRheW1WMVJuTEdzbmdJRmh6cklzdzJTbzl1dU1YQTc0Nnp2MWEtVnp0U3RKQXRYSDdIczVhQkFVYm15WVI0dzg5SnZEWXRZb1E0ejUxaktnbXFHWmwtNGtaLWZSbzFxdQ?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "福聚星野·蛙鸣丰年 新洲汪集洲上村药膳福猪宴激活农文旅康养新活力 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaG9YczhaWmM2Uy1waUhRTEdEWFNROG5XN2ktVDltUHVrNjJKVTNucFJ3OXg0dlhlVEJWZzU3QnB0TEtRcVlXWS1OTGhvVHFvT29QMVdmNEtzQ2s5T2hLcjhMTFhheC1FWnd0WXRaai14cThFVHdDLXVwN0ZIeWdDakd2ZXZPbEgx?oc=5",
+        "date": "2026.11.23",
+        "source": "google-news"
+      },
+      {
+        "title": "20万级猎装新答案：尚界Z7T星野套装把\"有型\"和\"能装\"同时给到 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVGt3TS1pcm51b3MzM2duVUFfMUtjQTZPQ18wUVBEaURoRFRFeFJ3TG50dDFUc19VTXI5LXVERXZHSGpUNEgtakF4TG5VSDNnSTlNQWhIYzNuTmc?oc=5",
+        "date": "2026.11.22",
+        "source": "google-news"
+      }
+    ],
+    "pi": [],
     "talkie": [
       {
-        "title": "‘Walkie-talkie and paper just doesn’t cut it anymore’ - cedarnews.net",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORllEeDhqSFRuTVRya1FHX1c4SHlibjBkZVRJOWtvUVp3MExjSFpZR0hKMmtrTkVmSHVBVHFBUnNGWjltbjJsTlpQQkFONTlGOGxaaFB6N2N2ZDN3RnR4RndFOHkyQ3QyT3BXdXJZdUNsQjhZd25yaDZsSDRMWEYzQmRaUHdTUQ?oc=5",
-        "date": "2026.11.16",
+        "title": "Lehmann addresses infamous walkie-talkie exchange in 26-minute grilling - Nine.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGprQTVENjZ2Y0dqaHprS19Ud1VZWS1VWVF0VGJTWm5mTVV3b1VzQUlzT2NwWmJsOVlmWmdwSDJBLVFaNGliOF9Lc0duQk52bTJqbjJjS3AyVV9kMHV0Q05ib2ZkNnhTWl80bDZyZ0FDcVN2U0MyTnVUaUh0dWtkUV8xT29jMHM0RUx0S0xTcnhFdkJ2UDEtM290QjRxcTU4akVtVDZlcFgyT3VjNzl0Yzg5VjBfWGQwQjlUQkVQX1hFTmZwTTVKNHZ0RWVQbDg1bmZ0WE1QbkduVFp0UWxoWQ?oc=5",
+        "date": "2026.11.21",
+        "source": "google-news"
+      },
+      {
+        "title": "Xiaomi Walkie Talkie 2S gets a new orange colorway - Gizmochina",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTdTa1hZckVPOTZyeENwcFdpT2piRHNYamU5YjVNYVFUUENxT2ROc1ZVc1VEQy1rek41ZHJxTWZQOVZSaXIyM0FWMUhsX3plX2hoOTJQSFk0YmxwV3dReEhESF92S2VCZUo1TW53TTZobm52TnN2M1FTWE5RUzUxd2trT2hZdjlIOEFjWG9mUm94bm5WaEdzR2xOb3A?oc=5",
+        "date": "2026.11.19",
         "source": "google-news"
       },
       {
@@ -1275,61 +1474,57 @@
         "source": "google-news"
       }
     ],
-    "pi": [],
-    "maoxiang": [],
-    "kindroid": [],
+    "replika": [],
+    "maoxiang": [
+      {
+        "title": "AI陪伴产品付费模式：猫箱星野记忆包与UGC分成 - https://zgeo.net/",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10b25TMXlOMUVFbXdxMDRvYU43NktPZFlwR1A1S3BiSGk1YmZvQ1ZqUGVzTDB5MFFhQU5SR01wczhDenpfRHRpYlVwSUpqSnlNTnRBRjYzNVg2TktjR3FXRmxPSnpUSXlSVnc?oc=5",
+        "date": "2026.11.17",
+        "source": "google-news"
+      }
+    ],
+    "kindroid": [
+      {
+        "title": "Kindroid – Customizable AI Companions, Conversation Memory & Voice Calls - Quasa.io",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXcwSUxSbjFtTlBlZTZaYWkyajIteVBtQU5vZVByUG9uYm1oRk5xdlBKMm5kUFJCQzVrWjFmaEgyN2V1bkk2TU1XN0RjdDdSMVBxd2xpS2JidGlpYWhJeFdyQjhEUXJrWVZLRGRhMFZUdk04NUJTRG5Zd2txcjdQUkxkRTZ3V0VPY3FRaUYxQXNwdHBO?oc=5",
+        "date": "2026.11.19",
+        "source": "google-news"
+      }
+    ],
     "nomi": [],
     "harvey": [
       {
-        "title": "Addleshaw Goddard and Harvey launch firmwide collaboration to shape AI-enabled legal delivery - Harvey",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDdkVDJTaVliVlNQSktYdVNGbXNmQnlhSjk4YTI5N3lpczMtOGlIbUxtWTJncWpyRmVFMXZpdGlGSGgzZHZKRlh2dDZYeWFSei0tY1FXQWpWc3dDaldaWTcyOERRbnFmOU1DbWQ2c3laTEJxT2dfR1hOSkptNjZ2eHNYTEp2WVBvNEhzdXFuM0FOZXdZWnpsaTNXcEJ4SUhMNzlOTl9vTDY3YWVNRjJrajVGbTg5LWJRSG96MQ?oc=5",
-        "date": "2026.11.09",
-        "source": "google-news"
-      },
-      {
-        "title": "Wotton Kearney Adopts Harvey Firmwide Across Asia Pacific - Harvey",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXVaTW1EYWRqN1RET0UyNWtJSHJRLTR5NHBOUHgyZVRiRlB0NDhUVHppcUpjYldoTV9ZUi04UlpLamdvQ2FwZmdERHE2eGhSWnFoSEs2MnQ1ZDZ2TzZoWWE3V0V1NDY1bDBvSTdyeXgtNUtXNzRBcXNndGFoME9abkpQNnAtel9xSWRHdg?oc=5",
+        "title": "Harvey’s exhibition of courtroom sketches puts a human spin on legal AI - Ad Age",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEgzZ3pLc0kxQlFJSmRWdjhOaF9RS2JOOVBxTkR4eGwwOExPRDVlYzhYdEJEVXNlVVlrMno1bGx2M3BmalJ0MHNxUktpV1dkLWZyMk1aUnhDMjdfTGlqUWo3RHp0MFFzN041SHlOcGVGRE1nbFhDNFU3QWZsdy1yVDAxSlRSa1FzU2xhaHhQYlhpalh2ekVzdGZR?oc=5",
         "date": "2026.11.16",
         "source": "google-news"
       },
       {
-        "title": "The Amplified Firm: How Mid-Sized and Boutique Law Firms Use AI - Harvey",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkJnZnNWYTZvUVpYSGVQUlJsZXkxSmlLendSb1NWWUdpOUV2SWNOSE5ZcXRSY0lLaDRsa0JReWt0UlVfTHZXMjNBQ2lZcmxYZUo3eDE1NE9wX3VBNXFvcEtNek9YTGIzWlFkNkJ4TXF3MFNtWm8yd0pxSHZiOHZzdlo4WS1fanE3OXo1NnB1TQ?oc=5",
-        "date": "2026.11.13",
-        "source": "google-news"
-      },
-      {
-        "title": "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
-        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110",
-        "date": "2026.11.04",
+        "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+        "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+        "date": "2026.11.17",
         "source": "hn"
       }
     ],
     "khanmigo": [],
     "duolingo": [
       {
-        "title": "Prix Duolingo 2026 : quelle offre choisir pour payer moins ? - Spliiit",
+        "title": "Duolingo 2026 Prices: Which Plan Should You Choose to Pay Less? - Spliiit",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VcVItYmpHRThON1AzU1VFS3JyNXpfR0FVWjE1Ul9XbnFBRmRoZmlRRmhOZ29XRHBIRTZPSkdVSXd2RG5LbGVacGIxdC1jVkRZbzFQWWVuMm9VV1hRT1NmYlZGRQ?oc=5",
-        "date": "2026.11.13",
+        "date": "2026.11.16",
         "source": "google-news"
       },
       {
         "title": "Duolingo CEO Luis von Ahn Is Trading Premium Revenue for Scale - Observer",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2E1WTRNZnZGdDMySlN4YXR5MEJFR2FILXR1anJTajFaWE5qLUxycm03T0dNSnZidW1sUEFGV3lyd1VUN0EzTDJ1Mm9zMFNUVG83VHRISUFMWDJxX3dHM2dXZnZoMW1WMjA3dm1CMFpDdnBCUTJWZW1KY3dINnRBaEVwS3U?oc=5",
-        "date": "2026.11.11",
-        "source": "google-news"
-      },
-      {
-        "title": "Duolingo ending its highest paid tier as AI costs plummet - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDYzZ2w3V25nWGhUQWNPakVnNzd0ZGltMHVtMWk1NmlBcS1Tck5FSGxDdWxiQ1JNQ0kwckVLRFpwWlMxb01LOGNQUnp1WGxZOXhBa0hGYW1UcXh6bUJobFNRMUg0QUgxODJ3ZmVhTHRtb0JjbzduU2RUazlDaEEyaHBfYzJMNzJ5Vl9DRWdWTFkwdVpHbVFtQ05LLVJBbFlnazVUcg?oc=5",
-        "date": "2026.11.04",
+        "date": "2026.11.10",
         "source": "google-news"
       }
     ],
     "speak": [],
-    "hippocratic": [],
     "intercomfin": [],
-    "miaoya": [],
-    "aixtv": []
+    "aixtv": [],
+    "hippocratic": [],
+    "miaoya": []
   }
 }

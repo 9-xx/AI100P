@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "dryRun": false,
   "totals": {
     "products": 100,
     "auto": 0,
-    "suggest": 11
+    "suggest": 10
   },
   "auto": [],
   "suggest": [
@@ -52,11 +52,11 @@
         "name": "网易天音",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 10
+        "quietWeeks": 11
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 10 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 11 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "video",
@@ -66,11 +66,11 @@
         "name": "TapNow",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 2
+        "quietWeeks": 3
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "design",
@@ -80,11 +80,11 @@
         "name": "Looka",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 2
+        "quietWeeks": 3
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "design",
@@ -94,11 +94,11 @@
         "name": "Lovart",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 2
+        "quietWeeks": 3
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 2 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "agent",
@@ -108,25 +108,11 @@
         "name": "智谱 AutoGLM",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 10
+        "quietWeeks": 11
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 10 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
-    },
-    {
-      "cat": "companion",
-      "catName": "AI 陪伴",
-      "out": {
-        "id": "kindroid",
-        "name": "Kindroid",
-        "tier": "watch",
-        "score": 0,
-        "quietWeeks": 3
-      },
-      "in": null,
-      "auto": false,
-      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 11 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "companion",
@@ -136,11 +122,11 @@
         "name": "Nomi",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 3
+        "quietWeeks": 4
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "vertical",
@@ -150,11 +136,11 @@
         "name": "Hippocratic AI",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 3
+        "quietWeeks": 4
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 3 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 4 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     },
     {
       "cat": "video",
@@ -164,11 +150,11 @@
         "name": "AIXTV",
         "tier": "watch",
         "score": 0,
-        "quietWeeks": 5
+        "quietWeeks": 6
       },
       "in": null,
       "auto": false,
-      "why": "观察档已 5 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
+      "why": "观察档已 6 周几乎无资讯，下周若同分类出现强信号新品将自动替换"
     }
   ],
   "rules": [
